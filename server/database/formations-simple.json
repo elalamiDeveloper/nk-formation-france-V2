@@ -1,0 +1,2388 @@
+[
+  {
+    "titre": "Formation Excel : De l'initiation au perfectionnement",
+
+    "duration": 35,
+
+    "public": "Tous",
+
+    "preRequis": ["Connaissance de l'environnement PC"],
+
+    "objectifs": [
+      "Connaître les principaux outils d'Excel",
+      "Pouvoir réaliser des calculs et utiliser les formules",
+      "Savoir manipuler les graphiques et les tableaux croisés dynamiques"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Découvrir Excel",
+        "partieChapitre": [
+          "Présentation d'Excel et des autres outils de la suite Office",
+          "Exemples de réalisation avec Excel"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Prendre en main le logiciel",
+        "partieChapitre": [
+          "Description de l'interface (Ruban, Barre d'outils Accès Rapide, etc.)",
+          "Structure d'un fichier (classeurs, feuilles et cellules)",
+          "Créer un classeur"
+        ]
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Gérer plusieurs feuilles de calculs",
+        "partieChapitre": [
+          "Ajout d'une feuille au classeur",
+          "Renommer une feuille",
+          "Déplacer une feuille (sur un même classeur ou dans un autre)",
+          "Identifier une feuille grâce à une couleur d'onglet"
+        ]
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Travailler avec les cellules",
+        "partieChapitre": [
+          "Les différentes façons de sélectionner des cellules",
+          "Insérer des lignes et des colonnes",
+          "Modifier la hauteur et la largeur des lignes / colonnes"
+        ]
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Appliquer un format aux cellules",
+        "partieChapitre": [
+          "Mettre en forme le contenu d'une cellule (police, couleurs...)",
+          "Appliquer des bordures",
+          "Gérer l'alignement dans une cellule",
+          "Fusionner plusieurs cellules",
+          "Appliquer un format de cellule"
+        ],
+        "atelier": "Réalisation d'un tableau simple"
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Mise en forme automatique de tableaux",
+        "partieChapitre": [
+          "Création de tableaux",
+          "Mise en forme automatique",
+          "Création d'un style personnalisé"
+        ],
+        "atelier": "Création d'un style personnalisé et application sur un tableau"
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Intégrer des illustrations",
+        "partieChapitre": [
+          "Insérer des images (locales ou en ligne)",
+          "Ajouter et modifier des formes",
+          "Insérer un organigramme"
+        ]
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Mise en forme conditionnelle",
+        "partieChapitre": [
+          "Définir la zone d'application",
+          "Utiliser les règles prédéfinies",
+          "Modifier une règle existante",
+          "Créer une nouvelle règle",
+          "Appliquer à tout un tableau"
+        ]
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Les opérations de base",
+        "partieChapitre": [
+          "La barre de formules",
+          "L'addition, la soustraction, la multiplication, la division",
+          "L'intérêt des parenthèses",
+          "Appliquer un calcul sur toute une colonne"
+        ]
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Trier et filtrer un tableau",
+        "partieChapitre": [
+          "Appliquer un tri sur une ou plusieurs colonnes",
+          "Modifier les options de tri",
+          "Appliquer des filtres sur un tableau",
+          "Se servir des filtres avancés"
+        ]
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Imprimer un tableau",
+        "partieChapitre": [
+          "Gérer la mise en page (marges, entête et pied de page, etc.)",
+          "Mettre à l'echelle son tableau",
+          "Gérer manuellement les sauts de page",
+          "Définir une zone d'impression",
+          "Définir les options d'impression puis imprimer"
+        ]
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Gérer l'affichage dans son classeur",
+        "partieChapitre": [
+          "Les modes d'affichage disponibles",
+          "Afficher / masquer des cellules",
+          "Effectuer un zoom",
+          "Figer les volets"
+        ]
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Exploiter les formules dans Excel",
+        "partieChapitre": [
+          "Utilisation d'une cellule référente ($)",
+          "Rappel sur les formules de base (SOMME, MOYENNE, MAX...)",
+          "Les formules avec condition (SI, NB.SI, SOMME.SI...)",
+          "Les formules de date et heure (AUJOURDHUI, JOURSEM...)",
+          "Les formules de texte (MINUSCULE, GAUCHE, CONCATENER...)",
+          "Les formules de recherche (RECHERCHEV, RECHERCHEH)"
+        ],
+        "atelier": "Réalisation d'un document synthèse avec les principales formules Excel"
+      },
+
+      {
+        "nbrChapitre": 14,
+        "titreChapitre": "Utiliser les outils d'audit de formule",
+        "partieChapitre": [
+          "Créer des zones nommées et les intégrer aux formules",
+          "Trouver les antécédents et les dépendants aux formules",
+          "Vérifier les formules à la recherche d'erreurs",
+          "Changer le mode de calcul de son classeur"
+        ]
+      },
+
+      {
+        "nbrChapitre": 15,
+        "titreChapitre": "Créer des représentations graphique",
+        "partieChapitre": [
+          "Sélectionner les données à intégrer au graphique: Choisir un type de graphique en fonction des besoins (histogramme, courbe, secteur en 2D ou 3D)",
+          "Définir une disposition rapide à son graphique",
+          "Ajouter des informations complémentaires au graphique (titre des axes, etiquettes de données, courbe de tendance...)",
+          "Choisir l'aspect visuel de son graphique via les styles"
+        ]
+      },
+
+      {
+        "nbrChapitre": 16,
+        "titreChapitre": "Modifier un graphique",
+        "partieChapitre": [
+          "Appliquer les mises à jour d'un tableau aux graphiques associés",
+          "Modifier le type de graphique",
+          "Déplacer un graphique au sein de son classeur",
+          "Personnaliser le style de son graphique",
+          "Intégrer un graphique à un document externe (Word, PowerPoint)"
+        ],
+        "atelier": "Générer un graphique suivant son besoin"
+      },
+
+      {
+        "nbrChapitre": 17,
+        "titreChapitre": "Analyser ses données grâce aux tableaux croisés dynamiques",
+        "partieChapitre": [
+          "Le principe d'un tableau croisé dynamique",
+          "Définir quels seront les champs de calcul et d'etiquette",
+          "Sélectionner la source de son tableau croisé dynamique",
+          "Placer les champs à analyser",
+          "Appliquer un style au tableau croisé dynamique"
+        ]
+      },
+
+      {
+        "nbrChapitre": 18,
+        "titreChapitre": "Personnaliser un tableau croisé dynamique",
+        "partieChapitre": [
+          "Intégrer plusieurs calcul",
+          "Définir les critère de regroupement et de tri",
+          "Insérer des segments",
+          "Intégrer des champs de calcul personnalisé"
+        ],
+        "atelier": "Faire ressortir les statistiques souhaitées par rapport à son tableau"
+      },
+
+      {
+        "nbrChapitre": 19,
+        "titreChapitre": "Les outils de données",
+        "partieChapitre": [
+          "Intégrer des sous-totaux à un tableau",
+          "Convertir et consolider",
+          "La validation de données",
+          "L'analyse de scénario"
+        ]
+      },
+
+      {
+        "nbrChapitre": 20,
+        "titreChapitre": "Préparer Excel à l'utilisation des macros",
+        "partieChapitre": [
+          "l'onglet \"Développeur\"",
+          "les regles de nommage et formats de fichier",
+          "Présenter la fenêtre \"enregistrer une macro\"",
+          "le rôle du fichier Personal.xlsb et du dossier \"XLSTART\""
+        ]
+      },
+
+      {
+        "nbrChapitre": 21,
+        "titreChapitre": "Gérer l'enregistrement des Macros",
+        "partieChapitre": [
+          "Mettre en évidence les pièges de l'enregistreur de macro",
+          "Gérer l'enregistrement relatif et absolu",
+          "manipuler le fichier \"Personnal.xlsb\"",
+          "Utiliser les outils du classeur pour enregistrer et créer un Macro"
+        ]
+      },
+
+      {
+        "nbrChapitre": 22,
+        "titreChapitre": "Utiliser une macro",
+        "partieChapitre": [
+          "Exécuter, Supprimer ou remplacer une macro",
+          "Utiliser un raccourc",
+          "Présenter la fenêtre \"Macro\"",
+          "Supprimer ou remplacer une macro dans le \"Personal.xlsb\""
+        ]
+      },
+
+      {
+        "nbrChapitre": 23,
+        "titreChapitre": "Affecter un objet à une Macro",
+        "partieChapitre": [
+          "Utiliser les icones",
+          "Accéder et Présenter la \"barre d'outils Accès rapide\" et le \"Ruban\"",
+          "Personnaliser le \"Ruban\" Manipuler les icones dans la \"barres d'outils Accès rapide\" et dans le \"Ruban\"",
+          "Les différents types d'ojets à affecter à une macro"
+        ]
+      },
+
+      {
+        "nbrChapitre": 23,
+        "titreChapitre": "Accéder à l'interface \"Visual basic editor\"",
+        "partieChapitre": [
+          "Présenter les fenêtres Explorateur de projet ('VBProject') et 'Propriétés'",
+          "Gérer les modules (renommer, déplacer, supprimer…)",
+          "Décrire le contenu d'un module et d'une Macro",
+          "Repérer un commentaire et un mots clés",
+          "Décrire les règles d'écriture du VBA",
+          "Utiliser le 'Pas à pas': Ajouter ou modifier le code d'une Macro en Visual basic"
+        ]
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation Wordpress Perfectionnement",
+
+    "duration": 35,
+
+    "public": "Webmasters, développeurs web",
+
+    "preRequis": ["Connaissance de la création de site Web, de PHP, HTML/CSS"],
+
+    "objectifs": [
+      "Découvrir la publication de contenus sur Wordpress, apprendre à utiliser les concepts de base et avancée de l'administration",
+      "Apprendre à personnaliser un thème Wordpress Installer, paramétrer des plugins Wordpress",
+      "Apprendre les bases de la création de plugin wordpress"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Introduction",
+        "partieChapitre": [
+          "Qu'est ce qu'un Blog : fonctionnement et intérêts",
+          "Historique et version",
+          "Comparaison avec d'autres Blogs : DotClear...",
+          "Principe et fonctionnement de WordPress",
+          "Présentation de la partie publique et privée"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Installation d'un site WordPress",
+        "partieChapitre": [
+          "Les différents outils nécessaires : Serveur Web, Editeur...",
+          "Configuration minimale requise",
+          "Les procédures de mise à jour"
+        ],
+        "atelier": "installation de WordPress sur un serveur Web"
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Publication de contenu",
+        "partieChapitre": [
+          "Présentation du tableau de bord",
+          "Gestion des articles : création, édition, modification",
+          "Apprendre à utiliser l'éditeur de texte",
+          "Les commentaires",
+          "Gestion des différents médias : Images, Audio, Vidéo...",
+          "Gestion des pages statiques",
+          "La gestion du Workflow"
+        ],
+        "atelier": "publication et mise en forme de contenus"
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Personnalisation de l'apparence",
+        "partieChapitre": [
+          "Modifier titre & slogan",
+          "Gestion des widgets",
+          "Menu Personnalisé",
+          "Modifier les couleurs du thème",
+          "Gérer les images d'entête et d'arrière plan",
+          "Modifier la page d'accueil"
+        ]
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Personnalisation graphique de WordPress",
+        "partieChapitre": [
+          "Le thème par défaut",
+          "Utilisation des autres thèmes",
+          "Apprendre à modifier un thème par défaut",
+          "Ajout de widget graphique: slider, carrousel d'image, galerie photos, réseaux sociaux"
+        ],
+        "atelier": "Télécharger et changer de thème"
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Développement de thème WordPress",
+        "partieChapitre": [
+          "Rappel HTML5/CSS3",
+          "Utiliser l'éditeur de texte wordpress",
+          "Modification css et html",
+          "Définition de la structure : arrière plan, zones de contenus, entête, pied",
+          "Création des menus",
+          "Definir les pages pour le thème: header.php, footer.php, content.php, etc",
+          "Lexique et documentation des fonctions wordpress",
+          "Introduction et utilisation d'Artisteer",
+          "Incorporation d'un template Artisteer dans Wordpress"
+        ],
+        "atelier": "Développement d'un thème de A à Z"
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Utilisation avancée",
+        "partieChapitre": [
+          "Le système rétrolien",
+          "Protection contre le spam",
+          "Gestion des utilisateurs et auteurs multiples",
+          "Protection des articles par mot de passe",
+          "Les services Web"
+        ]
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Notions avancées",
+        "partieChapitre": [
+          "Installation d'un plugin existants",
+          "Plugins standards et utiles",
+          "Installation de plugin SEO, d'e-mailing, de réseaux sociaux",
+          "Comment débugguer un nouveau plugin"
+        ],
+        "atelier": "Installer et paramétrer plusieurs plugins"
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Wordpress Commerce",
+        "partieChapitre": [
+          "Installation du plugin WooCommerce",
+          "Parametrage du plugin WooCommerce",
+          "Ajout et modification de produits",
+          "Gestion des stocks",
+          "Tableau de rapport des ventes"
+        ],
+        "atelier": "Mettre en place une boutique"
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Développement de Plugins",
+        "partieChapitre": [
+          "Rappels PHP",
+          "Introduction à la création de plug-in avec Wordpress"
+        ],
+        "atelier": "Développement d'un Plugin WordPress"
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation Illustrator De l'initiation au perfectionnement",
+
+    "duration": 35,
+
+    "public": "Tous",
+
+    "preRequis": ["Connaissance de l'environnement PC"],
+
+    "objectifs": [
+      "Maîtriser les principales fonctionnalités d'Illustrator",
+      "Pouvoir réaliser des calculs et utiliser les formules",
+      "Savoir créer et manipuler le vectoriel (illustration, plans, schémas) pour la PAO et le web"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Découvrir Adobe Illustrator",
+        "partieChapitre": [
+          "Apprendre son histoire",
+          "Connaître ses fonctionnalités",
+          "Comprendre ses différentes utilisations"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Utiliser les fonctions de base d’Illustrator, les formats et les couleurs",
+        "partieChapitre": [
+          "Différencier les types d’images : Bitmap et Vectoriel, les modes colorimétrique : RVB, CMJN et les couleurs Pantone.",
+          "Utiliser le cercle chromatique et les différentes représentations de la couleur.",
+          "Comprendre les principaux formats graphiques : Les formats natifs d’Illustrator, le AI, l'EPS, le PDF, le SVG, le SVGZ, le AIT"
+        ]
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Utiliser les interfaces d’Illustrator et de Bridge",
+        "partieChapitre": [
+          "Se familiariser avec les barres de menu, d’options, d’outils, les colonnes de panneaux, la personnalisation de l’interface. Utiliser les jeux de palettes et personnaliser sa barre d’outils."
+        ]
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Maîtriser les fondamentaux",
+        "partieChapitre": [
+          "Créer un nouveau document via les gabarits de base d’illustratorUtiliser les paramètres prédéfinis : impression, web, périphériques mobiles, vidéo...",
+          "Gérer les espaces de travail",
+          "Utiliser les règles, l’origine des règles, repères et repères commentés",
+          "Naviguer dans le plan de travail",
+          "Ajouter des plans de travail",
+          "Naviguer entre les plans de travail"
+        ]
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Créer des formes simples",
+        "partieChapitre": [
+          "Utiliser les formes géométriques simples : rectangles, ellipses, ...",
+          "Découvrir les outil de sélection",
+          "Différencier les outils de sélection et sélection directe",
+          "Utiliser les points d’ancrage",
+          "Déplacer et transformer des formes simples",
+          "Utiliser le panneau nuancier",
+          "Découvrir les options de la fenêtre couleurs, les couleurs globales",
+          "Créer et modifier des dégradés linéaires, radiaux et de forme libre",
+          "Utiliser l’outil rotation",
+          "Utiliser l’outil mise à l’échelle",
+          "Utiliser l’outil pipette",
+          "Gérer les calques"
+        ],
+        "atelier": "créer des illustrations simples via les formes de base"
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Maîtriser l’outil plume",
+        "partieChapitre": [
+          "Utiliser des outils de courbes de Bézier",
+          "Découvrir l’outil plume",
+          "Ajouter / supprimer des points d’ancrage",
+          "Utiliser l’outil de conversion de points"
+        ],
+        "atelier": "créer des illustrations simples via l’outil plume"
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Maîtriser l’outil texte",
+        "partieChapitre": [
+          "Découvrir les différents types de textes : texte libre, captif, curviligne...Découvrir le déformateur de texte",
+          "Vectoriser un texte",
+          "Utiliser les styles de caractère et de paragraphe",
+          "Créer des bloc de textes à colonnes",
+          "Créer des bloc de textes liés"
+        ],
+        "atelier": "créer différents effets graphiques de texte, mettre en page des textes"
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Dessiner avec les outils pinceaux et crayon",
+        "partieChapitre": [
+          "Découvrir les réglages des outils",
+          "Différencier les notions de contour et fond",
+          "Maîtriser la fenêtre contour et ses options",
+          "Travailler avec l’outil traits et ses variantes",
+          "Utiliser l’outil largeur",
+          "Appliquer des couleur et des dégradés"
+        ],
+        "atelier": "dessiner des illustrations simples via les outils pinceaux et crayon"
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Modifier un dessin",
+        "partieChapitre": [
+          "Utiliser l’outil concepteur de formes",
+          "Découvrir les différents déformateurs et leurs options :",
+          "Tourbillon",
+          "Contraction",
+          "Dilatation",
+          "Festons",
+          "Cristallisation",
+          "Fronce",
+          "Utiliser les outils gomme, ciseaux et cutter"
+        ],
+        "atelier": "modifier, corriger et affiner des illustrations via les déformateurs"
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Utiliser les outils de graphiques et les tableaux",
+        "partieChapitre": [
+          "Créer et habiller des graphiques et des tableaux",
+          "Importer des données excel dans des tableaux ou graphiques"
+        ]
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Enregistrer, exporter, imprimer :",
+        "partieChapitre": [
+          "Utiliser les formats destinés à l’impression papier",
+          "Utiliser et paramétrer les formats destinés au Web"
+        ]
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Réaliser des illustrations complexes",
+        "partieChapitre": [
+          "Fusion de plusieurs formes : Pathfinder",
+          "Filet des dégradés",
+          "Opérations répétées",
+          "Gestion des calques",
+          "Transparence des calques et modes de fusion",
+          "Masque d'écrêtage",
+          "Modelage de contour",
+          "Modelage de motifs de remplissage"
+        ],
+        "atelier": "Illustration Complexe I"
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Illustration Complexe 2",
+        "partieChapitre": [
+          "Vectorisation d'illustrations crayonnées",
+          "Ajustement de la vectorisation en fonction du document initial",
+          "Décomposition et nettoyage de la vectorisation",
+          "Ajustement et options de tracés",
+          "Peinture dynamique"
+        ],
+        "atelier": "Illustration Complexe 2, La vectorisation dynamique"
+      },
+
+      {
+        "nbrChapitre": 14,
+        "titreChapitre": "Illustration Complexe 3",
+        "partieChapitre": [
+          "Fusion de plusieurs formes",
+          "Décomposition de la forme et du fond",
+          "Dégradé de forme",
+          "Copies de segments de tracés et superposition",
+          "Utilisation de symboles avec le pulvérisateur",
+          "Options du pulvérisateur",
+          "Création de symboles"
+        ],
+        "atelier": "Illustration Complexe 3, dégradé forme, décomposition de formes, les masques,transparence, mode de fusion."
+      },
+
+      {
+        "nbrChapitre": 15,
+        "titreChapitre": "Travailler avec Illustrator et les logiciels Tiers",
+        "partieChapitre": [
+          "Partager des bibliothèques de formes, de symboles et de motifs",
+          "Partager des nuanciers avec Photoshop et InDesign",
+          "Importer des documents de types DWG (parfois exports en .PDF)",
+          "Préparer des documents DWG ou exports PDF pour les travailler dans Photoshop",
+          "Importer ce documents en tant qu'objets dynamiques et les retravailler via Photoshop dans Illustrator Intégrer le document Photoshop dans InDesign,"
+        ],
+        "atelier": "transversalité entre différentes compositions Illustrator, logiciels de PAO et avec les logiciels de CAO (AutoCad, ArchiCad, ect.)"
+      },
+
+      {
+        "nbrChapitre": 16,
+        "titreChapitre": "Utiliser la 3D",
+        "partieChapitre": [
+          "Création, extrusion et révolution d'objets 3D",
+          "Création de lumières et applications de textures"
+        ]
+      },
+
+      {
+        "nbrChapitre": 17,
+        "titreChapitre": "Enregistrer, exporter",
+        "partieChapitre": [
+          "Formats destinés à l'impression papier",
+          "Recouvrement et surimpression",
+          "Ajout de repères d'impression et de fonds perdus",
+          "Formats destinés au Web"
+        ]
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation InDesign De l'initiation au perfectionnement",
+
+    "duration": 35,
+
+    "public": "Tous",
+
+    "preRequis": ["Maîtrise de l'environnement PC ou Mac"],
+
+    "objectifs": [
+      "Maîtriser les principales fonctionnalités d'InDesign",
+      "Savoir concevoir une maquette, manipuler des objets, du texte et des images et mettre en production tous ces outils"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Découvrir Adobe Indesign",
+        "partieChapitre": [
+          "Apprendre son histoire",
+          "Connaître ses fonctionnalités",
+          "Comprendre ses différentes utilisations"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Utiliser les fonctions de base d’Indesign, comprendre les formats et les couleurs",
+        "partieChapitre": [
+          "Se familiariser avec les barres de menu, d’options, d’outils, les colonnes de panneaux, la personnalisation de l’interface. Utiliser les jeux de palettes"
+        ]
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Maîtriser les Fondamentaux",
+        "partieChapitre": [
+          "Créer un nouveau document",
+          "Utiliser les paramètres prédéfinis /personnalisés",
+          "Créer un document prédéfini",
+          "Personnaliser l’espace de travail",
+          "Afficher des règles et grilles, caractéristiques des règles, origines et création de repères.",
+          "Utiliser l’outil de bloc graphique",
+          "Maîtriser l’outil sélection",
+          "Gérer les attributs : couleurs de contour et de remplissage",
+          "Utiliser le sélecteur de couleur",
+          "Gérer couleur et épaisseur de contour",
+          "Transformer des objets",
+          "Disposer des objets",
+          "Gérer les calques",
+          "Utiliser les touches de contraintes",
+          "Créer du texte",
+          "Créer des objets aux dimensions exactes",
+          "Sélectionner et positionner précisément des objets",
+          "Dupliquer des objets"
+        ],
+        "atelier": "réaliser un document type carte de visite"
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Maîtriser les outils de dessin vectoriel",
+        "partieChapitre": [
+          "Utiliser l’outil sélection directe",
+          "Utiliser les outils de dessins vectoriel, modifications d’objets"
+        ]
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Utiliser les outils de courbes de Bézier :",
+        "partieChapitre": [
+          "Prendre en main l’outil plume",
+          "Ajouter /supprimer des points d’ancrage",
+          "Utiliser l’outil conversion de point",
+          "Utiliser l’outil ciseau",
+          "Couper un tracé",
+          "Fermer un tracé",
+          "Joindre deux tracés différents",
+          "Fermer un tracé ouvert",
+          "Pivoter, mettre à l’échelle, déformer",
+          "Convertir de formes",
+          "Utiliser l’outil pathfinder"
+        ],
+        "atelier": "créer des blocs avec des formes personnalisés"
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Gérer les images importées et les blocs graphiques",
+        "partieChapitre": [
+          "Importer des images depuis InDesign",
+          "Importer des images depuis Bridge",
+          "Importer des images multiples",
+          "Importer des compositions Photoshop",
+          "Importer des illustrations vectorielles Illustrator",
+          "Aligner, répartir, transformer"
+        ]
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Gérer le texte et les paragraphes",
+        "partieChapitre": [
+          "Découvrir les types de polices : Serif, Sans Serif, Largeur fixe...",
+          "Paramétrer les caractères : style de police, corps, approche, crénage, interligne...",
+          "Importer des textes : avec mise en forme / sans mise en forme",
+          "Utiliser les liens texte",
+          "Utiliser les blocs texte et options",
+          "Utiliser les textes en colonnes",
+          "Utiliser les le chaînage",
+          "Utiliser les textes sur des tracés"
+        ],
+        "atelier": "réaliser une brochure avec pliages"
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Mettre en forme des textes",
+        "partieChapitre": [
+          "Définir un style de caractère",
+          "Définir un style de paragraphe",
+          "UtUtiliser les objets ancrésiliser",
+          "Utiliser l’habillage de texte"
+        ]
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Gérer des pages",
+        "partieChapitre": [
+          "Utiliser le panneau Pages",
+          "Utiliser la navigation entre les pages",
+          "Utiliser les gabarits ou pages types",
+          "Créer et appliquer des gabarits",
+          "Numéroter des pages (folio)",
+          "Inserer des pages",
+          "Déplacer des pages",
+          "Supprimer des pages"
+        ],
+        "atelier": "mettre en forme un article complet sur plusieurs pages"
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Préparer pour l’impression",
+        "partieChapitre": [
+          "Utiliser le contrôle en amont et l’assemblage",
+          "Gérer l’impression d’un document",
+          "Exporter le document en PDF",
+          "Personnaliser les export PDF"
+        ]
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Créer et modifier les tableaux dans Indesign",
+        "partieChapitre": [
+          "Créer un tableau",
+          "Gérer les options de tableau",
+          "Importer des fichiers Word / Excel",
+          "Insérer des texte et images",
+          "Gérer les styles de tableau et de cellule"
+        ],
+        "atelier": "réaliser des tableaux personnalisés"
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Créer une table des matières",
+        "partieChapitre": [
+          "Utiliser des styles de paragraphes",
+          "Créer la table des matières",
+          "Mettre en page et mettre à jour la table"
+        ],
+        "atelier": "réaliser un document type multi pages, créer et générer un sommaire automatique"
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Créer et gérer les livres",
+        "partieChapitre": [
+          "Créer des chapitres",
+          "Enregistrer les fichiers livre",
+          "Modifier les options de synchronisation",
+          "Synchroniser les chapitres"
+        ],
+        "atelier": "réaliser un document multi pages avec des fichier synchronisés"
+      },
+
+      {
+        "nbrChapitre": 14,
+        "titreChapitre": "Créer des documents interactifs",
+        "partieChapitre": [
+          "Choisir des interaction entre les pages",
+          "Créer un menu de navigation interactif",
+          "Utiliser les hyperliens",
+          "Créer des signets",
+          "Dessiner des boutons interactifs",
+          "Exporter un document PDF interactif"
+        ],
+        "atelier": "sur la base d'un document multi pages, créer de boutons de navigation et de liens hypertextes sur un PDF interactif"
+      },
+
+      {
+        "nbrChapitre": 15,
+        "titreChapitre": "Préparer pour l’impression",
+        "partieChapitre": [
+          "Contrôler en amont et l’assemblage",
+          "Gérer les couleurs et encres",
+          "Limiter le nombre d’encres",
+          "Utiliser les repères et fonds perdus",
+          "Imprimer un document",
+          "Exporter en PDF",
+          "Personnaliser les options PDF"
+        ]
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation Management : Initiation + Approfondissement",
+
+    "duration": 35,
+
+    "public": "Managers juniors, chefs de projets, responsables découvrant les fonctions de management",
+
+    "preRequis": ["Notions de management"],
+
+    "objectifs": [
+      "Maîtriser toutes les facettes du rôle de manager opérationnel",
+      "Opérer une prise de poste efficiente",
+      "Traduire la stratégie, les valeurs et la vision de l’entreprise afin de mobiliser l’équipe en communiquant des objectifs concrets, motivants et porteurs de sens",
+      "Définir et communiquer les rôles, organiser l’équipe et les missions et tâches des collaborateurs, déléguer efficacement, fixer des objectifs cohérents en impliquant et valorisant les collaborateurs",
+      "Maitriser tous les registres de la communication pour renforcer son rôle de manager",
+      "Conduire efficacement des entretiens managériaux en utilisant les bonnes méthodes et techniques de communication interpersonnelle",
+      "Conduire des réunions efficaces et animer les équipes au quotidien",
+      "Communiquer des décisions, parfois difficiles en maintenant la motivation et l’implication des collaborateurs",
+      "Gérer les situations managériales difficiles : conflits, périodes tendues , médiation et arbitrage tout en garantissant la cohésion d’équipe",
+      "Gérer et Accompagner les équipes dans des contextes de changements"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Les fondamentaux du management",
+        "partieChapitre": [
+          "Définir le management",
+          "Identifier les différents rôles du manager",
+          "Les différentes approches managériales",
+          "Les styles de direction",
+          "Le management situationnel",
+          "Le management bienveillant"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Attitudes du manager",
+        "partieChapitre": [
+          "Bases théoriques sur le leadership",
+          "Identifier la posture et l'attitude du manager",
+          "Clarifier son positionnement : N-1, N+1 , autres acteurs",
+          "Lister les qualités impératives du manager",
+          "Communiquer en tant du manager"
+        ],
+        "atelier": "test et autodiagnostic de son positionnement et pratiques managériales"
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Préparation à la prise de poste",
+        "partieChapitre": [
+          "Identifier son contexte",
+          "Identifier les personnes à manager",
+          "Lister les objectifs collectifs et individuels",
+          "Comprendre les motivations de chacun",
+          "Identifier les risques courants",
+          "Organiser sa prise de poste",
+          "Définir ses priorités",
+          "Définir son positionnement",
+          "Lister les tâches courantes"
+        ]
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Les erreurs à éviter lors de sa prise de poste",
+        "partieChapitre": [
+          "Décalage de ton",
+          "Décalage d'objectifs",
+          "Prise de poste mole",
+          "Prise de poste brutale"
+        ],
+        "atelier": "lister ses forces et faiblesses, lister les risques dans le cadre de sa prise de poste"
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Gérer l’équipe",
+        "partieChapitre": [
+          "Qu'est-ce qu'une équipe ?",
+          "Les fondamentaux de la gestion d’équipe",
+          "Les composantes de l’équipe personne morale",
+          "Développer les compétences de l'équipe",
+          "Construire et ajuster l’équipe",
+          "Les enjeux pour le manager",
+          "Les enjeux pour les membres de l'équipe",
+          "Les enjeux pour l'entreprise",
+          "Définir les objectifs collectifs",
+          "Définir son équipe et le rôle de chacun",
+          "Identifier les forces et faiblesses de l'équipe",
+          "Identifier les risques",
+          "Déterminer les moyens",
+          "Examiner le cadre de travail",
+          "S'entretenir individuellement avec les membres de l'équipe",
+          "Définir les jalons de son management",
+          "Planifier et communiquer",
+          "Suivre le travail de l'équipe"
+        ]
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Motiver son équipe",
+        "partieChapitre": [
+          "Définir les objectifs collectifs et individuels",
+          "Définir les rites",
+          "Organiser une veille constante de l'état du moral",
+          "Déléguer et responsabiliser",
+          "Encourager et motiver son équipe",
+          "Récompenser",
+          "Séduire et entretenir la confiance"
+        ]
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Facteurs clefs de succès",
+        "partieChapitre": [
+          "Tirer son équipe vers l'excellence",
+          "Utiliser les erreurs pour s'améliorer",
+          "Avoir des rites et discours fédérateurs",
+          "Faire tendre l'équipe vers l'autonomie et l'auto-analyse"
+        ]
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Erreurs de management d'équipe",
+        "partieChapitre": [
+          "Trop communiquer",
+          "Trop évaluer",
+          "Trop encadrer et oublier de déléguer et de donner de l'autonomie",
+          "Féliciter publiquement un seul élément d'une équipe performante",
+          "Stigmatiser systématiquement les erreurs individuelles",
+          "Chercher les responsables d'erreurs avant de chercher les solutions et les axes d'amélioration"
+        ],
+        "atelier": "Lister des erreurs observées en management d'équipe"
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Le manager courroie de transmission et relais de la stratégie d’entreprise",
+        "partieChapitre": [
+          "Communiquer efficacement, quand, comment, quelles informations ?",
+          "Relayer la stratégie d’entreprise",
+          "Adapter son discours",
+          "Apprendre à communiquer desdécisions difficiles",
+          "Anticiper les objections et difficultés"
+        ],
+        "atelier": "Définir la feuille de route de son management d'équipe"
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Rappels sur les techniques de communication interpersonnelle",
+        "partieChapitre": [
+          "Connaître les fondamentaux de la communication",
+          "Verbal, para-verbal, non verbal",
+          "Analyser les distorsions",
+          "Techniques d’écoute , de questionnement et de reformulation",
+          "Gérer et chercher le feed-back",
+          "Dire non sans se justifier"
+        ]
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Déléguer et fixer des objectifs",
+        "partieChapitre": [
+          "Connaître les règles et principes d’une délégation réussie",
+          "Concevoir des objectifs SMART",
+          "Fixer les priorités",
+          "Prendre des décisions",
+          "Contrôler après la délégation"
+        ]
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Gérer les individualités des personnes managées",
+        "partieChapitre": [
+          "Que sait-on sur les personnes managées ?",
+          "Les différentes personnalités : DISC",
+          "Les principes de la maturité relationnelle",
+          "Quel est le cadre de travail des managés ?",
+          "Qu'attendent les managés de leur manager et de leur entreprise ?",
+          "Théories et sources de motivations : Maslow, Herzberg et Vroom"
+        ]
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Gérer les ressources humaines et les entretiens individuels",
+        "partieChapitre": [
+          "Maîtriser la communication interpersonnelle dans les entretiens individuels",
+          "Gérer les RH au quotidien",
+          "Les différents types d’entretiens :",
+          "Entretien d’accueil et d’intégration",
+          "Entretien de suivi d’actions",
+          "Entretien de progrès",
+          "Entretien de motivation",
+          "Reproche minute",
+          "Entretien de recadrage",
+          "Entretien disciplinaire",
+          "Les comptes - rendus"
+        ],
+        "atelier": "mises en situation d’entretiens manager et managé sur différents types d’entretiens"
+      },
+
+      {
+        "nbrChapitre": 14,
+        "titreChapitre": "L'animation de réunion managériale",
+        "partieChapitre": [
+          "La réunion : outil central du management",
+          "Distinguer les types de réunion",
+          "Acteurs et statuts"
+        ]
+      },
+
+      {
+        "nbrChapitre": 15,
+        "titreChapitre": "Le rôle du manager en réunion",
+        "partieChapitre": [
+          "le manager est un facilitateur",
+          "le manager est un organisateur",
+          "le manager est un fédérateur",
+          "le manager est un motivateur"
+        ]
+      },
+
+      {
+        "nbrChapitre": 16,
+        "titreChapitre": "Déroulement type de réunion",
+        "partieChapitre": [
+          "Préparation",
+          "Définir le programme de la réunion",
+          "Définition du lieu",
+          "Convocation des acteurs",
+          "Ouverture",
+          "Supports de réunion",
+          "Echange",
+          "Conclusion"
+        ]
+      },
+
+      {
+        "nbrChapitre": 17,
+        "titreChapitre": "Facteurs clefs de succès",
+        "partieChapitre": [
+          "Bien se préparer",
+          "Faire une pré-réunion",
+          "Eviter les surprises",
+          "Bien définir les objectifs",
+          "Définir les outils",
+          "Définir les acteurs",
+          "Rédiger le support",
+          "Préparer les objections",
+          "Soigner le démarrage",
+          "Gérer les digressions et les cas difficiles",
+          "Soigner la conclusion",
+          "Noter toutes les remarques",
+          "Envoyer un compte-rendu"
+        ]
+      },
+
+      {
+        "nbrChapitre": 18,
+        "titreChapitre": "Les outils à utiliser",
+        "partieChapitre": [
+          "La présentation slides",
+          "Le tableau",
+          "Les post-it",
+          "Autres"
+        ]
+      },
+
+      {
+        "nbrChapitre": 19,
+        "titreChapitre": "Risques",
+        "partieChapitre": [
+          "Réunion qui change d'objectifs",
+          "Conflits entre acteurs",
+          "Absence d'un acteur majeur"
+        ],
+        "atelier": "Mises en situation d’animation de réunion sur différents thèmes : réorganisation, fixation d’objectifs, réunions de crise, réunion projet collaborative"
+      },
+
+      {
+        "nbrChapitre": 20,
+        "titreChapitre": "Contrôler",
+        "partieChapitre": [
+          "Définir les moyens de contrôles",
+          "Outils d'évaluations impartiales du travail collectif et individuel",
+          "Construire des tableaux de bords , les grands principes",
+          "Les KPI"
+        ]
+      },
+
+      {
+        "nbrChapitre": 21,
+        "titreChapitre": "Responsabilité Sociétale du Manager",
+        "partieChapitre": [
+          "Donner du sens à son action",
+          "Donner du sens à l'action de son équipe",
+          "Gérer les erreurs",
+          "Encourager et féliciter",
+          "Fédérer son équipe",
+          "Maîtriser les concepts de la RSE"
+        ]
+      },
+
+      {
+        "nbrChapitre": 22,
+        "titreChapitre": "Amélioration continue",
+        "partieChapitre": [
+          "Exprimer clairement les indices de performances",
+          "Exprimer clairement les forces et faiblesses de son équipe",
+          "Gérer et expliquer les erreurs",
+          "Donner une autonomie de gestion à son équipe",
+          "Observer son équipe",
+          "Montrer par des indicateurs de performances la progression de son équipe",
+          "Montrer à chacun sa progression personnelle"
+        ],
+        "atelier": "Observations de quelques cas typiques et discussions"
+      },
+
+      {
+        "nbrChapitre": 23,
+        "titreChapitre": "Le manager et la gestion du temps et des priorités",
+        "partieChapitre": [
+          "Fondamentaux sur la gestion du temps",
+          "Les matrices de gestion du temps",
+          "Le quadrant UI",
+          "Les théoriciens de la gestion du temps",
+          "Les huit lois du temps"
+        ],
+        "atelier": "identifier ses voleurs de temps et concevoir un plan d’action"
+      },
+
+      {
+        "nbrChapitre": 23,
+        "titreChapitre": "Le manager accompagnateur du changement",
+        "partieChapitre": [
+          "Les grands principes du changement",
+          "Les 3 ordres du changement",
+          "Mission et vision",
+          "Identifier les acteurs : Herbemont et César",
+          "Connaître les 8 étapes du changement selon Kotter",
+          "Les 4 attitudes dans le cycle du changement"
+        ],
+        "atelier": "mise en situation d’animation de réunions impliquant des changements contraignants et à forts enjeux"
+      },
+
+      {
+        "nbrChapitre": 24,
+        "titreChapitre": "Fondamentaux sur la gestion des conflits",
+        "partieChapitre": [
+          "Les différents types de conflits",
+          "Les étapes de l’escalade d’un conflit",
+          "Les registres de la communication dans les conflits : faits, opinions et ressentis",
+          "L’écoute active et la gestion des émotions",
+          "L’assertivité",
+          "La méthode Thomas-Kilmann",
+          "Connaître les techniques de Médiation et arbitrage avec un statut managérial"
+        ],
+        "atelier": "mise en situation"
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation Photoshop De l'initiation au perfectionnement",
+
+    "duration": 35,
+
+    "public": "Tous",
+
+    "preRequis": ["Connaissance de l'environnement PC ou Mac"],
+
+    "objectifs": [
+      "Maîtriser les principales fonctionnalités de Photoshop",
+      "Savoir effectuer des retouches sur une image",
+      "Concevoir des compositions et réaliser des effets gr ce aux calques et aux filtres",
+      "Maîtriser le travail non destructif dans Photoshop",
+      "Savoir créer des montages et détourages complexes",
+      "Utiliser les outils d'automatisation en traitement par lot"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Découvrir Adobe Photoshop",
+        "partieChapitre": [
+          "Apprendre son histoire",
+          "Connaître les fonctionnalités",
+          "Comprendre les différentes utilisations"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Utiliser les fonctions de base de Photoshop, les formats et les couleurs",
+        "partieChapitre": [
+          "Différencier les types d’images : Bitmap et Vectoriel, les modes colorimétriques : RVB, CMJN et les couleurs Pantone",
+          "Utiliser le cercle chromatique et les différentes représentations de la couleur.",
+          "Comprendre les principaux formats graphiques : Les formats natifs de Photoshop, le PSD, le PSB, le PDF, le PSDT. Les autres formats courants : AI, EPS, PNG, TIFF, JPEG..."
+        ]
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Utiliser les interfaces de Photoshop et de Bridge",
+        "partieChapitre": [
+          "Se familiariser avec les barres de menu, d’options, d’outils, les colonnes de panneaux, la personnalisation de l’interface. Utiliser les jeux de palettes"
+        ]
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Utiliser les outils fondamentaux de Photoshop",
+        "partieChapitre": [
+          "Créer des nouveaux document via les gabarits de base de Photoshop (impression, web, ..)",
+          "Ouvrir une image",
+          "Vérifier la taille et la résolution de l’image",
+          "Corriger la zone de travail",
+          "Créer et gérer les calques",
+          "Renommer les calques",
+          "Modifier l’ordre des calques",
+          "Utiliser les outils lassos et sélection via les formes géométriques",
+          "Paramétrer sélection d’objets, sélection rapide, sélectionner un sujet et baguette magique",
+          "Ajouter ou supprimer des zones de sélection",
+          "Améliorer la zone de sélection avec les outils adéquats"
+        ],
+        "atelier": "créer des photomontages, réaliser des détourages simples et complexes de divers visuels"
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Corriger des images avec les outils de retouche",
+        "partieChapitre": [
+          "Maîtriser les outils tampon, correcteur, pièce",
+          "Gérer les formes d’historique, forme d’historique artistique",
+          "Utiliser et différencier la gomme, gomme d’arrière-plan et gomme magique"
+        ],
+        "atelier": "nettoyer des parasites dans des images"
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Corriger des images avec les outils de retouche 2",
+        "partieChapitre": [
+          "Découvrir l’outil tampon de duplication et ses réglages",
+          "Utiliser les outils goutte d’eau, netteté, doigt",
+          "Utiliser les outils densité +, Outil densité -, éponge"
+        ],
+        "atelier": "retravailler de vieilles photos"
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Travailler en “non-destructif",
+        "partieChapitre": [
+          "Protéger le calque d’arrière-plan",
+          "Choisir les outils de sélection adéquats",
+          "Naviguer parmi les calques",
+          "Utiliser les outils de retouche pour peaufiner le photomontage",
+          "Grouper et trier les calques",
+          "Transformer un groupe de calques",
+          "Découvrir et parcourir les modes de fusion des calques"
+        ],
+        "atelier": "supprimer des éléments proéminents d’images"
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Travailler avec les calques de réglage et masques de fusion",
+        "partieChapitre": [
+          "Comprendre les principes de fonctionnement des calques de réglage",
+          "Utiliser les masques de fusion des calques de réglage",
+          "Appliquer un masque de fusion à un calque image"
+        ],
+        "atelier": "créer des photomontages non destructifs avec multiples corrections possibles"
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Utiliser les outils texte et les styles de calques",
+        "partieChapitre": [
+          "Gérer les outils texte",
+          "Maîtriser le calque de texte et les styles de calque",
+          "Utiliser l’outil masque de texte avec un document de type texture",
+          "Écrêter un calque texte sur une image"
+        ],
+        "atelier": "créer des textes avec différents effets visuels"
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Travailler avec les calques de formes",
+        "partieChapitre": [
+          "Comprendre les avantages des éléments vectoriels",
+          "Utiliser les outils de forme",
+          "Tracer des formes",
+          "Tracer des masques vectoriels"
+        ],
+        "atelier": "créer des visuels graphiques à l’aides des outils vectoriels"
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Utiliser l’outil plume et les points d’ancrage",
+        "partieChapitre": [
+          "Utiliser les courbes de Bézier",
+          "Ajouter / supprimer des points d’ancrage",
+          "Convertir des points",
+          "Détourer à partir de tracés de travail",
+          "Transformer un tracé de travail en zone de sélection",
+          "Récupérer le tracé de travail",
+          "Créer un nouveau masque à partir de la zone de sélection"
+        ],
+        "atelier": "détourer précisément des visuels à l'aide de l'outil plume"
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Retoucher des photos complexes de manière non destructive",
+        "partieChapitre": [
+          "Utiliser la fenêtre « sélectionner et masquer » afin d’améliorer une sélection complexe",
+          "Maîtriser l’outil spécifique amélioration de contour",
+          "Travailler sur le grain de peau via l’outil correcteur",
+          "Changer la couleur des yeux via les calques de réglage",
+          "Changer la couleur des cheveux via les calques de réglage",
+          "Modifier la teinte de la peau via les calques de réglage",
+          "Affiner les traits et contours du visage via le filtre fluidité",
+          "Travailler sur l'atmosphère générale de la composition avec les outils appropriés"
+        ],
+        "atelier": "retoucher des portraits complexes avec des techniques non destructives"
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Retoucher des photos complexes de manière non destructive 2",
+        "partieChapitre": [
+          "Découvrir les options de transformation",
+          "Découvrir l’outil point de fuite et perspective",
+          "Modifier les éléments dans l'image",
+          "Mettre en valeur des éléments dans l'image",
+          "Travailler sur l'atmosphère générale de la composition"
+        ],
+        "atelier": "retoucher un paysage urbain complexe avec des techniques non destructives"
+      },
+
+      {
+        "nbrChapitre": 14,
+        "titreChapitre": "Utiliser les automatismes avec Photoshop et Bridge",
+        "partieChapitre": [
+          "Réaliser des actions",
+          "Utiliser le traitement par lot",
+          "Mettre en place des méthodes personnalisées",
+          "Créer des planches contact PDF"
+        ],
+        "atelier": "automatiser des taches d’actions répétitives sur un grand nombre de fichiers"
+      },
+
+      {
+        "nbrChapitre": 15,
+        "titreChapitre": "Animer des éléments sous Photoshop",
+        "partieChapitre": [
+          "Animer en vidéo",
+          "Animer image par image",
+          "Gérer les calques",
+          "Paramétrer le montage",
+          "Utiliser la timeline",
+          "Maitriser les images clés",
+          "Exporter",
+          "Choisir les bons formats"
+        ],
+        "atelier": "créer des animations en gifs animés"
+      },
+
+      {
+        "nbrChapitre": 16,
+        "titreChapitre": "Enregistrer pour le web",
+        "partieChapitre": [
+          "Découvrir les contraintes du web",
+          "Utiliser l’outil tranche et sélection de tranches",
+          "Enregistrer pour le web",
+          "Utiliser la boite de dialogue",
+          "Utiliser les bons paramètres prédéfinis",
+          "Gérer les options",
+          "Connaître les formats"
+        ],
+        "atelier": "enregistrer des images optimisées pour le web"
+      },
+
+      {
+        "nbrChapitre": 17,
+        "titreChapitre": "Enregistrer pour l’imprimeur",
+        "partieChapitre": [
+          "Comprendre les différents profils ICC",
+          "Connaître les méthodes d’échantillonnage",
+          "Connaître les bons réglages d’impression",
+          "Exporter en PDF"
+        ]
+      },
+
+      {
+        "nbrChapitre": 18,
+        "titreChapitre": "Optimiser Photoshop et la suite Adobe",
+        "partieChapitre": [
+          "Utiliser de manière optimale les transversalités avec les logiciels de la suite Adobe : Adobe Illustrator, Adobe InDesign, Adobe After Effects et Adobe Premiere pro"
+        ]
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation PowerPoint : De l'initiation au perfectionnement",
+
+    "duration": 16,
+
+    "public": "Tous",
+
+    "preRequis": ["Connaissance de l'environnement PC"],
+
+    "objectifs": [
+      "Créer des présentations complètes",
+      "Réaliser des transitions et animations",
+      "Savoir synthétiser ses idées"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Introduction",
+        "partieChapitre": [
+          "Présentation de PowerPoint et des autres outils de la suite Office Exemples de réalisation avec PowerPoint"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Prendre en main le logiciel",
+        "partieChapitre": [
+          "Description de l'interface (Ruban, Barre d'outils Accès Rapide, etc.)",
+          "Structure d'un fichier (diaporamas, sections, diapositives)",
+          "Créer un nouveau diaporama",
+          "Utilisation des modèles de diaporama"
+        ]
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Les diapositives",
+        "partieChapitre": [
+          "Ajouter/supprimer des diapositives",
+          "Les dispositions de diapositive",
+          "Regrouper ses diapositives dans des sections",
+          "Déplacer une diapositive"
+        ]
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Ajout de contenu",
+        "partieChapitre": [
+          "Les zones réservées",
+          "Insérer et mettre en forme du texte",
+          "Insérer et personnaliser des formes",
+          "Insérer et personnaliser des images",
+          "Créer un album photo",
+          "Insérer des tableaux",
+          "Utiliser WordArt",
+          "Les graphiques et organigrammes",
+          "Insérer de l'audio et de la vidéo",
+          "Organiser le contenu inséré"
+        ]
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Aspect des diapositives",
+        "partieChapitre": [
+          "Utiliser les thèmes de diapositives",
+          "Ajouter un arrière-plan",
+          "Créer son thème personnalisé"
+        ]
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Effets visuels",
+        "partieChapitre": [
+          "Animer un contenu",
+          "Personnaliser son animation",
+          "Le minutage des animations (démarrage, durée, délai)",
+          "Les transitions entre diapositives",
+          "Le minutage des transitions"
+        ]
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Affichage du diaporama",
+        "partieChapitre": [
+          "Lancement du mode diaporama",
+          "Création d'un diaporama personnalisé",
+          "Configurer le diaporama",
+          "Les autres modes d'affichages",
+          "Insertion d’en-tête et pied de page",
+          "Ajout de commentaires"
+        ]
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Présentation avancée",
+        "partieChapitre": [
+          "Ajout de liens hypertexte",
+          "Ajout d’une action sur un objet",
+          "Insertion de contenu multimédia : audio et vidéo",
+          "Impression du document",
+          "Gestion du masque de diapositive",
+          "Création de son modèle de présentation"
+        ]
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Travail de groupe",
+        "partieChapitre": [
+          "Comparer deux présentations",
+          "Protection d’un diaporama",
+          "Vérifier l'absence de problèmes",
+          "Partage de sa présentation",
+          "Diffuser son diaporama en ligne"
+        ]
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Personnaliser l'interface PowerPoint",
+        "partieChapitre": [
+          "Intégrer des raccourcis à la barre d'outils Accès Rapide",
+          "Créer un onglet avec ses outils favoris"
+        ]
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Méthodologie",
+        "partieChapitre": [
+          "Définition des objectifs de la présentation",
+          "Création et organisation du plan",
+          "Schématisation de la présentation",
+          "Création du masque",
+          "Création des slides types (nouvelle partie, contenus)",
+          "Création de la présentation et des animations",
+          "Relecture et corrections"
+        ],
+        "atelier": "Création d'une présentation pour son projet personnel ou professionnel"
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation Premiere Pro De l'initiation au perfectionnement",
+
+    "duration": 35,
+
+    "public": "Tout public, professionnel ou individuel, souhaitant se former au montage vidéo virtuel et à l'utilisation de Adobe® Premiere®. Utilisation dans le cadre de films institutionnels, diffusions off-line ou Web, communication/marketing, etc.",
+
+    "preRequis": [
+      "connaissance et pratique de l'environnement informatique Windows ou Mac.",
+      "Connaissances minimales de l'image et de la vidéo."
+    ],
+
+    "objectifs": [
+      "Découvrir et appréhender le montage virtuel de la vidéo grâce à la maîtrise de l'utilisation des principales fonctionnalités d'Adobe Premiere.",
+      "Initiation aux principes de base du montage audiovisuel.",
+      "Connaître les principaux termes techniques et dénominations du montage vidéo pour dialoguer efficacement avec les différents intervenants du domaine.",
+      "Réaliser un projet complet, de l'acquisition des rushes jusqu'à l'exportation du montage final."
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Découvrir Adobe Première Pro",
+        "partieChapitre": [
+          "Apprendre son histoire",
+          "Connaître les fonctionnalités",
+          "Comprendre les différentes utilisations"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Utiliser les fonctions de base de Première Pro, les formats et les couleurs",
+        "partieChapitre": [
+          "Découvrir les formats vidéo et les formats de compression : .mp4 / .h264 / .mov /...",
+          "Comprendre les formats des pixels",
+          "Différencier les modes colorimétriques",
+          "Découvrir le RVB et les profondeurs de couche",
+          "Comprendre des principaux formats graphiques : AI /.PSD /.JPEG/ .PNG"
+        ]
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Utiliser les outils fondamentaux de Première Pro",
+        "partieChapitre": [
+          "Comprendre la notion de projet dans Adobe Premiere Pro",
+          "Gérer le paramétrage et configuration du banc de montage",
+          "Comprendre les disques de travail et de rendu",
+          "Utiliser la molette de variation de vitesse",
+          "Utiliser les raccourcis clavier",
+          "Gérer le dérushage",
+          "Comprendre la définition des points d'entrées et de sorties",
+          "Utiliser la capture à la volée",
+          "Maîtriser les notions d'uniformisation",
+          "Comprendre l'organisation et la gestion des médias",
+          "Utiliser la gestion et les recherches dans le chutier",
+          "Gérer l'organisation des séquences et des scènes",
+          "Différencier moniteur « cible » / moniteur « source »",
+          "Maîtriser les rudiments du montage",
+          "Gérer la navigation dans la timeline"
+        ],
+        "atelier": "réaliser le séquençage et le montage cut d'un projet vidéo simple"
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Réaliser un montage",
+        "partieChapitre": [
+          "Gérer des pistes audio / vidéo",
+          "Utiliser le magnétisme de la timeline",
+          "Utiliser le cutter",
+          "Maîtriser les différentes techniques de montage non linéaire : points d'entrée et de sortie, montages à 3 et 4 points",
+          "Utiliser les pistes cibles",
+          "Utiliser l’insertion / le recouvrement de pistes audio / vidéo",
+          "Maîtriser les prélèvements / extractions de pistes audio / vidéo",
+          "Utiliser le trim mode",
+          "Maîtriser l’outil de raccord par propagation",
+          "Maîtriser les outils de raccord par modification / allongement compensée",
+          "Utiliser les outils de montage par déplacement dessus / dessous",
+          "Utiliser les options d'effets géométriques",
+          "Utiliser l’opacité",
+          "Comprendre les modes de fusion",
+          "Utiliser les séquences gigognes",
+          "Utiliser les transitions (fondus, surimpression, volets, etc.)",
+          "Gérer le rendu"
+        ],
+        "atelier": "travailler en multi-pistes, organiser, raccorder et déplacer les différentes scènes et séquences. Utiliser les effets de transition"
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Utiliser la colorimétrie et les effets",
+        "partieChapitre": [
+          "Créer des effets (flous, netteté, etc.)",
+          "Utiliser les différentes représentations colorimétriques",
+          "Tester les outils de correction colorimétriques",
+          "Utiliser les calques de réglages",
+          "Utiliser les caches couleurs",
+          "Découvrir le Domaine Lumetri",
+          "Utiliser la grille de sécurité",
+          "Utiliser les masques"
+        ],
+        "atelier": "corriger la colorimétrie et le color-grading sur une séquence"
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Travailler le son",
+        "partieChapitre": [
+          "Comprendre la sonorisation",
+          "Utiliser le commentaire",
+          "Gérer la bande sonore",
+          "Corriger le mixage des pistes",
+          "Gérer l’audio essentiel :",
+          "Définir un type d’audio (dialogue, musique, effets sonores)",
+          "Améliorer les voix",
+          "Tester l’Auto-ducking"
+        ],
+        "atelier": "utiliser une bande sonore et/ou un commentaire pour enrichir les images"
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Finaliser un projet",
+        "partieChapitre": [
+          "Utiliser les paramètres d'exportation",
+          "Créer l'exportation",
+          "Connaître les différents formats d'enregistrement et de compression",
+          "Utiliser l'encodage pour les différents modes de diffusion"
+        ],
+        "atelier": "exporter un projet pour différents médias"
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Utiliser le titrage et les objets graphiques essentiels",
+        "partieChapitre": [
+          "Découvrir l’outil texte",
+          "Mettre en forme un texte",
+          "Animer un texte",
+          "Gérer un objet graphique comprenant plusieurs éléments",
+          "Utiliser et modifier des modèles de titres",
+          "Créer un modèle de titre réutilisable."
+        ],
+        "atelier": "réaliser des titres et de sous-titres, créer un générique"
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Utiliser les pré-configurations",
+        "partieChapitre": [
+          "Importer une pré configuration",
+          "Modifier et comprendre une pré configuration",
+          "Créer une pré configuration"
+        ],
+        "atelier": "créer des transitions avec des préfigurations. Créer une série d’effets et enregistrer sa propre pré configuration"
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Utiliser des fichiers images",
+        "partieChapitre": [
+          "Créer un habillage :",
+          "Importer des éléments à partir de Photoshop, Illustrator",
+          "Importer des éléments à partir de After Effects"
+        ],
+        "atelier": "réaliser un habillage, importer des images et / ou des effets supplémentaires dans la vidéo"
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Synchroniser, travailler en multicam et doublures",
+        "partieChapitre": [
+          "Comprendre les problèmes de performance avec les formats trop lourds",
+          "Créer des doublures",
+          "Utiliser des doublures",
+          "Synchroniser des pistes au moyen d’un repère visuel",
+          "Créer une séquence multicam",
+          "Gérer et monter avec le mutlicam",
+          "Créer une séquence multicam avec synchronisation par l’audio"
+        ],
+        "atelier": "monter une séquence multi-caméra après l’avoir synchronisée"
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Finaliser un projet",
+        "partieChapitre": [
+          "Comprendre les paramètres d'exportation",
+          "Maîtriser l'exportation",
+          "Connaître les différents formats d'enregistrement et de compression",
+          "Choisir le bon encodage pour les différents modes de diffusion"
+        ],
+        "atelier": "exporter un projet pour différents médias"
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Utiliser la transversalité avec After Effects",
+        "partieChapitre": [
+          "Utiliser Adobe Dynamic Link pour exporter dans After Effects sans rendu",
+          "Exporter une séquence Premiere Pro vers une composition liée D’After Effects",
+          "Modifier la composition sous After Effects et basculer vers Premiere : modification prise en compte"
+        ],
+        "atelier": "remplacer des plans dans une séquence Premiere pro par des compositions After Effects et mettre à jour dans Premiere pro"
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation Word : De l'initiation au perfectionnement",
+
+    "duration": 35,
+
+    "public": "Tous",
+
+    "preRequis": ["Connaissance de l'environnement PC"],
+
+    "objectifs": [
+      "Pouvoir réaliser une lettre structurée",
+      "Savoir gérer la mise en page d'un document",
+      "Travailler avec les tables de référence",
+      "Réaliser un publipostage",
+      "S'initier au langage VBA sur Word"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Introduction",
+        "partieChapitre": [
+          "Présentation de Word et des autres outils de la suite Office",
+          "Exemples de réalisation avec Word"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Prendre en main le logiciel",
+        "partieChapitre": [
+          "Description de l'interface (Ruban, Barre d'outils Accès Rapide, etc.)",
+          "Structure d'un fichier (pages, sections, paragraphes...)",
+          "Afficher la règle, les marques de paragraphes et le quadrillage"
+        ]
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Gérer les documents",
+        "partieChapitre": [
+          "Créer un document",
+          "Ouvrir, enregistrer et fermer",
+          "Utiliser documents récents",
+          "Créer un document basé sur un modèle",
+          "Enregistrer un document au format Word 97-2003"
+        ]
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Saisir et personnaliser un texte",
+        "partieChapitre": [
+          "Saisir un texte",
+          "Se déplacer dans le document",
+          "Sélectionner le texte à modifier",
+          "Déplacer et dupliquer du texte",
+          "Modifier la mise en forme d'un texte",
+          "Gérer l'alignement des paragraphes",
+          "Utiliser la vérification orthographique automatique"
+        ]
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Rechercher/Remplacer",
+        "partieChapitre": [
+          "Lancer une recherche approfondie",
+          "Remplacer une chaîne par une autre",
+          "Remplacer des mises en forme"
+        ]
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Les styles de texte",
+        "partieChapitre": [
+          "Définir une hiérarchie au niveau des styles",
+          "Appliquer un style prédéfini à un texte",
+          "Créer un nouveau style de texte"
+        ],
+        "atelier": "Appliquer un style sur l'ensemble de son contenu texte"
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Le thème d'un document",
+        "partieChapitre": [
+          "Choisir le thème de son document",
+          "Appliquer une variante du thème actif",
+          "Personnaliser les couleurs, polices et effets d'un thème"
+        ]
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "L'arrière-plan de la page",
+        "partieChapitre": [
+          "Appliquer un filigrane",
+          "Définir une couleur de page",
+          "Appliquer une bordure à la page"
+        ]
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Mise en page",
+        "partieChapitre": [
+          "Définir le type de document (classique, livre, livret)",
+          "Choisir et personnaliser les marges",
+          "Préciser la taille des feuilles et l'orientation",
+          "Inclure des en-têtes et pieds de page prédéfinis",
+          "Insérer le logo de son entreprise",
+          "Ajouter une numérotation des pages",
+          "Modifier le format des numéros de page",
+          "Personnaliser ses en-têtes et pieds de page",
+          "Insérer des sauts de page",
+          "Découper son document en plusieurs sections"
+        ]
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Impression",
+        "partieChapitre": [
+          "Définir les pages à imprimer",
+          "Configurer les options de l'imprimante",
+          "Imprimer son document"
+        ],
+        "atelier": "Créer une mise en page pour l'impression d'un ouvrage"
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Les tableaux",
+        "partieChapitre": [
+          "Insérer un tableau (définir un nombre de lignes et de colonnes)",
+          "Gérer la disposition du tableau (ajouter/supprimer des cellules)",
+          "Appliquer un style à son tableau",
+          "Fusionner ou fractionner des cellules"
+        ]
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Les illustrations",
+        "partieChapitre": [
+          "Insérer et personnaliser une image",
+          "Intégrer une image en ligne",
+          "Ajouter des formes à son document",
+          "Utilisation de WordArt",
+          "Ajouter un SmartArt",
+          "Créer et personnaliser un graphique"
+        ],
+        "atelier": "Enrichir son document de plusieurs illustrations"
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Travailler en colonnes",
+        "partieChapitre": [
+          "Découper des paragraphes en colonnes",
+          "Configurer les espaces entre ces colonnes",
+          "Afficher un trait de séparation"
+        ]
+      },
+
+      {
+        "nbrChapitre": 14,
+        "titreChapitre": "Travailler avec les modèles",
+        "partieChapitre": [
+          "Préparer Word à la gestion de vos modèles",
+          "Utiliser les modèles existants",
+          "Récupérer un modèle sur Office.com",
+          "Créer un modèle personnalisé"
+        ]
+      },
+
+      {
+        "nbrChapitre": 15,
+        "titreChapitre": "Références",
+        "partieChapitre": [
+          "Insérer et configurer une table des matières",
+          "Mettre à jour sa table des matières",
+          "Insérer une note de bas de page",
+          "Ajouter des citations",
+          "Insérer des légendes aux illustrations",
+          "Ajouter une table des illustrations",
+          "Définir des entrées dans l'index",
+          "Insérer la table d'index et la mettre à jour"
+        ],
+        "atelier": "Intégrer plusieurs tables de référence à son document"
+      },
+
+      {
+        "nbrChapitre": 16,
+        "titreChapitre": "Publipostage",
+        "partieChapitre": [
+          "Définir le type de publipostage (étiquette, enveloppe, lettre...)",
+          "Sélectionner la source des destinataires",
+          "Faire correspondre les champs entre la source et Word",
+          "Filtrer les destinaires d'un publipostage",
+          "Préparer son modèle de publipostage",
+          "Insérer les champs de fusion",
+          "Définir des règles",
+          "Apercevoir les résultats",
+          "Terminer et fusionner"
+        ],
+        "atelier": "Préparer un courrier type pour plusieurs destinataires"
+      },
+
+      {
+        "nbrChapitre": 17,
+        "titreChapitre": "Travail de groupe",
+        "partieChapitre": [
+          "Créer un commentaire",
+          "Afficher/masquer les commentaires",
+          "Gérer les commentaires",
+          "Activer le suivi des modifications",
+          "Comparer deux documents Word",
+          "Restreindre des modifications"
+        ]
+      },
+
+      {
+        "nbrChapitre": 18,
+        "titreChapitre": "Lier Word à d'autres applications",
+        "partieChapitre": [
+          "Copier des données Excel dans Word",
+          "Insérer une feuille de calcul Excel dans Word",
+          "Créer des liens hypertextes vers d’autres applications",
+          "Enregistrer au format HTML"
+        ],
+        "atelier": "Importer un tableau et un graphique d'Excel"
+      },
+
+      {
+        "nbrChapitre": 19,
+        "titreChapitre": "Personnaliser l'interface Word",
+        "partieChapitre": [
+          "Intégrer des raccourcis à la barre d'outils Accès Rapide",
+          "Créer un onglet avec ses outils favoris"
+        ]
+      },
+
+      {
+        "nbrChapitre": 20,
+        "titreChapitre": "Premiers pas avec les macros Word",
+        "partieChapitre": [
+          "Objectifs d'une macro",
+          "Affichage de l'onglet Développeur dans le ruban",
+          "Enregistrement d'une macro",
+          "Exécuter une macro",
+          "Exécuter une macro via des raccourcis (dans ruban, bouton, etc.)",
+          "Gestion des macros"
+        ]
+      },
+
+      {
+        "nbrChapitre": 21,
+        "titreChapitre": "Les macros VBA",
+        "partieChapitre": [
+          "Objectifs du langage VBA",
+          "Présentation du VBA",
+          "Utilisation du VBA",
+          "Principe de fonctionnement du VBA"
+        ]
+      },
+
+      {
+        "nbrChapitre": 22,
+        "titreChapitre": "Premiers pas avec VBA",
+        "partieChapitre": [
+          "Voir et modifier le code d'une macro",
+          "Syntaxe du langage",
+          "Variables",
+          "Constantes",
+          "Opérateurs",
+          "Intégrer une fonction VBA dans une macro Access"
+        ]
+      },
+
+      {
+        "nbrChapitre": 23,
+        "titreChapitre": "VBA pour Word",
+        "partieChapitre": [
+          "L'objet Application",
+          "L'objet Document",
+          "L'objet Paragraphs",
+          "L'objet Range",
+          "L'objet Characters"
+        ]
+      },
+
+      {
+        "nbrChapitre": 24,
+        "titreChapitre": "Structures de contrôles et boucles",
+        "partieChapitre": [
+          "Principes de fonctionnement",
+          "Les structures de conditions (If, Select Case)",
+          "Les conditions multiples (And / Or)",
+          "Présentation des boucles",
+          "Boucler suivant un compteur (For Next)",
+          "Boucler suivant une condition (Do Loop)"
+        ]
+      },
+
+      {
+        "nbrChapitre": 25,
+        "titreChapitre": "Les formulaires",
+        "partieChapitre": [
+          "Présentation du formulaire",
+          "Intégrer des contrôles de formulaire dans Word",
+          "Lier une macro à un évènement du formulaire"
+        ]
+      },
+
+      {
+        "nbrChapitre": 26,
+        "titreChapitre": "Lier Word à Excel",
+        "partieChapitre": [
+          "Intégrer les objets VBA d'Excel",
+          "Piloter un fichier Excel depuis Word",
+          "Importer des données Excel dans Word"
+        ]
+      }
+    ]
+  },
+
+  {
+    "titre": "Formation Wordpress : Initiation + Approfondissement",
+
+    "duration": 35,
+
+    "public": "Webmasters, Intégrateurs, Chefs de projets",
+
+    "preRequis": [
+      "Avoir les notions fondamentales sur Internet",
+      "Avoir une bonne connaissance d'outils bureautiques ou PAO"
+    ],
+
+    "objectifs": [
+      "Créer et gérer un site internet dynamique ou un blog avec le CMSWordPress",
+      "Apprendre les grands concepts de l'administration d'un site",
+      "Apprendre à personnaliser un thème ou un template WordPress",
+      "Savoir faire ses templates WordPress",
+      "Apprendre à utiliser des plug-ins"
+    ],
+
+    "chapitres": [
+      {
+        "nbrChapitre": 1,
+        "titreChapitre": "Introduction",
+        "partieChapitre": [
+          "Qu'est-ce qu'un CMS ?",
+          "Les principaux CMS",
+          "Principe et fonctionnement de WordPress",
+          "Historique et version"
+        ]
+      },
+      {
+        "nbrChapitre": 2,
+        "titreChapitre": "Installer un site WordPress",
+        "partieChapitre": [
+          "Connaître les différents outils nécessaires : serveur web, base de données, éditeur...",
+          "Connaître les procédures de mise à jour",
+          "Définir le titre de son site WordPress",
+          "Se créer un compte administrateur"
+        ],
+        "atelier": "installer WordPress sur un serveur web"
+      },
+      {
+        "nbrChapitre": 3,
+        "titreChapitre": "Comprendre le fonctionnement de WordPress",
+        "partieChapitre": [
+          "Naviguer entre partie publique et privée",
+          "Comprendre le tableau de bord",
+          "Comprendre l'organisation des menus d'administration",
+          "Faire la différence entre article et page"
+        ]
+      },
+
+      {
+        "nbrChapitre": 4,
+        "titreChapitre": "Publier des articles",
+        "partieChapitre": [
+          "Gérer les articles : création, modification, archivage",
+          "Découvrir le WYSIWYG",
+          "Organiser ses articles via les catégories",
+          "Affecter des catégories à un menu",
+          "Ajouter des médias : images, vidéos et audio",
+          "Programmer la publication d'un article"
+        ]
+      },
+
+      {
+        "nbrChapitre": 5,
+        "titreChapitre": "Gérer les commentaires",
+        "partieChapitre": [
+          "Interdire ou autoriser les commentaires",
+          "Mettre un commentaire en attente de modération",
+          "Corriger un commentaire",
+          "Considérer un commentaire comme indésirable",
+          "Se protéger des commentaires spams"
+        ]
+      },
+
+      {
+        "nbrChapitre": 6,
+        "titreChapitre": "Publier des pages",
+        "partieChapitre": [
+          "Créer des pages statiques",
+          "Gérer plusieurs niveaux de page",
+          "Définir la visibilité d'une page",
+          "Bien utiliser l'éditeur de texte de WordPress",
+          "Affecter une page à un menu",
+          "Créer une page d'accueil statique"
+        ],
+        "atelier": "publier et mettre en forme des contenus"
+      },
+
+      {
+        "nbrChapitre": 7,
+        "titreChapitre": "Bien référencer ses articles et pages",
+        "partieChapitre": [
+          "Comprendre les contraintes liées au référencement",
+          "Choisir ses mots-clefs",
+          "Bien travailler son contenu texte",
+          "Référencer ses images"
+        ]
+      },
+
+      {
+        "nbrChapitre": 8,
+        "titreChapitre": "Personnaliser l'apparence d'un site WordPress",
+        "partieChapitre": [
+          "Personnaliser le thème WordPress de base",
+          "Configurer l'en-tête et le menu",
+          "Définir un arrière-plan",
+          "Gérer les widgets : emplacement, désactivation..."
+        ]
+      },
+
+      {
+        "nbrChapitre": 9,
+        "titreChapitre": "Changer le thème de son site WordPress",
+        "partieChapitre": [
+          "Savoir comment choisir un bon thème",
+          "Télécharger un autre thème via WordPress",
+          "Modifier le thème installé"
+        ],
+        "atelier": "changer de thème"
+      },
+
+      {
+        "nbrChapitre": 10,
+        "titreChapitre": "Travailler la mise en page de ses pages et articles",
+        "partieChapitre": [
+          "Installer une extension de 'Page Builder'",
+          "Comprendre le fonctionnement de grille",
+          "Intégrer une mise en page",
+          "Créer des modèles de mise en page"
+        ]
+      },
+
+      {
+        "nbrChapitre": 11,
+        "titreChapitre": "Découvrir d'autres types d'extension pour WordPress",
+        "partieChapitre": [
+          "Créer des diaporamas d'images et de vidéos",
+          "Utiliser des polices personnalisées"
+        ],
+        "atelier": "installer et tester plusieurs extensions"
+      },
+
+      {
+        "nbrChapitre": 12,
+        "titreChapitre": "Intégrer des formulaires à son site WordPress",
+        "partieChapitre": [
+          "Installer une extension de formulaire",
+          "Créer un formulaire de contact",
+          "Définir des critères de validation (champ obligatoire, e-mail correct...)",
+          "Consulter les envois effectués",
+          "Découvrir les autres types de formulaire (inscription newsletter, demande de devis...)"
+        ]
+      },
+
+      {
+        "nbrChapitre": 13,
+        "titreChapitre": "Permettre aux internautes de se créer un compte",
+        "partieChapitre": [
+          "Autoriser la création de compte utilisateur",
+          "Créer des formulaire d'inscription et de connexion",
+          "Gérer les membres de son site"
+        ]
+      },
+
+      {
+        "nbrChapitre": 14,
+        "titreChapitre": "Gérer les utilisateurs WordPress",
+        "partieChapitre": [
+          "Connaître les informations d'un compte utilisateur",
+          "Comprendre les rôles par défaut de WordPress",
+          "Créer des rôles supplémentaires",
+          "Proposer à un internaute de s'inscrire sur son site WordPress"
+        ]
+      },
+
+      {
+        "nbrChapitre": 15,
+        "titreChapitre": "Découvrir d’autres extensions",
+        "partieChapitre": [
+          "Créer un site multilingue",
+          "Implémenter une section forum dans son site",
+          "Ajouter des champs spéciaux"
+        ]
+      },
+
+      {
+        "nbrChapitre": 16,
+        "titreChapitre": "Optimiser son site WordPress",
+        "partieChapitre": [
+          "Gérer la sauvegarde de son site WordPress",
+          "Gérer la mise en cache",
+          "Améliorer le temps de chargement des pages et des images",
+          "Vérifier l'état de santé du site"
+        ]
+      },
+
+      {
+        "nbrChapitre": 17,
+        "titreChapitre": "Dupliquer un thème",
+        "partieChapitre": [
+          "Rappels HTML5/CSS",
+          "Comprendre l'architecture d'un thème Wordpress",
+          "Découvrir l'éditeur de thème",
+          "Connaître le principe et les avantage des thèmes enfants"
+        ],
+        "atelier": "créer un thème enfant"
+      }
+    ]
+  }
+]

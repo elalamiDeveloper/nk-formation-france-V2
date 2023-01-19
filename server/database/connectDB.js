@@ -1,6 +1,9 @@
 import mongoose from 'mongoose';
-import dotenv from 'dotenv';
-dotenv.config();
+import * as dotenv from 'dotenv';
+import { URL } from 'url';
+
+const __dirname = decodeURI(new URL('.', import.meta.url).pathname);
+dotenv.config({ path: `${__dirname}/../.env` });
 
 const DB = process.env.DATABASE_CONNECTION.replace(
   '<PASSWORD>',

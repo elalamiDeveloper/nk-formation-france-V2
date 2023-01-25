@@ -1,18 +1,19 @@
-import express, { json } from 'express';
+import express from 'express';
+import morgan from 'morgan';
 import * as dotenv from 'dotenv';
 dotenv.config();
 
-import { router as formationRouter } from './routes/formationRoutes.js';
+import { createRequestTime } from './middlewares/index.js';
+import { formationsRouter } from './routes/index.js';
 
 const app = express();
 
-app.use(json());
+// MIDDLEWARES
+if (process.env.NODE_ENV === 'development') app.use(morgan('dev'));
+app.use(express.json());
+app.use(createRequestTime);
 
-app.use((req, res, next) => {
-  req.requestTime = new Date().toISOString();
-  next();
-});
-
-app.use('/api/v1/formations', formationRouter);
+// ROUTES
+app.use('/api/v1/formations', formationsRouter);
 
 export default app;

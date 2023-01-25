@@ -1,4 +1,4 @@
-import Formation from '../models/formationModel.js';
+import Formation from '../models/Formation.js';
 
 const createFormation = async (req, res, next) => {
   try {
@@ -6,7 +6,7 @@ const createFormation = async (req, res, next) => {
 
     res.status(201).json({
       status: 'success',
-      data: { newFormation },
+      data: { formation: newFormation },
     });
   } catch (err) {
     console.log(err.message);
@@ -16,7 +16,6 @@ const createFormation = async (req, res, next) => {
 const getAllFormations = async (req, res, next) => {
   try {
     const formations = await Formation.find();
-    console.log(formations);
 
     res.status(200).json({
       status: 'success',
@@ -28,12 +27,15 @@ const getAllFormations = async (req, res, next) => {
   }
 };
 
-const getFormation = async (req, res, next) => {
+const getFormationById = async (req, res, next) => {
   try {
     const formationID = req.params.id;
     const formation = await Formation.findById(formationID);
 
-    res.status(200).json({ status: 'success', data: { formation } });
+    res.status(200).json({
+      status: 'success',
+      data: { formation },
+    });
   } catch (err) {
     console.log(err.message);
   }
@@ -42,12 +44,15 @@ const getFormation = async (req, res, next) => {
 const updateFormation = async (req, res, next) => {
   try {
     const formationID = req.params.id;
-    const formation = await Tour.findByIdAndUpdate(formationID, req.body, {
+    const formation = await Formation.findByIdAndUpdate(formationID, req.body, {
       new: true,
       runValidators: true,
     });
 
-    res.status(200).json({ status: 'success', data: { formation } });
+    res.status(200).json({
+      status: 'success',
+      data: { formation },
+    });
   } catch (err) {
     console.log(err.message);
   }
@@ -60,7 +65,7 @@ const deleteFormation = async (req, res, next) => {
 
     res.status(204).json({
       status: 'success',
-      data: { message: null },
+      data: null,
     });
   } catch (err) {
     console.log(err.message);
@@ -70,7 +75,7 @@ const deleteFormation = async (req, res, next) => {
 export {
   createFormation,
   getAllFormations,
-  getFormation,
+  getFormationById,
   updateFormation,
   deleteFormation,
 };

@@ -1,20 +1,20 @@
 import express from 'express';
 
 import {
-  createFormation,
   getAllFormations,
-  getFormation,
+  getFormationById,
+  createFormation,
   updateFormation,
   deleteFormation,
-} from '../controllers/formationController.js';
+} from '../controllers/formationsControllers.js';
 
 const router = express.Router();
 
 router.route('/').get(getAllFormations).post(createFormation);
 router
   .route('/:id')
-  .get(getFormation)
+  .get(getFormationById)
   .patch(updateFormation)
   .delete(deleteFormation);
 
-export { router };
+export { router as formationsRouter };

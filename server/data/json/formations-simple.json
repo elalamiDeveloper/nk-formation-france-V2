@@ -4,6 +4,8 @@
 
     "duration": 35,
 
+    "groupe": "bureautique",
+
     "public": "Tous",
 
     "preRequis": ["Connaissance de l'environnement PC"],
@@ -292,6 +294,8 @@
 
     "duration": 35,
 
+    "groupe": "web",
+
     "public": "Webmasters, développeurs web",
 
     "preRequis": ["Connaissance de la création de site Web, de PHP, HTML/CSS"],
@@ -434,6 +438,8 @@
     "titre": "Formation Illustrator De l'initiation au perfectionnement",
 
     "duration": 35,
+
+    "groupe": "pao",
 
     "public": "Tous",
 
@@ -663,6 +669,8 @@
 
     "duration": 35,
 
+    "groupe": "pao",
+
     "public": "Tous",
 
     "preRequis": ["Maîtrise de l'environnement PC ou Mac"],
@@ -880,6 +888,8 @@
     "titre": "Formation Management : Initiation + Approfondissement",
 
     "duration": 35,
+
+    "groupe": "management",
 
     "public": "Managers juniors, chefs de projets, responsables découvrant les fonctions de management",
 
@@ -1251,6 +1261,8 @@
 
     "duration": 35,
 
+    "groupe": "pao",
+
     "public": "Tous",
 
     "preRequis": ["Connaissance de l'environnement PC ou Mac"],
@@ -1495,6 +1507,8 @@
 
     "duration": 16,
 
+    "groupe": "bureautique",
+
     "public": "Tous",
 
     "preRequis": ["Connaissance de l'environnement PC"],
@@ -1641,6 +1655,8 @@
     "titre": "Formation Premiere Pro De l'initiation au perfectionnement",
 
     "duration": 35,
+
+    "groupe": "pao",
 
     "public": "Tout public, professionnel ou individuel, souhaitant se former au montage vidéo virtuel et à l'utilisation de Adobe® Premiere®. Utilisation dans le cadre de films institutionnels, diffusions off-line ou Web, communication/marketing, etc.",
 
@@ -1849,6 +1865,8 @@
     "titre": "Formation Word : De l'initiation au perfectionnement",
 
     "duration": 35,
+
+    "groupe": "bureautique",
 
     "public": "Tous",
 
@@ -2176,6 +2194,8 @@
     "titre": "Formation Wordpress : Initiation + Approfondissement",
 
     "duration": 35,
+
+    "groupe": "web",
 
     "public": "Webmasters, Intégrateurs, Chefs de projets",
 

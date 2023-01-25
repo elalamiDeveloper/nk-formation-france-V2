@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { NavBarLink } from '../utils/linksComponents';
+import { NavBarLink } from './';
 
 const NavBarContainer = styled.nav`
   ul {

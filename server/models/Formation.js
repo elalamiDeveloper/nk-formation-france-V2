@@ -18,6 +18,12 @@ const formationSchema = new mongoose.Schema({
     required: true,
   },
 
+  groupe: {
+    type: String,
+    required: true,
+    trim: true,
+  },
+
   preRequis: {
     type: [String],
     required: true,

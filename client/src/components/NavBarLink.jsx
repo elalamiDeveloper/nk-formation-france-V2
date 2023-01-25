@@ -5,6 +5,8 @@ import { JackInTheBox } from 'react-awesome-reveal';
 const NavBarLinkContainer = styled.li`
   a:link,
   a:visited {
+    text-transform: capitalize;
+    box-shadow: none;
     padding: 1.5rem 3rem;
     background: #1a4264;
     color: #f0e6d1;

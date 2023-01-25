@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 
-import { Home } from './pages';
+import { Home, Formation } from './pages';
 import { Header } from './components';
 
 const App = () => (
@@ -8,6 +8,7 @@ const App = () => (
     <Header />
     <Routes>
       <Route path="/" element={<Home />}></Route>
+      <Route path="/formations" element={<Formation />}></Route>
     </Routes>
   </>
 );

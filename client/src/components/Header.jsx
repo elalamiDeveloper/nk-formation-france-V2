@@ -2,7 +2,7 @@ import { useState } from 'react';
 import styled from 'styled-components';
 
 import { MenuIcon } from '../utils/linksIcons';
-import { Logo, NavBar } from '../utils/linksComponents';
+import { Logo, NavBar } from './';
 
 const HeaderContainer = styled.header`
   display: flex;

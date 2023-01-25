@@ -33,28 +33,6 @@ const DemandeSectionContainer = styled.section`
           font-weight: 700;
         }
       }
-
-      a:link,
-      a:visited {
-        text-transform: uppercase;
-
-        font-size: 2.2rem;
-        font-weight: 700;
-        padding: 1.5rem 3rem;
-        background: #bb8f3a;
-        border-radius: 50px;
-        border: 2px solid #f0e6d1;
-        transition: 0.7s;
-        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-      }
-
-      a:hover,
-      a:active {
-        color: #1a4264;
-        border-color: #bb8f3a;
-        background: #f0e6d1;
-        transform: translateY(-10px);
-      }
     }
 
     .img-container {

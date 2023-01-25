@@ -24,6 +24,7 @@ const NavBarContainer = styled.nav`
       flex-direction: column;
       align-items: stretch;
       gap: 0;
+      background: rgba(240, 230, 209, 0.8);
     }
 
     &.hidden {

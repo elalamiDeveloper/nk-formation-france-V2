@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 
-import { Home } from './utils/linksPages';
-import { Header } from './utils/linksComponents';
+import { Home } from './pages';
+import { Header } from './components';
 
 const App = () => (
   <>

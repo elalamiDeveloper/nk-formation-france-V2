@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { linkLogo } from '../utils/linksAssets';
+import { linkLogoImg } from '../assets';
 
 const LogoContainer = styled.div`
   width: 12.5rem;
@@ -8,7 +8,7 @@ const LogoContainer = styled.div`
 
 const Logo = () => (
   <LogoContainer>
-    <img src={linkLogo} alt="logo nk-formation" />
+    <img src={linkLogoImg} alt="logo nk-formation" />
   </LogoContainer>
 );
 

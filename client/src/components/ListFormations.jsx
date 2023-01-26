@@ -13,6 +13,7 @@ const ListFormationContainer = styled.ul`
 
   @media screen and (max-width: 1070px) {
     flex-direction: column;
+    align-items: center;
   }
 `;
 

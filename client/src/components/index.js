@@ -9,6 +9,7 @@ import CardFormation from './CardFormation';
 import ListFormations from './ListFormations';
 import ContactForm from './ContactForm';
 import InputItem from './InputItem';
+import Footer from './Footer';
 
 export {
   Header,
@@ -22,4 +23,5 @@ export {
   ListFormations,
   ContactForm,
   InputItem,
+  Footer,
 };

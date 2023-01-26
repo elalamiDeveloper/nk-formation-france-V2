@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import axios from 'axios';
 import styled from 'styled-components';
 
 import { InputItem } from './';
@@ -49,15 +50,11 @@ const ContactFormContainer = styled.form`
   }
 
   @media screen and (max-width: 1000px) {
-    .contact-page-form {
-      width: 100%;
-    }
+    width: 100%;
   }
 
   @media screen and (max-width: 760px) {
-    .contact-page-form {
-      grid-template-columns: 1fr;
-    }
+    grid-template-columns: 1fr;
 
     .input-team {
       gap: 1rem;
@@ -106,9 +103,11 @@ const ContactForm = () => {
 
   const onSubmitHandler = async (e) => {
     e.preventDefault();
-    const newId = uuidv4();
-    const newContact = { ...inputFields, id: newId };
-    addUser(newContact);
+    const {
+      data: { data },
+    } = await axios.post('http://localhost:8000/api/v1/contacts', inputFields);
+
+    console.log(data);
 
     setInputFields({
       prenom: '',
@@ -124,10 +123,7 @@ const ContactForm = () => {
   };
 
   return (
-    <ContactFormContainer
-      className="contact-page-form"
-      onSubmit={onSubmitHandler}
-    >
+    <ContactFormContainer onSubmit={onSubmitHandler}>
       <h3>Écrivez-nous.</h3>
 
       <InputItem

@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 
 import { Home, Formation, Contact, AboutUs, Login } from './pages';
-import { Header, Footer } from './components';
+import { Header, Footer, ContactBar } from './components';
 
 const App = () => (
   <>
@@ -13,6 +13,7 @@ const App = () => (
       <Route path="/about-us" element={<AboutUs />}></Route>
       <Route path="/login" element={<Login />}></Route>
     </Routes>
+    <ContactBar />
     <Footer />
   </>
 );

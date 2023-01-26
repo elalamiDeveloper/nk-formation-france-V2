@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import styled from 'styled-components';
+import { Zoom } from 'react-awesome-reveal';
 
 import { ListFormations } from '../components';
 
@@ -22,12 +23,14 @@ const FormationContainer = styled.div`
 
   .gender-item {
     h2 {
+      padding: 1.5rem;
       font-size: 4.2rem;
       margin-bottom: 4rem;
       margin-top: 7rem;
-      color: #1a4264;
-      border: 0.3rem solid #1a4264;
+      color: #f0e6d1;
+      background-color: rgba(26, 66, 100, 0.9);
       text-align: center;
+      border-radius: 0.5rem;
     }
   }
 `;
@@ -68,22 +71,30 @@ const Formation = () => {
         <h1 className="formation-title">Catalogue de formations</h1>
 
         <div className="gender-item">
-          <h2>Bureautique</h2>
+          <Zoom>
+            <h2>Bureautique</h2>
+          </Zoom>
           <ListFormations formations={formationsBureautique} />
         </div>
 
         <div className="gender-item">
-          <h2>Management</h2>
+          <Zoom>
+            <h2>Management</h2>
+          </Zoom>
           <ListFormations formations={formationsManagement} />
         </div>
 
         <div className="gender-item">
-          <h2>Publication assistée par ordinateur (PAO)</h2>
+          <Zoom>
+            <h2>Publication assistée par ordinateur (PAO)</h2>
+          </Zoom>
           <ListFormations formations={formationsPAO} />
         </div>
 
         <div className="gender-item">
-          <h2>Web</h2>
+          <Zoom>
+            <h2>Web</h2>
+          </Zoom>
           <ListFormations formations={formationsWeb} />
         </div>
       </div>

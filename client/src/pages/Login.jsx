@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import { JackInTheBox } from 'react-awesome-reveal';
 
 const LoginContainer = styled.div`
+  min-height: 47.9vh;
   .connect-page {
     height: 42rem;
     display: flex;

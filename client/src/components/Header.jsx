@@ -15,6 +15,7 @@ const HeaderContainer = styled.header`
   z-index: 500;
   position: sticky;
   background: #f0e6d1;
+  top: 0;
   right: 0;
   left: 0;
 

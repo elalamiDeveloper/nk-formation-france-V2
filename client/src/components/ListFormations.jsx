@@ -4,6 +4,7 @@ import { JackInTheBox } from 'react-awesome-reveal';
 import { CardFormation } from './';
 
 const ListFormationContainer = styled.ul`
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -12,8 +13,6 @@ const ListFormationContainer = styled.ul`
 
   @media screen and (max-width: 1070px) {
     flex-direction: column;
-    width: 70%;
-    margin: auto;
   }
 `;
 

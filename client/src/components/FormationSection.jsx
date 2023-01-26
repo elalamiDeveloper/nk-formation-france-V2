@@ -5,19 +5,23 @@ import styled from 'styled-components';
 import { ListFormations } from './';
 
 const FormationSectionContainer = styled.div`
-  .title {
-    font-size: 4.6rem;
-    text-align: center;
-    color: #1a4264;
-    margin-bottom: 1.5rem;
-  }
+  .container {
+    background: #e4d0aa;
 
-  .sous-title {
-    display: inline-block;
-    width: 100%;
-    font-size: 1.6rem;
-    text-align: center;
-    margin-bottom: 9rem;
+    .title {
+      font-size: 4.6rem;
+      text-align: center;
+      color: #1a4264;
+      margin-bottom: 1.5rem;
+    }
+
+    .sous-title {
+      display: inline-block;
+      width: 100%;
+      font-size: 1.6rem;
+      text-align: center;
+      margin-bottom: 9rem;
+    }
   }
 `;
 
@@ -39,15 +43,17 @@ const FormationSection = () => {
   }, []);
 
   return (
-    <FormationSectionContainer className="container section-padding">
-      <h2 className="title">
-        Acquérir des compétences professionnelles recherchées
-      </h2>
-      <span className="sous-title">
-        Faite votre choix parmis nos cours en ligne...
-      </span>
+    <FormationSectionContainer>
+      <div className="container section-padding">
+        <h2 className="title">
+          Acquérir des compétences professionnelles recherchées
+        </h2>
+        <span className="sous-title">
+          Faite votre choix parmis nos cours en ligne...
+        </span>
 
-      <ListFormations formations={formationsRended}></ListFormations>
+        <ListFormations formations={formationsRended}></ListFormations>
+      </div>
     </FormationSectionContainer>
   );
 };

@@ -7,6 +7,8 @@ import DemandeSection from './DemandeSection';
 import FormationSection from './FormationSection';
 import CardFormation from './CardFormation';
 import ListFormations from './ListFormations';
+import ContactForm from './ContactForm';
+import InputItem from './InputItem';
 
 export {
   Header,
@@ -18,4 +20,6 @@ export {
   DemandeSection,
   FormationSection,
   ListFormations,
+  ContactForm,
+  InputItem,
 };

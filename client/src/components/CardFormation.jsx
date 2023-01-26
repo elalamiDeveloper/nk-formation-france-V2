@@ -2,8 +2,7 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
 const CardFormationContainer = styled.div`
-  width: 50rem;
-  min-width: 50rem;
+  max-width: 50rem;
   height: 100%;
   background: #1a4264;
   box-shadow: 10px 10px #cca65c;

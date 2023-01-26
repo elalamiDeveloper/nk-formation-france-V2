@@ -5,7 +5,7 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 
 import { createRequestTime } from './middlewares/index.js';
-import { formationsRouter } from './routes/index.js';
+import { formationsRouter, contactsRouter } from './routes/index.js';
 
 const app = express();
 
@@ -17,5 +17,6 @@ app.use(createRequestTime);
 
 // ROUTES
 app.use('/api/v1/formations', formationsRouter);
+app.use('/api/v1/contacts', contactsRouter);
 
 export default app;

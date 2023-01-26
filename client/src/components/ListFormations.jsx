@@ -8,7 +8,7 @@ const ListFormationContainer = styled.ul`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   gap: 7.5rem;
 
   @media screen and (max-width: 1070px) {

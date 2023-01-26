@@ -84,7 +84,7 @@ button {
 
 a:hover,
 a:active,
-:hover {
+button:hover {
   color: #bb8f3a;
   border-color: #bb8f3a;
   transform: translateY(-10px);

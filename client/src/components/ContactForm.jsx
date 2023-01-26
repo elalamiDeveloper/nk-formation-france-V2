@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 import { InputItem } from './';
 
-const ContactFormContainer = styled.div`
+const ContactFormContainer = styled.form`
   padding: 5rem;
   background: #1a4264;
   color: #f0e6d1;

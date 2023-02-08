@@ -44,10 +44,12 @@ const NavBarLinkContainer = styled.li`
   }
 `;
 
-const NavBarLink = ({ value, path }) => (
+const NavBarLink = ({ value, path, onClick }) => (
   <NavBarLinkContainer>
     <JackInTheBox>
-      <Link to={path}>{value}</Link>
+      <Link to={path} onClick={() => onClick(false)}>
+        {value}
+      </Link>
     </JackInTheBox>
   </NavBarLinkContainer>
 );

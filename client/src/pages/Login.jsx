@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { JackInTheBox } from 'react-awesome-reveal';
 
 const LoginContainer = styled.div`
-  min-height: 47.9vh;
+  min-height: 59.8rem;
   .connect-page {
     height: 42rem;
     display: flex;
@@ -52,6 +52,14 @@ const LoginContainer = styled.div`
     font-size: 1.8rem;
   }
 
+  @media screen and (max-width: 1300px) {
+    min-height: 68.4rem;
+  }
+
+  @media screen and (max-width: 1170px) {
+    min-height: 78rem;
+  }
+
   @media screen and (max-width: 600px) {
     .connect-form {
       width: 85%;
@@ -75,7 +83,7 @@ const Login = () => {
             <input type="password" />
           </div>
 
-          <button className="btn-submit">Connexion</button>
+          <button className="btn-submit btn-primary">Connexion</button>
         </form>
       </JackInTheBox>
     </LoginContainer>

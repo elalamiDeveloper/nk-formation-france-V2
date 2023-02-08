@@ -69,7 +69,7 @@ img {
 
 a:link,
 a:visited,
-button {
+button.btn-primary {
   text-transform: uppercase;
   text-align: center;
   font-size: 2.2rem;
@@ -84,7 +84,7 @@ button {
 
 a:hover,
 a:active,
-button:hover {
+button:hover.btn-primary {
   color: #bb8f3a;
   border-color: #bb8f3a;
   transform: translateY(-10px);

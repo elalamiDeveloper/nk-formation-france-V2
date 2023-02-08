@@ -46,7 +46,7 @@ const Header = () => {
   return (
     <HeaderContainer>
       <Logo />
-      <NavBar hideNavBar={hideNavBar} />
+      <NavBar hideNavBar={hideNavBar} setHideNavBar={setHideNavBar} />
       <MenuIcon className="burger-menu" onClick={onToggleHandler} />
     </HeaderContainer>
   );

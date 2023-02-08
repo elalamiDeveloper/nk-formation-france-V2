@@ -9,7 +9,10 @@ const createFormation = async (req, res, next) => {
       data: { formation: newFormation },
     });
   } catch (err) {
-    console.log(err.message);
+    res.status(404).json({
+      status: 'fail',
+      message: err,
+    });
   }
 };
 
@@ -23,7 +26,10 @@ const getAllFormations = async (req, res, next) => {
       data: { formations },
     });
   } catch (err) {
-    console.log(err.message);
+    res.status(404).json({
+      status: 'fail',
+      message: err,
+    });
   }
 };
 
@@ -37,7 +43,10 @@ const getFormationById = async (req, res, next) => {
       data: { formation },
     });
   } catch (err) {
-    console.log(err.message);
+    res.status(404).json({
+      status: 'fail',
+      message: err,
+    });
   }
 };
 
@@ -54,7 +63,10 @@ const updateFormation = async (req, res, next) => {
       data: { formation },
     });
   } catch (err) {
-    console.log(err.message);
+    res.status(404).json({
+      status: 'fail',
+      message: err,
+    });
   }
 };
 
@@ -68,7 +80,10 @@ const deleteFormation = async (req, res, next) => {
       data: null,
     });
   } catch (err) {
-    console.log(err.message);
+    res.status(404).json({
+      status: 'fail',
+      message: err,
+    });
   }
 };
 

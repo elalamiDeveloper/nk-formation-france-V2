@@ -103,11 +103,7 @@ const ContactForm = () => {
 
   const onSubmitHandler = async (e) => {
     e.preventDefault();
-    const {
-      data: { data },
-    } = await axios.post('http://localhost:8000/api/v1/contacts', inputFields);
-
-    console.log(data);
+    await axios.post('http://localhost:8000/api/v1/contacts', inputFields);
 
     setInputFields({
       prenom: '',
@@ -202,7 +198,9 @@ const ContactForm = () => {
         ></textarea>
       </div>
 
-      <button type="submit">Envoyer</button>
+      <button type="submit" className="btn-primary">
+        Envoyer
+      </button>
     </ContactFormContainer>
   );
 };

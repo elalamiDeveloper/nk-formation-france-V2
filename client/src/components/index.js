@@ -11,6 +11,7 @@ import ContactForm from './ContactForm';
 import InputItem from './InputItem';
 import ContactBar from './ContactBar';
 import Footer from './Footer';
+import NavListAdmin from './NavListAdmin';
 
 export {
   Header,
@@ -26,4 +27,5 @@ export {
   InputItem,
   ContactBar,
   Footer,
+  NavListAdmin,
 };

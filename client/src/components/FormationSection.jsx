@@ -48,11 +48,12 @@ const FormationSection = () => {
         <h2 className="title">
           Acquérir des compétences professionnelles recherchées
         </h2>
+
         <span className="sous-title">
           Faite votre choix parmis nos cours en ligne...
         </span>
 
-        <ListFormations formations={formationsRended}></ListFormations>
+        <ListFormations formations={formationsRended} />
       </div>
     </FormationSectionContainer>
   );

@@ -33,7 +33,7 @@ const NavBarContainer = styled.nav`
   }
 `;
 
-const NavBar = ({ hideNavBar }) => {
+const NavBar = ({ hideNavBar, setHideNavBar }) => {
   const links = [
     { value: 'Accueil', path: '/' },
     { value: 'Catalogue de formation', path: '/formations' },
@@ -46,7 +46,12 @@ const NavBar = ({ hideNavBar }) => {
     <NavBarContainer className={hideNavBar ? 'hidden' : ''}>
       <ul className={`navbar-list `}>
         {links.map(({ value, path }, i) => (
-          <NavBarLink key={i} value={value} path={path} />
+          <NavBarLink
+            key={i}
+            value={value}
+            path={path}
+            onClick={setHideNavBar}
+          />
         ))}
       </ul>
     </NavBarContainer>

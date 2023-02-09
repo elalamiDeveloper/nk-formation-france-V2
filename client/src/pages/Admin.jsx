@@ -1,8 +1,9 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
 
 import { LogoutIcon, MoodIcon, MenuBookIcon } from '../utils/linksIcons';
-import { NavListAdmin } from '../components';
+import { NavListAdmin, ListClients, Logo } from '../components';
 
 const AdminContainer = styled.div`
   display: flex;
@@ -51,36 +52,38 @@ const listFormationNavBar = [
 const Admin = () => {
   const [listNavBar, setListNavBar] = useState([]);
   const [activeNavBar, setActiveNavBar] = useState('');
+  const navigate = useNavigate();
 
-  const onChangeNavListBarHandler = (list) => {
-    setListNavBar(list);
-    setActiveNavBar('client');
+  const onClientHandler = () => setActiveNavBar('clients');
+  const onFormationHandler = () => setActiveNavBar('formations');
+  const onLogoutHandler = () => navigate('/');
+
+  const onChangeNavListBarHandler = (e) => {
+    console.log(clientsRef.current);
+    // console.log(clientsRef.current.value);
+    // console.log(iconRef.current.parentNode.value);
+    // setListNavBar(list);
+    // setActiveNavBar(clientsRef.current.value);
   };
 
   return (
     <AdminContainer>
       <aside className="admin-btns">
-        <button
-          className="clients"
-          onClick={() => onChangeNavListBarHandler(listClientNavBar)}
-        >
+        <button className="clients" value="clients" onClick={onClientHandler}>
           <MoodIcon />
         </button>
         <button
           className="formations"
-          onClick={() => onChangeNavListBarHandler(listFormationNavBar)}
+          value="foramtions"
+          onClick={onFormationHandler}
         >
           <MenuBookIcon />
         </button>
-        <button className="logout">
+        <button className="logout" value="logout" onClick={onLogoutHandler}>
           <LogoutIcon />
         </button>
       </aside>
-      <NavListAdmin
-        listNavBar={listNavBar}
-        hidden={activeNavBar ? false : true}
-      />
-      <div className="content">Content</div>
+      {activeNavBar === 'clients' ? <ListClients /> : 'FORMATIONS'}
     </AdminContainer>
   );
 };

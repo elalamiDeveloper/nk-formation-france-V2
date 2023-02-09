@@ -12,6 +12,8 @@ import InputItem from './InputItem';
 import ContactBar from './ContactBar';
 import Footer from './Footer';
 import NavListAdmin from './NavListAdmin';
+import ListClients from './ListClients';
+import Client from './Client';
 
 export {
   Header,
@@ -28,4 +30,6 @@ export {
   ContactBar,
   Footer,
   NavListAdmin,
+  ListClients,
+  Client,
 };

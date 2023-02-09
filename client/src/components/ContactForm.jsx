@@ -103,7 +103,10 @@ const ContactForm = () => {
 
   const onSubmitHandler = async (e) => {
     e.preventDefault();
-    await axios.post('http://localhost:8000/api/v1/contacts', inputFields);
+    await axios.post(
+      'https://nk-formation-france-v2.onrender.com/api/v1/contacts',
+      inputFields
+    );
 
     setInputFields({
       prenom: '',

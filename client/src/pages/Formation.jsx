@@ -57,7 +57,9 @@ const Formation = () => {
     const fetchFormations = async () => {
       const {
         data: { data },
-      } = await axios.get('http://localhost:8000/api/v1/formations');
+      } = await axios.get(
+        'https://nk-formation-france-v2.onrender.com/api/v1/formations'
+      );
 
       setFormations(data.formations);
     };

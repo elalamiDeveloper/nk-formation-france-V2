@@ -51,30 +51,38 @@ const LoginContainer = styled.div`
     border-radius: 0.5rem;
     font-size: 1.8rem;
   }
+
+  @media screen and (max-width: 500px) {
+    .connect-form {
+      width: 90%;
+      grid-template-columns: 1fr;
+    }
+  }
 `;
 
 const Login = () => {
   return (
-    <LoginContainer>
-      <JackInTheBox className="connect-page">
-        <form className="connect-form">
-          <div className="item">
-            <label htmlFor="identifiant">Identifiant</label>
-            <input type="text" />
-          </div>
+    <>
+      <LoginContainer>
+        <JackInTheBox className="connect-page">
+          <form className="connect-form">
+            <div className="item">
+              <label htmlFor="identifiant">Identifiant</label>
+              <input type="text" />
+            </div>
 
-          <div className="item">
-            <label htmlFor="password">Mot de passe</label>
-            <input type="password" />
-          </div>
+            <div className="item">
+              <label htmlFor="password">Mot de passe</label>
+              <input type="password" />
+            </div>
 
-          <button className="btn-submit btn-primary">Connexion</button>
-        </form>
-      </JackInTheBox>
-
+            <button className="btn-submit btn-primary">Connexion</button>
+          </form>
+        </JackInTheBox>
+      </LoginContainer>
       <ContactBar fixed={true} />
       <Footer fixed={true} />
-    </LoginContainer>
+    </>
   );
 };
 

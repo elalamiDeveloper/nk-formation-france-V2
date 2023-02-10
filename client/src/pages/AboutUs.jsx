@@ -27,8 +27,13 @@ const AboutUsContainer = styled.div`
     overflow: hidden;
   }
 
+  @media screen and (max-width: 280px) {
+    margin-bottom: 25rem;
+  }
+
   @media screen and (max-width: 1000px) {
     flex-direction: column;
+    margin-bottom: 15rem;
 
     h1 {
       text-align: center;
@@ -42,6 +47,10 @@ const AboutUsContainer = styled.div`
     .img {
       order: -1;
     }
+  }
+
+  @media screen and (max-width: 280px) {
+    margin-bottom: 25rem;
   }
 `;
 

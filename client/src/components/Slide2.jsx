@@ -14,7 +14,7 @@ const Slide2Container = styled.div`
 
   .text-container {
     h2 {
-      font-size: 5.4rem;
+      font-size: 4.6rem;
       text-align: center;
       color: #1a4264;
     }

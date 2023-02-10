@@ -133,6 +133,30 @@ const ContactBarContainer = styled.div`
     gap: 2rem;
   }
 
+  @media screen and (max-width: 1300px) {
+    &.fixed {
+      bottom: 4.6rem;
+    }
+  }
+
+  /* @media screen and (max-width: 900px) {
+    &.fixed {
+      bottom: 4.8rem;
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    &.fixed {
+      bottom: 4.8rem;
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    &.fixed {
+      bottom: 4.8rem;
+    }
+  } */
+
   @media screen and (max-width: 900px) {
     justify-content: space-around;
 
@@ -142,6 +166,12 @@ const ContactBarContainer = styled.div`
 
     a.call-icon {
       display: inline-block;
+    }
+  }
+
+  @media screen and (max-width: 370px) {
+    &.fixed {
+      bottom: 6.3rem;
     }
   }
 `;

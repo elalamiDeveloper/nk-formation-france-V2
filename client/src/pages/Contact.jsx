@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { Zoom, Slide } from 'react-awesome-reveal';
 
-import { ContactForm } from '../components';
+import { ContactForm, ContactBar, Footer } from '../components';
 
 const ContactContainer = styled.div`
   display: flex;
@@ -38,39 +38,45 @@ const ContactContainer = styled.div`
 
 const Contact = () => {
   return (
-    <ContactContainer className="section-padding container">
-      <div className="contact-page-text">
-        <Zoom left cascade>
-          <h1>Nous contacter.</h1>
-        </Zoom>
+    <>
+      <ContactContainer className="section-padding container">
+        <div className="contact-page-text">
+          <Zoom left cascade>
+            <h1>Nous contacter.</h1>
+          </Zoom>
 
-        <Slide>
-          <p>
-            Remplissez le formulaire et nos responsables pédagogiques vous
-            répondront sous 30 min maximum !
-          </p>
-          <p>
-            Ils vous guideront et vous aideront a trouver LA formation dont vous
-            avez besoin.
-          </p>
-          <p>Si vous voulez joindre directement nos conseillers formations :</p>
-          <p>
-            Du lundi au vendredi, dont les jours fériés, de
-            <strong> 9h à 19h</strong>
-            <br /> <strong> 07 82 71 47 54 </strong>
-          </p>
-          <p>
-            Par email : <strong>contact@nkformationfrance.fr</strong>
-          </p>
-          <p>
-            Partenariat <br />
-            Autres questions ?
-          </p>
-        </Slide>
-      </div>
+          <Slide>
+            <p>
+              Remplissez le formulaire et nos responsables pédagogiques vous
+              répondront sous 30 min maximum !
+            </p>
+            <p>
+              Ils vous guideront et vous aideront a trouver LA formation dont
+              vous avez besoin.
+            </p>
+            <p>
+              Si vous voulez joindre directement nos conseillers formations :
+            </p>
+            <p>
+              Du lundi au vendredi, dont les jours fériés, de
+              <strong> 9h à 19h</strong>
+              <br /> <strong> 07 82 71 47 54 </strong>
+            </p>
+            <p>
+              Par email : <strong>contact@nkformationfrance.fr</strong>
+            </p>
+            <p>
+              Partenariat <br />
+              Autres questions ?
+            </p>
+          </Slide>
+        </div>
 
-      <ContactForm />
-    </ContactContainer>
+        <ContactForm />
+      </ContactContainer>
+      <ContactBar />
+      <Footer />
+    </>
   );
 };
 

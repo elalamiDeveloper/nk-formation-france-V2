@@ -19,10 +19,11 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 50%;
 }
 
 body {
+  overflow-x: hidden;
   background: #f0e6d1;
   color: #050d13;
   font-family: 'Inter', sans-serif;
@@ -93,12 +94,12 @@ button:hover.btn-primary {
 
 @media screen and (max-width: 1300px) {
   html {
-    font-size: 57.5%;
+    font-size: 45%;
   }
 }
 
 @media screen and (max-width: 1170px) {
   html {
-    font-size: 52.5%;
+    font-size: 40%;
   }
 }

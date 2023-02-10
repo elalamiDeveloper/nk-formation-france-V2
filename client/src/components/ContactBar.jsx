@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { CallIcon, EmailIcon } from '../utils/linksIcons.js';
 
 const ContactBarContainer = styled.div`
+  z-index: 500;
   padding: 2.5rem 5rem;
   background: #cca65c;
   display: flex;
@@ -12,6 +13,13 @@ const ContactBarContainer = styled.div`
   bottom: 0;
   left: 0;
   right: 0;
+
+  &.fixed {
+    position: fixed;
+    bottom: 4.8rem;
+    left: 0;
+    right: 0;
+  }
 
   .contact-text {
     color: #333;
@@ -138,9 +146,9 @@ const ContactBarContainer = styled.div`
   }
 `;
 
-const ContactBar = () => {
+const ContactBar = ({ fixed }) => {
   return (
-    <ContactBarContainer>
+    <ContactBarContainer className={fixed && 'fixed'}>
       <div className="contact-text">
         <h2 className="contact-title">NK FORMATION</h2>
         <strong>9h à 19h du Lundi au Vendredi</strong>

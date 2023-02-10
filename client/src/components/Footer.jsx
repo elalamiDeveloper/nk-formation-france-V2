@@ -1,16 +1,17 @@
-import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
-import { linkLogoImg } from '../assets';
-import {
-  CallIcon,
-  EmailIcon,
-  FacebookIcon,
-  InstagramIcon,
-  LinkedInIcon,
-} from '../utils/linksIcons.js';
-
 const FooterContainer = styled.footer`
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  &.fixed {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
   .footer-copyright {
     background: #1a4264;
     padding: 1.5rem 3rem;
@@ -24,9 +25,9 @@ const FooterContainer = styled.footer`
   }
 `;
 
-const Footer = () => {
+const Footer = ({ fixed }) => {
   return (
-    <FooterContainer>
+    <FooterContainer className={fixed && 'fixed'}>
       <p className="footer-copyright">
         Copyright © 2023 <span>NK Formation</span>. Politique de confidentialité
         Mentions légales.

@@ -23,8 +23,6 @@ const App = () => (
       <Route path="/client" element={<Client />}></Route>
       <Route path="/admin" element={<Admin />}></Route>
     </Routes>
-    <ContactBar />
-    <Footer />
   </>
 );
 

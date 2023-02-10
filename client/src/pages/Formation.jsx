@@ -3,7 +3,7 @@ import axios from 'axios';
 import styled from 'styled-components';
 import { Zoom } from 'react-awesome-reveal';
 
-import { ListFormations } from '../components';
+import { ListFormations, ContactBar, Footer } from '../components';
 
 const FormationContainer = styled.div`
   background: #f0e6d1;
@@ -100,6 +100,9 @@ const Formation = () => {
           <ListFormations formations={formationsWeb} />
         </div>
       </div>
+
+      <ContactBar />
+      <Footer />
     </FormationContainer>
   );
 };

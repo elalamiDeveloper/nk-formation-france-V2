@@ -1,10 +1,10 @@
 import styled from 'styled-components';
 import { JackInTheBox } from 'react-awesome-reveal';
+import { ContactBar, Footer } from '../components';
 
 const LoginContainer = styled.div`
-  min-height: 59.8rem;
   .connect-page {
-    height: 42rem;
+    padding-top: 10rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,21 +51,6 @@ const LoginContainer = styled.div`
     border-radius: 0.5rem;
     font-size: 1.8rem;
   }
-
-  @media screen and (max-width: 1300px) {
-    min-height: 68.4rem;
-  }
-
-  @media screen and (max-width: 1170px) {
-    min-height: 78rem;
-  }
-
-  @media screen and (max-width: 600px) {
-    .connect-form {
-      width: 85%;
-      grid-template-columns: 1fr;
-    }
-  }
 `;
 
 const Login = () => {
@@ -86,6 +71,9 @@ const Login = () => {
           <button className="btn-submit btn-primary">Connexion</button>
         </form>
       </JackInTheBox>
+
+      <ContactBar fixed={true} />
+      <Footer fixed={true} />
     </LoginContainer>
   );
 };

@@ -9,7 +9,7 @@ const formations = JSON.parse(
   fs.readFileSync(`${__dirname}json/formations-simple.json`, 'utf-8')
 );
 
-const importData = async () => {
+const importFormationData = async () => {
   try {
     await Formation.create(formations);
     console.log('Data successfully loaded!...');
@@ -19,7 +19,7 @@ const importData = async () => {
   }
 };
 
-const deleteData = async () => {
+const deleteFormationData = async () => {
   try {
     await Formation.deleteMany();
     console.log('Data successfully deleted!');
@@ -29,4 +29,4 @@ const deleteData = async () => {
   }
 };
 
-export { importData, deleteData };
+export { importFormationData, deleteFormationData };

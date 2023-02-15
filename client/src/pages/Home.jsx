@@ -10,11 +10,11 @@ import {
 
 const HomeContainer = styled.main``;
 
-const Home = () => (
+const Home = ({ onChangeselectedFormation }) => (
   <HomeContainer>
     <HeroSection />
     <DemandeSection />
-    <FormationSection />
+    <FormationSection onChangeselectedFormation={onChangeselectedFormation} />
     <ContactBar />
     <Footer />
   </HomeContainer>

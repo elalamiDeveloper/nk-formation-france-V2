@@ -17,12 +17,15 @@ const ListFormationContainer = styled.ul`
   }
 `;
 
-const ListFormations = ({ formations }) => {
+const ListFormations = ({ formations, onChangeselectedFormation }) => {
   return (
     <ListFormationContainer className="list-card-formation">
       {formations.map((formation) => (
         <JackInTheBox key={formation._id}>
-          <CardFormation {...formation} />
+          <CardFormation
+            formation={formation}
+            onChangeselectedFormation={onChangeselectedFormation}
+          />
         </JackInTheBox>
       ))}
     </ListFormationContainer>

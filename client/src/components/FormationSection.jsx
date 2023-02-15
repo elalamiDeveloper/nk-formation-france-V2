@@ -25,7 +25,7 @@ const FormationSectionContainer = styled.div`
   }
 `;
 
-const FormationSection = () => {
+const FormationSection = ({ onChangeselectedFormation }) => {
   const [formations, setFormations] = useState([]);
   const formationsRended =
     formations.length === 0 ? [] : formations.slice(0, 2);
@@ -55,7 +55,10 @@ const FormationSection = () => {
           Faite votre choix parmis nos cours en ligne...
         </span>
 
-        <ListFormations formations={formationsRended} />
+        <ListFormations
+          formations={formationsRended}
+          onChangeselectedFormation={onChangeselectedFormation}
+        />
       </div>
     </FormationSectionContainer>
   );

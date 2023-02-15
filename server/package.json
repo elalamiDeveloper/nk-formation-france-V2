@@ -7,8 +7,10 @@
   "scripts": {
     "start": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
-    "import:data": "node server.js --import",
-    "delete:data": "node server.js --delete"
+    "import:formation:data": "node server.js --importFormationData",
+    "delete:formation:data": "node server.js --deleteFormationData",
+    "import:opco:data": "node server.js --importOpcoData",
+    "delete:opco:data": "node server.js --deleteOpcoData"
   },
   "author": "",
   "license": "ISC",

@@ -53,6 +53,7 @@ const Admin = () => {
   const [listNavBar, setListNavBar] = useState([]);
   const [activeNavBar, setActiveNavBar] = useState('');
   const navigate = useNavigate();
+  // navigate('/');
 
   const onClientHandler = () => setActiveNavBar('clients');
   const onFormationHandler = () => setActiveNavBar('formations');

@@ -1,0 +1,1374 @@
+[
+  {
+    "opcosName": "OPCO Mobilite",
+    "idcc": [
+      {
+        "idccNbr": "3",
+        "libelle": "Convention collective nationale des ouvriers de la navigation interieure de marchandises"
+      },
+      {
+        "idccNbr": "16",
+        "libelle": "Convention collective nationale des transports routiers et activites auxiliaires du transport"
+      },
+      {
+        "idccNbr": "412",
+        "libelle": "Convention collective nationale de travail des guides accompagnateurs et accompagnateurs au service des agences de voyages et de tourisme"
+      },
+      {
+        "idccNbr": "538",
+        "libelle": "Convention collective nationale du personnel des entreprises de manutention ferroviaire et travaux connexes"
+      },
+      {
+        "idccNbr": "779",
+        "libelle": "Convention collective de travail du personnel des voies ferrees d'interet local"
+      },
+      {
+        "idccNbr": "1090",
+        "libelle": "Convention collective nationale des services de l'automobile (commerce et reparation de l'automobile, du cycle et du motocycle, activites connexes, contrele technique automobile, formation des conducteurs auto-ecoles CNPA)"
+      },
+      {
+        "idccNbr": "1182",
+        "libelle": "Convention collective nationale des personnels des ports de plaisance"
+      },
+      {
+        "idccNbr": "1424",
+        "libelle": "Convention collective nationale des reseaux de transports publics urbains de voyageurs"
+      },
+      {
+        "idccNbr": "1536",
+        "libelle": "Convention collective nationale des distributeurs conseils hors domicile (entrepositaires-grossistes, bieres, eaux minerales et de table, boissons gazeuses, non gazeuses, sirops, jus de fruits, CHD)"
+      },
+      {
+        "idccNbr": "1710",
+        "libelle": "Convention collective nationale du personnel des agences de voyages et de tourisme"
+      },
+      {
+        "idccNbr": "1974",
+        "libelle": "Convention collective nationale du personnel des entreprises de transport de passagers en navigation interieure"
+      },
+      {
+        "idccNbr": "2174",
+        "libelle": "Convention collective nationale du personnel sedentaire des entreprises de transports de marchandises de la navigation interieure"
+      },
+      {
+        "idccNbr": "2972",
+        "libelle": "Convention collective du personnel sedentaire des entreprises de navigation"
+      },
+      {
+        "idccNbr": "3017",
+        "libelle": "Convention collective nationale unifiee ports et manutention"
+      },
+      {
+        "idccNbr": "3217",
+        "libelle": "Convention collective nationale ferroviaire"
+      },
+      {
+        "idccNbr": "3223",
+        "libelle": "Convention collective nationale des officiers des entreprises de transport et services maritimes"
+      },
+      {
+        "idccNbr": "3228",
+        "libelle": "Convention collective nationale du groupement des armateurs de service de passages d'eau - personnel navigant"
+      },
+      {
+        "idccNbr": "5521",
+        "libelle": "Convention collective nationale du personnel navigant d'execution du transport maritime"
+      },
+      {
+        "idccNbr": "5554",
+        "libelle": "Convention collective nationale des officiers du remorquage maritime"
+      },
+      {
+        "idccNbr": "5555",
+        "libelle": "Convention collective nationale des navigants d'execution du remorquage maritime"
+      },
+      {
+        "idccNbr": "5556",
+        "libelle": "Convention collective nationale des personnels officiers des passages d'eau"
+      },
+      {
+        "idccNbr": "5557",
+        "libelle": "Convention collective nationale des personnels navigants d'execution des passages d'eau"
+      }
+    ]
+  },
+  {
+    "opcosName": "OPCO 2i",
+    "idcc": [
+      {
+        "idccNbr": "18",
+        "libelle": "Convention collective nationale des industries textiles"
+      },
+      {
+        "idccNbr": "44",
+        "libelle": "Convention collective nationale des industries chimiques et connexes"
+      },
+      {
+        "idccNbr": "45",
+        "libelle": "Convention collective nationale du caoutchouc"
+      },
+      {
+        "idccNbr": "83",
+        "libelle": "Convention collective nationale des menuiseries charpentes et constructions industrialisees et des portes planes"
+      },
+      {
+        "idccNbr": "87",
+        "libelle": "Convention collective nationale des ouvriers des industries de carrieres et de materiaux"
+      },
+      {
+        "idccNbr": "135",
+        "libelle": "Convention collective nationale des employes techniciens et agents de maetrise des industries de carrieres et de materiaux"
+      },
+      {
+        "idccNbr": "176",
+        "libelle": "Convention collective nationale de l'industrie pharmaceutique"
+      },
+      {
+        "idccNbr": "207",
+        "libelle": "Convention collective nationale de l'industrie des cuirs et peaux"
+      },
+      {
+        "idccNbr": "211",
+        "libelle": "Convention collective nationale des cadres des industries de carrieres et materiaux (UNICEM)"
+      },
+      {
+        "idccNbr": "247",
+        "libelle": "Convention collective nationale des industries de l'habillement"
+      },
+      {
+        "idccNbr": "292",
+        "libelle": "Convention collective nationale de la plasturgie (transformation des matieres plastiques)"
+      },
+      {
+        "idccNbr": "303",
+        "libelle": "Convention collective regionale de la couture parisienne"
+      },
+      {
+        "idccNbr": "363",
+        "libelle": "Convention collective nationale du personnel ingenieurs et cadres de l'industrie de la fabrication des ciments"
+      },
+      {
+        "idccNbr": "489",
+        "libelle": "Convention collective du personnel des industries du cartonnage"
+      },
+      {
+        "idccNbr": "567",
+        "libelle": "Convention collective nationale de la bijouterie, joaillerie, orfevrerie et des activites qui s'y rattachent"
+      },
+      {
+        "idccNbr": "637",
+        "libelle": "Convention collective des industries et du commerce de la recuperation (recyclage, regions Nord-Pas-de-Calais, Picardie)"
+      },
+      {
+        "idccNbr": "669",
+        "libelle": "Convention collective nationale des industries de fabrication mecanique du verre"
+      },
+      {
+        "idccNbr": "700",
+        "libelle": "Convention collective nationale des ingenieurs et cadres de la production des papiers, cartons et celluloses"
+      },
+      {
+        "idccNbr": "707",
+        "libelle": "Convention collective nationale des ingenieurs et cadres de la transformation des papiers cartons et de la pellicule cellulosique"
+      },
+      {
+        "idccNbr": "715",
+        "libelle": "Convention collective nationale des instruments e ecrire et des industries connexes"
+      },
+      {
+        "idccNbr": "802",
+        "libelle": "Convention collective nationale de la distribution de papiers-cartons commerces de gros pour les ouvriers, employes, techniciens et agents de maetrise"
+      },
+      {
+        "idccNbr": "832",
+        "libelle": "Convention collective nationale du personnel ouvrier de l'industrie de la fabrication des ciments"
+      },
+      {
+        "idccNbr": "833",
+        "libelle": "Convention collective nationale du personnel employes, techniciens, dessinateurs et agents de maetrise de l'industrie de la fabrication des ciments"
+      },
+      {
+        "idccNbr": "925",
+        "libelle": "Convention collective nationale des ingenieurs et cadres de la distribution des papiers et cartons, commerce de gros"
+      },
+      {
+        "idccNbr": "998",
+        "libelle": "Convention collective nationale des ouvriers, employes, techniciens et agents de maetrise de l'exploitation d'equipements thermiques et de genie climatique"
+      },
+      {
+        "idccNbr": "1044",
+        "libelle": "Convention collective nationale de l'horlogerie"
+      },
+      {
+        "idccNbr": "1170",
+        "libelle": "Convention collective nationale de l'industrie des tuiles et briques (CCNTB)"
+      },
+      {
+        "idccNbr": "1256",
+        "libelle": "Convention collective nationale des cadres, ingenieurs et assimiles des entreprises de gestion d'equipements thermiques et de climatisation"
+      },
+      {
+        "idccNbr": "1388",
+        "libelle": "Convention collective nationale de l'industrie du petrole"
+      },
+      {
+        "idccNbr": "1411",
+        "libelle": "Convention collective nationale de la fabrication de l'ameublement"
+      },
+      {
+        "idccNbr": "1423",
+        "libelle": "Convention collective nationale des entreprises relevant de la navigation de plaisance"
+      },
+      {
+        "idccNbr": "1492",
+        "libelle": "Convention collective nationale des ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la production des papiers, cartons et celluloses"
+      },
+      {
+        "idccNbr": "1495",
+        "libelle": "Convention collective nationale pour les ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la transformation des papiers, cartons et celluloses"
+      },
+      {
+        "idccNbr": "1555",
+        "libelle": "Convention collective nationale de la fabrication et du commerce des produits e usage pharmaceutique, parapharmaceutique et veterinaire"
+      },
+      {
+        "idccNbr": "1558",
+        "libelle": "Convention collective nationale relative aux conditions de travail du personnel des industries ceramiques de France"
+      },
+      {
+        "idccNbr": "1580",
+        "libelle": "Convention collective nationale de l'industrie de la chaussure et des articles chaussants"
+      },
+      {
+        "idccNbr": "1607",
+        "libelle": "Convention collective nationale des industries des jeux, jouets, articles de fetes et ornements de Noel, articles de puericulture et voitures d'enfants modelisme et industries connexes"
+      },
+      {
+        "idccNbr": "1821",
+        "libelle": "Convention collective nationale des professions regroupees du cristal, du verre et du vitrail"
+      },
+      {
+        "idccNbr": "2089",
+        "libelle": "Convention collective nationale de l'industrie des panneaux e base de bois"
+      },
+      {
+        "idccNbr": "2528",
+        "libelle": "Convention collective nationale de travail des industries de la maroquinerie, articles de voyage, chasse sellerie, gainerie, bracelets en cuir"
+      },
+      {
+        "idccNbr": "3224",
+        "libelle": "\"Convention collective nationale de la distribution des papiers-cartons "
+      },
+      {
+        "idccNbr": "3227",
+        "libelle": "Convention collective nationale des industries de la fabrication de la chaux"
+      },
+      {
+        "idccNbr": "5001",
+        "libelle": "Statut des industries electriques et gazieres"
+      },
+      {
+        "idccNbr": "N.A.",
+        "libelle": "Accord national du 16 janvier 1979 sur le champ d'application des accords nationaux de la metallurgie"
+      }
+    ]
+  },
+  {
+    "opcosName": "OPCO Sante",
+    "idcc": [
+      {
+        "idccNbr": "29",
+        "libelle": "Convention collective nationale des etablissements prives d'hospitalisation, de soins, de cure et de garde e but non lucratif (FEHAP, convention de 1951)"
+      },
+      {
+        "idccNbr": "405",
+        "libelle": "Convention collective nationale des etablissements medico-sociaux de l'union intersyndicale des secteurs sanitaires et sociaux (UNISSS, FFESCPE, convention de 1965, enfants, adolescents)"
+      },
+      {
+        "idccNbr": "413",
+        "libelle": "Convention collective nationale de travail des etablissements et services pour personnes inadaptees et handicapees (convention de 1966, SNAPEI)"
+      },
+      {
+        "idccNbr": "783",
+        "libelle": "Convention collective des centres d'hebergement et de readaptation sociale et dans les services d'accueil, d'orientation et d'insertion pour adultes (CHRS, SOP)"
+      },
+      {
+        "idccNbr": "897",
+        "libelle": "Convention collective nationale des services de sante au travail interentreprises"
+      },
+      {
+        "idccNbr": "1001",
+        "libelle": "Convention collective nationale des medecins specialistes qualifies au regard du conseil de l'ordre travaillant dans des etablissements et services pour personnes inadaptees et handicapees"
+      },
+      {
+        "idccNbr": "2046",
+        "libelle": "Convention collective nationale du personnel non medical des centres de lutte contre le cancer"
+      },
+      {
+        "idccNbr": "2104",
+        "libelle": "Convention collective nationale du thermalisme "
+      },
+      {
+        "idccNbr": "2264",
+        "libelle": "Convention collective de l'hospitalisation privee (CCU, FHP, etablissements pour personnes egees, maison de retraite, etablissements de suite et readaptation, medicaux pour enfants et adolescents, UHP, sanitaires sociaux et medico-sociaux CRRR, hospitalisation prive e but lucratif FIEHP)"
+      }
+    ]
+  },
+  {
+    "opcosName": "OPCO Commerce",
+    "idcc": [
+      {
+        "idccNbr": "43",
+        "libelle": "Convention collective nationale des entreprises de commerce et de commission importation exportation"
+      },
+      {
+        "idccNbr": "468",
+        "libelle": "Convention collective du commerce succursaliste de la chaussure"
+      },
+      {
+        "idccNbr": "500",
+        "libelle": "Convention collective nationale des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet"
+      },
+      {
+        "idccNbr": "675",
+        "libelle": "Convention collective nationale des maisons e succursales de vente au detail d'habillement"
+      },
+      {
+        "idccNbr": "706",
+        "libelle": "Convention collective nationale du personnel de la reprographie"
+      },
+      {
+        "idccNbr": "1314",
+        "libelle": "\"Convention collective nationale des maisons d'alimentation e succursales, supermarches, hypermarches, \"\"gerants mandataires\"\" (grande distribution)\""
+      },
+      {
+        "idccNbr": "1431",
+        "libelle": "Convention collective nationale de l'optique-lunetterie de detail"
+      },
+      {
+        "idccNbr": "1487",
+        "libelle": "Convention collective nationale du commerce de detail de l'horlogerie-bijouterie"
+      },
+      {
+        "idccNbr": "1505",
+        "libelle": "Convention collective nationale du commerce de detail de fruits et legumes, epicerie et produits laitiers"
+      },
+      {
+        "idccNbr": "1517",
+        "libelle": "Convention collective nationale des commerces de detail non alimentaires : antiquites, brocante, galeries d'art, arts de la table, coutellerie, droguerie, equipement du foyer, bazars, commerces menagers, modelisme, jeux, jouets, perinatalite et maroquinerie (euvres d'art)"
+      },
+      {
+        "idccNbr": "1539",
+        "libelle": "Convention collective nationale des commerces de detail de papeterie, fournitures de bureau, de bureautique et informatique [et de librairie]"
+      },
+      {
+        "idccNbr": "1557",
+        "libelle": "Convention collective nationale du commerce des articles de sports et d'equipements de loisirs"
+      },
+      {
+        "idccNbr": "1606",
+        "libelle": "Convention collective nationale du bricolage, vente au detail en libre-service"
+      },
+      {
+        "idccNbr": "1686",
+        "libelle": "Convention collective nationale des commerces et services de l'audiovisuel, de l'electronique et de l'equipement menager"
+      },
+      {
+        "idccNbr": "1760",
+        "libelle": "Convention collective nationale des jardineries et graineteries"
+      },
+      {
+        "idccNbr": "1880",
+        "libelle": "Convention collective nationale du negoce de l'ameublement"
+      },
+      {
+        "idccNbr": "2156",
+        "libelle": "Convention collective nationale des grands magasins et des magasins populaires"
+      },
+      {
+        "idccNbr": "2198",
+        "libelle": "Convention collective nationale des entreprises de vente e distance"
+      },
+      {
+        "idccNbr": "2216",
+        "libelle": "Convention collective nationale du commerce de detail et de gros e predominance alimentaire (entrepets d'alimentation, superettes, supermarches, hypermarches, grande distribution)"
+      },
+      {
+        "idccNbr": "3168",
+        "libelle": "Convention collective Nationale des professions de la photographie"
+      },
+      {
+        "idccNbr": "3205",
+        "libelle": "Convention collective nationale du personnel des cooperatives de consommation"
+      }
+    ]
+  },
+  {
+    "opcosName": "AFDAS",
+    "idcc": [
+      {
+        "idccNbr": "86",
+        "libelle": "Convention collective nationale des entreprises de publicite et assimilees"
+      },
+      {
+        "idccNbr": "214",
+        "libelle": "Convention collective des ouvriers des entreprises de presse de la region parisienne"
+      },
+      {
+        "idccNbr": "306",
+        "libelle": "Convention collective des cadres techniques de la presse quotidienne parisienne"
+      },
+      {
+        "idccNbr": "394",
+        "libelle": "Convention collective des employes de la presse quotidienne parisienne"
+      },
+      {
+        "idccNbr": "509",
+        "libelle": "Convention collective des cadres administratifs de la presse quotidienne parisienne"
+      },
+      {
+        "idccNbr": "598",
+        "libelle": "Convention collective nationale de travail des ouvriers de la presse quotidienne regionale"
+      },
+      {
+        "idccNbr": "693",
+        "libelle": "Convention collective de travail des employes de la presse quotidienne departementale"
+      },
+      {
+        "idccNbr": "698",
+        "libelle": "Convention collective de travail des employes de la presse quotidienne regionale"
+      },
+      {
+        "idccNbr": "716",
+        "libelle": "Convention collective nationale des employes et ouvriers de la distribution cinematographique"
+      },
+      {
+        "idccNbr": "781",
+        "libelle": "Convention collective des cadres administratifs de la presse quotidienne departementale"
+      },
+      {
+        "idccNbr": "892",
+        "libelle": "Convention collective nationale des cadres et agents de maetrise de la distribution de films de l'industrie cinematographique"
+      },
+      {
+        "idccNbr": "1016",
+        "libelle": "Convention collective des cadres et agents de maetrise de l'edition de musique"
+      },
+      {
+        "idccNbr": "1018",
+        "libelle": "Convention collective des cadres techniques de la presse quotidienne departementale franeaise"
+      },
+      {
+        "idccNbr": "1083",
+        "libelle": "Convention collective de travail des ouvriers de la presse quotidienne departementale"
+      },
+      {
+        "idccNbr": "1194",
+        "libelle": "Convention collective nationale des employes de l'edition de musique"
+      },
+      {
+        "idccNbr": "1281",
+        "libelle": "Convention collective des employes de la presse hebdomadaire regionale"
+      },
+      {
+        "idccNbr": "1285",
+        "libelle": "Convention collective nationale pour les entreprises artistiques et culturelles (SYNDEAC)"
+      },
+      {
+        "idccNbr": "1307",
+        "libelle": "Convention collective nationale de l'exploitation cinematographique"
+      },
+      {
+        "idccNbr": "1480",
+        "libelle": "Convention collective nationale de travail des journalistes"
+      },
+      {
+        "idccNbr": "1563",
+        "libelle": "Convention collective des cadres de la presse hebdomadaire regionale d'information"
+      },
+      { "idccNbr": "1618", "libelle": "Convention collective du camping " },
+      {
+        "idccNbr": "1631",
+        "libelle": "Convention collective nationale de l'hetellerie de plein air"
+      },
+      {
+        "idccNbr": "1734",
+        "libelle": "Convention collective des artistes-interpretes engages pour des emissions de television"
+      },
+      {
+        "idccNbr": "1790",
+        "libelle": "Convention collective nationale des espaces de loisirs, d'attractions et culturels"
+      },
+      {
+        "idccNbr": "1874",
+        "libelle": "Convention collective nationale des cadres, techniciens et agents de maetrise de la presse d'information specialisee du 1er juillet 1995"
+      },
+      {
+        "idccNbr": "1895",
+        "libelle": "Convention collective de l'encadrement de la presse quotidienne regionale"
+      },
+      {
+        "idccNbr": "1909",
+        "libelle": "Convention collective nationale des organismes de tourisme"
+      },
+      {
+        "idccNbr": "1922",
+        "libelle": "Convention collective nationale de la radiodiffusion"
+      },
+      {
+        "idccNbr": "2021",
+        "libelle": "Convention collective nationale du golf"
+      },
+      {
+        "idccNbr": "2121",
+        "libelle": "Convention collective nationale de l'edition"
+      },
+      {
+        "idccNbr": "2148",
+        "libelle": "Convention collective nationale des telecommunications"
+      },
+      {
+        "idccNbr": "2257",
+        "libelle": "Convention collective nationale des casinos"
+      },
+      {
+        "idccNbr": "2372",
+        "libelle": "Convention collective nationale des entreprises de la distribution directe"
+      },
+      {
+        "idccNbr": "2397",
+        "libelle": "Convention collective des mannequins adultes et des mannequins enfants de moins de seize ans employes par les agences de mannequins"
+      },
+      {
+        "idccNbr": "2411",
+        "libelle": "Convention collective nationale des chaenes thematiques"
+      },
+      {
+        "idccNbr": "2412",
+        "libelle": "Convention collective de la production de films d'animation"
+      },
+      {
+        "idccNbr": "2511",
+        "libelle": "Convention collective nationale du sport"
+      },
+      {
+        "idccNbr": "2642",
+        "libelle": "Convention collective de la production audiovisuelle"
+      },
+      {
+        "idccNbr": "2683",
+        "libelle": "Convention collective nationale du portage de presse"
+      },
+      {
+        "idccNbr": "2717",
+        "libelle": "Convention collective nationale des entreprises techniques au service de la creation et de l'evenement"
+      },
+      {
+        "idccNbr": "2770",
+        "libelle": "Convention collective nationale de l'edition phonographique"
+      },
+      {
+        "idccNbr": "3090",
+        "libelle": "Convention collective nationale des entreprises du secteur prive du spectacle vivant"
+      },
+      {
+        "idccNbr": "3097",
+        "libelle": "Convention collective nationale de la production cinematographique"
+      },
+      {
+        "idccNbr": "3221",
+        "libelle": "Convention collective nationale des agences de presse"
+      },
+      {
+        "idccNbr": "3225",
+        "libelle": "Convention collective nationale des employes et des cadres des editeurs de la presse magazine"
+      },
+      {
+        "idccNbr": "3230",
+        "libelle": "Convention collective nationale des employes de la presse d'information specialisee"
+      }
+    ]
+  },
+  {
+    "opcosName": "OCAPIAT",
+    "idcc": [
+      {
+        "idccNbr": "112",
+        "libelle": "Convention collective nationale de l'industrie laitiere"
+      },
+      {
+        "idccNbr": "200",
+        "libelle": "Convention collective nationale des exploitations frigorifiques"
+      },
+      {
+        "idccNbr": "493",
+        "libelle": "Convention collective nationale des vins, cidres, jus de fruits, sirops, spiritueux et liqueurs de France"
+      },
+      {
+        "idccNbr": "1077",
+        "libelle": "Convention collective nationale entreprises du negoce et de l'industrie des produits du sol, engrais et produits connexes"
+      },
+      {
+        "idccNbr": "1396",
+        "libelle": "Convention collective nationale pour les industries de produits alimentaires elabores"
+      },
+      {
+        "idccNbr": "1405",
+        "libelle": "Convention collective nationale des entreprises d'expedition et d'exportation de fruits et legumes"
+      },
+      {
+        "idccNbr": "1513",
+        "libelle": "Convention collective nationale des activites de production des eaux embouteillees, des boissons rafraechissantes sans alcool et de biere"
+      },
+      {
+        "idccNbr": "1534",
+        "libelle": "Convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes"
+      },
+      {
+        "idccNbr": "1586",
+        "libelle": "Convention collective nationale de l'industrie de la salaison, charcuterie en gros et conserves de viandes"
+      },
+      {
+        "idccNbr": "1659",
+        "libelle": "Convention collective nationale du rouissage teillage du lin"
+      },
+      {
+        "idccNbr": "1747",
+        "libelle": "Convention collective des activites industrielles de boulangerie et de petisserie"
+      },
+      {
+        "idccNbr": "1930",
+        "libelle": "Convention collective nationale des metiers de la transformation des grains (ex meunerie)"
+      },
+      {
+        "idccNbr": "1938",
+        "libelle": "Convention collective nationale des industries de la transformation des volailles (abattoirs, ateliers de decoupe et centres de conditionnement de volailles, commerce de gros de volailles)"
+      },
+      {
+        "idccNbr": "1987",
+        "libelle": "Convention collective nationale des petes alimentaires seches et du couscous non prepare"
+      },
+      {
+        "idccNbr": "2075",
+        "libelle": "Convention collective nationale des centres immatricules de conditionnement, de commercialisation et de transformation des eufs et des industries en produits d'eufs"
+      },
+      {
+        "idccNbr": "2494",
+        "libelle": "Convention collective nationale de la cooperation maritime"
+      },
+      {
+        "idccNbr": "2728",
+        "libelle": "Convention collective nationale des sucreries, sucreries-distilleries et raffineries de sucre"
+      },
+      {
+        "idccNbr": "3109",
+        "libelle": "Convention collective nationale des 5 branches industries alimentaires diverses"
+      },
+      {
+        "idccNbr": "3203",
+        "libelle": "Convention collective des structures associatives de peche de loisir et de protection du milieu aquatique"
+      },
+      {
+        "idccNbr": "5619",
+        "libelle": "Convention collective nationale de la peche professionnelle maritime"
+      },
+      {
+        "idccNbr": "7001",
+        "libelle": "Convention collective nationale des cooperatives et SICA de production, transformation et vente du betail et des viandes"
+      },
+      {
+        "idccNbr": "7002",
+        "libelle": "Convention collective nationale des cooperatives et SICA de cereales, de meunerie, d'approvisionnement et d'alimentation du betail et d'oleagineux"
+      },
+      {
+        "idccNbr": "7003",
+        "libelle": "Convention collective nationale des cooperatives agricoles, union de cooperatives agricoles et SICA fabriquant des conserves de fruits et de legumes, des plats cuisines et des specialites"
+      },
+      {
+        "idccNbr": "7004",
+        "libelle": "Convention collective nationale des cooperatives laitieres, unions de cooperatives laitieres et SICA laitieres"
+      },
+      {
+        "idccNbr": "7005",
+        "libelle": "Convention collective nationale des caves cooperatives et de leurs unions elargie aux SICA vinicoles"
+      },
+      {
+        "idccNbr": "7006",
+        "libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de fleurs, de fruits et legumes et de pommes de terre"
+      },
+      {
+        "idccNbr": "7007",
+        "libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de teillage de lin"
+      },
+      {
+        "idccNbr": "7008",
+        "libelle": "Convention collective nationale du personnel des organismes de contrele laitier"
+      },
+      {
+        "idccNbr": "7009",
+        "libelle": "Convention collective nationale des entreprises d'accouvage et de selection de produits avicoles"
+      },
+      {
+        "idccNbr": "7010",
+        "libelle": "Convention collective nationale du personnel des elevages aquacoles"
+      },
+      {
+        "idccNbr": "7012",
+        "libelle": "Convention collective nationale des centres equestres"
+      },
+      {
+        "idccNbr": "7013",
+        "libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au trot"
+      },
+      {
+        "idccNbr": "7014",
+        "libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au galop"
+      },
+      {
+        "idccNbr": "7017",
+        "libelle": "Convention collective nationale des parcs et jardins zoologiques ouverts au public"
+      },
+      {
+        "idccNbr": "7018",
+        "libelle": "Convention collective nationale des entreprises du paysage"
+      },
+      {
+        "idccNbr": "7019",
+        "libelle": "Convention collective nationale de la conchyliculture"
+      },
+      {
+        "idccNbr": "7020",
+        "libelle": "Convention collective nationale du reseau des centres d'economie rurale"
+      },
+      {
+        "idccNbr": "7021",
+        "libelle": "Convention collective nationale des entreprises relevant de la selection et de la reproduction animale"
+      },
+      {
+        "idccNbr": "7023",
+        "libelle": "Entreprises agricoles de deshydratation"
+      },
+      {
+        "idccNbr": "7501",
+        "libelle": "Convention collective nationale des caisses regionales du credit agricole"
+      },
+      {
+        "idccNbr": "7502",
+        "libelle": "Convention collective nationale de la Mutualite sociale agricole"
+      },
+      {
+        "idccNbr": "7503",
+        "libelle": "Convention collective nationale des distilleries cooperatives viticoles et SICA de distillation"
+      },
+      {
+        "idccNbr": "7508",
+        "libelle": "Convention collective nationale des Maisons familiales rurales, instituts ruraux et centres"
+      },
+      {
+        "idccNbr": "7513",
+        "libelle": "Convention collective nationale des centres d'initiatives pour valoriser l'agriculture et le milieu rural"
+      },
+      {
+        "idccNbr": "7514",
+        "libelle": "Convention collective nationale des organismes de la Confederation paysanne"
+      },
+      {
+        "idccNbr": "7515",
+        "libelle": "Convention collective nationale des societes d'amenagement foncier et d'etablissement rural (SAFER)"
+      },
+      {
+        "idccNbr": "8115",
+        "libelle": "Convention collective regionale des hippodromes ele-de-France Cabourg Caen Chantilly Deauville"
+      },
+      {
+        "idccNbr": "8435",
+        "libelle": "Convention collective regionale des cooperatives fruitieres Ain Doubs Jura"
+      }
+    ]
+  },
+  {
+    "opcosName": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "idcc": [
+      {
+        "idccNbr": "158",
+        "libelle": "Convention collective nationale du travail mecanique du bois, des scieries, du negoce et de l'importation des bois"
+      },
+      {
+        "idccNbr": "275",
+        "libelle": "Convention collective nationale du personnel au sol des entreprises de transport aerien"
+      },
+      {
+        "idccNbr": "573",
+        "libelle": "Convention collective nationale des commerces de gros"
+      },
+      {
+        "idccNbr": "635",
+        "libelle": "Convention collective nationale du negoce en fournitures dentaires"
+      },
+      {
+        "idccNbr": "731",
+        "libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, cadres"
+      },
+      {
+        "idccNbr": "1266",
+        "libelle": "Convention collective nationale du personnel des entreprises de restauration de collectivites"
+      },
+      {
+        "idccNbr": "1311",
+        "libelle": "Convention collective nationale de la restauration ferroviaire"
+      },
+      {
+        "idccNbr": "1351",
+        "libelle": "Convention collective nationale des entreprises de prevention et de securite"
+      },
+      {
+        "idccNbr": "1383",
+        "libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, employes et personnels de maetrise"
+      },
+      {
+        "idccNbr": "1391",
+        "libelle": "Convention collective regionale concernant le personnel de l'industrie, de la manutention et du nettoyage sur les aeroports ouverts e la circulation publique de la region parisienne"
+      },
+      {
+        "idccNbr": "1413",
+        "libelle": "Accord national professionnel relatif aux salaries permanents des entreprises de travail temporaire"
+      },
+      {
+        "idccNbr": "1501",
+        "libelle": "Convention collective nationale de la restauration rapide (restauration livree)"
+      },
+      {
+        "idccNbr": "1516",
+        "libelle": "Convention collective nationale des organismes de formation"
+      },
+      {
+        "idccNbr": "1671",
+        "libelle": "Convention collective nationale des maisons d'etudiants"
+      },
+      {
+        "idccNbr": "1944",
+        "libelle": "Convention collective nationale du personnel navigant technique des exploitants d'helicopteres"
+      },
+      {
+        "idccNbr": "1979",
+        "libelle": "Convention collective nationale des hetels, cafes, restaurants (HCR)"
+      },
+      {
+        "idccNbr": "2002",
+        "libelle": "Convention collective interregionale de la blanchisserie, laverie, location de linge, nettoyage e sec, pressing et teinturerie"
+      },
+      {
+        "idccNbr": "2060",
+        "libelle": "Convention collective nationale des chaenes de cafeterias et assimiles"
+      },
+      {
+        "idccNbr": "2101",
+        "libelle": "Convention collective nationale de l'enseignement prive e distance"
+      },
+      {
+        "idccNbr": "2147",
+        "libelle": "Convention collective des entreprises des services d'eau et d'assainissement (entreprises en gerance, en concession ou en affermage assurent l'exploitation, le service, le pompage, le traitement et la distribution d'eau e usage public, particulier, domestique, agricole)"
+      },
+      {
+        "idccNbr": "2149",
+        "libelle": "Convention collective nationale des activites du dechet"
+      },
+      {
+        "idccNbr": "2378",
+        "libelle": "Accords nationaux professionnels concernant le personnel interimaire des entreprises de travail temporaire"
+      },
+      {
+        "idccNbr": "2408",
+        "libelle": "Convention collective nationale des personnels des services administratifs et economiques, personnels d'education et documentalistes des etablissement d'enseignement prives"
+      },
+      {
+        "idccNbr": "2583",
+        "libelle": "Convention collective nationale de branche des societes concessionnaires ou exploitantes d'autoroutes ou d'ouvrages routiers"
+      },
+      {
+        "idccNbr": "2691",
+        "libelle": "Convention collective nationale de l'enseignement prive independant (hors contrat)"
+      },
+      {
+        "idccNbr": "3043",
+        "libelle": "Convention collective nationale des entreprises de proprete et services associes du 26 juillet 2011"
+      },
+      {
+        "idccNbr": "3218",
+        "libelle": "Convention collective nationale de l'enseignement prive non lucratif (EPNL)"
+      },
+      {
+        "idccNbr": "3219",
+        "libelle": "Convention collective nationale de branche des salaries en portage salarial"
+      },
+      {
+        "idccNbr": "7509",
+        "libelle": "Convention collective nationale des organismes de formation et de promotion agricoles"
+      },
+      {
+        "idccNbr": "7520",
+        "libelle": "Convention collective nationale de l'enseignement agricole prive (CNEAP)"
+      },
+      {
+        "idccNbr": "na",
+        "libelle": "Secteur des exploitations forestieres et scieries"
+      },
+      { "idccNbr": "na", "libelle": "Secteur des proprietes forestieres" }
+    ]
+  },
+  {
+    "opcosName": "OPCO entreprises de proximite",
+    "idcc": [
+      {
+        "idccNbr": "184",
+        "libelle": "Convention collective nationale de l'imprimerie de labeur et des industries graphiques"
+      },
+      {
+        "idccNbr": "240",
+        "libelle": "Convention collective nationale du personnel des greffes des tribunaux de commerce"
+      },
+      {
+        "idccNbr": "454",
+        "libelle": "Convention collective nationale des remontees mecaniques et domaines skiables"
+      },
+      {
+        "idccNbr": "614",
+        "libelle": "Convention collective nationale des industries de la serigraphie et des procedes d'impression numerique connexes"
+      },
+      {
+        "idccNbr": "733",
+        "libelle": "Convention collective nationale des detaillants en chaussure"
+      },
+      {
+        "idccNbr": "759",
+        "libelle": "Convention collective nationale des pompes funebres"
+      },
+      {
+        "idccNbr": "843",
+        "libelle": "Convention collective nationale de la boulangerie-petisserie -entreprises artisanales-"
+      },
+      {
+        "idccNbr": "915",
+        "libelle": "Convention collective nationale des societes d'expertises et d'evaluations"
+      },
+      {
+        "idccNbr": "953",
+        "libelle": "Convention collective nationale de la charcuterie de detail"
+      },
+      {
+        "idccNbr": "959",
+        "libelle": "Convention collective nationale des laboratoires de biologie medicale extra-hospitaliers"
+      },
+      {
+        "idccNbr": "992",
+        "libelle": "Convention collective nationale de la boucherie, boucherie-charcuterie et boucherie hippophagique, triperie, commerce de volailles et gibiers"
+      },
+      {
+        "idccNbr": "993",
+        "libelle": "Convention collective nationale des prothesistes dentaires et des personnels des laboratoires de prothese dentaire"
+      },
+      {
+        "idccNbr": "1000",
+        "libelle": "Convention collective nationale du personnel des cabinets d'avocats"
+      },
+      {
+        "idccNbr": "1043",
+        "libelle": "Convention collective nationale des gardiens, concierges et employes d'immeubles"
+      },
+      {
+        "idccNbr": "1147",
+        "libelle": "Convention collective du personnel des cabinets medicaux (medecin)"
+      },
+      {
+        "idccNbr": "1267",
+        "libelle": "Convention collective nationale de la petisserie"
+      },
+      {
+        "idccNbr": "1286",
+        "libelle": "Convention collective nationale des detaillants, detaillants-fabricants et artisans de la confiserie, chocolaterie, biscuiterie"
+      },
+      {
+        "idccNbr": "1404",
+        "libelle": "Convention collective nationale des entreprises de commerce, de location et de reparation de tracteurs, machines et materiels agricoles, de materiels de travaux publics, de betiment et de manutention, de materiels de motoculture de plaisance, de jardins et d'espaces verts (SEDIMA)"
+      },
+      {
+        "idccNbr": "1408",
+        "libelle": "Convention collective nationale des entreprises du negoce et de distribution de combustibles solides, liquides, gazeux et produits petroliers"
+      },
+      {
+        "idccNbr": "1412",
+        "libelle": "Convention collective nationale des entreprises d'installation sans fabrication, y compris entretien, reparation, depannage de materiel aeraulique, thermique, frigorifique et connexes"
+      },
+      {
+        "idccNbr": "1483",
+        "libelle": "Convention collective nationale du commerce de detail de l'habillement et des articles textiles"
+      },
+      {
+        "idccNbr": "1499",
+        "libelle": "Convention collective nationale de la miroiterie, de la transformation et du negoce du verre"
+      },
+      {
+        "idccNbr": "1504",
+        "libelle": "Convention collective nationale de la poissonnerie (commerce de detail, de demi-gros et de gros de la poissonnerie)"
+      },
+      {
+        "idccNbr": "1512",
+        "libelle": "Convention collective nationale de la promotion immobiliere"
+      },
+      {
+        "idccNbr": "1527",
+        "libelle": "Convention collective nationale de l'immobilier"
+      },
+      {
+        "idccNbr": "1589",
+        "libelle": "Convention collective nationale des mareyeurs-expediteurs"
+      },
+      {
+        "idccNbr": "1605",
+        "libelle": "Convention collective nationale des entreprises de desinfection, desinsectisation, deratisation"
+      },
+      {
+        "idccNbr": "1611",
+        "libelle": "Convention collective nationale des entreprises de logistique de communication ecrite directe"
+      },
+      {
+        "idccNbr": "1619",
+        "libelle": "Convention collective nationale des cabinets dentaires"
+      },
+      {
+        "idccNbr": "1621",
+        "libelle": "Convention collective nationale de la repartition pharmaceutique"
+      },
+      {
+        "idccNbr": "1850",
+        "libelle": "Convention collective de l'avocat salarie"
+      },
+      {
+        "idccNbr": "1875",
+        "libelle": "Convention collective nationale des cabinets et cliniques veterinaires : personnel salarie"
+      },
+      {
+        "idccNbr": "1921",
+        "libelle": "Convention collective nationale des huissiers de justice"
+      },
+      {
+        "idccNbr": "1951",
+        "libelle": "Convention collective nationale des cabinets ou entreprises d'expertises en automobile"
+      },
+      {
+        "idccNbr": "1978",
+        "libelle": "Convention collective nationale des fleuristes, de la vente et des services des animaux familiers"
+      },
+      {
+        "idccNbr": "1982",
+        "libelle": "Convention collective nationale du negoce et prestations de services dans les domaines medico-techniques"
+      },
+      {
+        "idccNbr": "1996",
+        "libelle": "Convention collective nationale de la pharmacie d'officine"
+      },
+      {
+        "idccNbr": "2098",
+        "libelle": "Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire"
+      },
+      {
+        "idccNbr": "2111",
+        "libelle": "Convention collective nationale des salaries du particulier employeur"
+      },
+      { "idccNbr": "2205", "libelle": "Convention collective du notariat" },
+      {
+        "idccNbr": "2219",
+        "libelle": "Convention collective des taxis - 4932Z"
+      },
+      {
+        "idccNbr": "2272",
+        "libelle": "Convention collective nationale de l'assainissement et de la maintenance industrielle"
+      },
+      {
+        "idccNbr": "2329",
+        "libelle": "Accord professionnel national de travail entre les avocats au Conseil d'Etat et e la Cour de Cassation et leur personnel salarie -non avocat-"
+      },
+      {
+        "idccNbr": "2332",
+        "libelle": "Convention nationale des entreprises d'architecture"
+      },
+      {
+        "idccNbr": "2395",
+        "libelle": "Convention collective nationale de travail des assistants maternels du particulier employeur"
+      },
+      {
+        "idccNbr": "2564",
+        "libelle": "Convention collective nationale des veterinaires praticiens salaries"
+      },
+      {
+        "idccNbr": "2596",
+        "libelle": "Convention collective nationale de la coiffure et des professions connexes"
+      },
+      {
+        "idccNbr": "2697",
+        "libelle": "Convention collective nationale des personnels des structures associatives cynegetiques"
+      },
+      {
+        "idccNbr": "2706",
+        "libelle": "Convention collective nationale du personnel des administrateurs et des mandataires judiciaires"
+      },
+      {
+        "idccNbr": "2785",
+        "libelle": "Convention collective nationale des societes de ventes volontaires de meubles aux encheres publiques et des offices de commissaires-priseurs judiciaires"
+      },
+      {
+        "idccNbr": "2978",
+        "libelle": "Convention collective nationale du personnel salarie des agences de recherches privees"
+      },
+      {
+        "idccNbr": "3013",
+        "libelle": "Convention collective nationale de la librairie"
+      },
+      {
+        "idccNbr": "3032",
+        "libelle": "Convention collective nationale de l'esthetique - cosmetique et de l'enseignement technique et professionnel lies aux metiers de l'esthetique et de la parfumerie"
+      },
+      {
+        "idccNbr": "3127",
+        "libelle": "Convention collective nationale des entreprises de services e la personne du 20 septembre 2012"
+      }
+    ]
+  },
+  {
+    "opcosName": "OPCO Cohesion sociale",
+    "idcc": [
+      {
+        "idccNbr": "218",
+        "libelle": "Convention collective nationale des organismes de securite sociale"
+      },
+      {
+        "idccNbr": "1031",
+        "libelle": "Convention collective nationale de la federation nationale des associations familiales rurales (FNAFR)"
+      },
+      {
+        "idccNbr": "1261",
+        "libelle": "Convention collective nationale des acteurs du lien social et familial : centres sociaux et socioculturels, associations d'accueil de jeunes enfants, associations de developpement social local (SNAECSO)"
+      },
+      {
+        "idccNbr": "1278",
+        "libelle": "Convention collective nationale des personnels PACT et ARIM (centres pour la protection l'amelioration et la conservation de l'habitat et associations pour la restauration immobiliere)"
+      },
+      {
+        "idccNbr": "1316",
+        "libelle": "Convention collective nationale des organismes de tourisme social et familial"
+      },
+      {
+        "idccNbr": "1420",
+        "libelle": "Convention collective nationale du travail du personnel des organismes crees pour l'application de la convention du 31 decembre 1958 UNEDIC ASSEDIC"
+      },
+      {
+        "idccNbr": "1518",
+        "libelle": "Convention collective nationale de l'animation"
+      },
+      {
+        "idccNbr": "1588",
+        "libelle": "Convention collective du personnel des societes cooperatives d'HLM"
+      },
+      {
+        "idccNbr": "1794",
+        "libelle": "Convention collective nationale du personnel des institutions de retraites complementaires"
+      },
+      {
+        "idccNbr": "2128",
+        "libelle": "Convention collective nationale de la mutualite"
+      },
+      {
+        "idccNbr": "2150",
+        "libelle": "Convention collective nationale des personnels des societes anonymes et fondations d'HLM"
+      },
+      {
+        "idccNbr": "2190",
+        "libelle": "Convention collective nationale des missions locales et PAIO des maisons de l'emploi et PLIE"
+      },
+      {
+        "idccNbr": "2336",
+        "libelle": "Convention collective nationale des organismes gestionnaires de foyers et services pour jeunes travailleurs"
+      },
+      {
+        "idccNbr": "2526",
+        "libelle": "Convention collective nationale des organisations professionnelles de l'habitat social"
+      },
+      {
+        "idccNbr": "2603",
+        "libelle": "Convention collective nationale de travail des praticiens conseils du regime general de securite sociale"
+      },
+      {
+        "idccNbr": "2666",
+        "libelle": "Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement"
+      },
+      {
+        "idccNbr": "2668",
+        "libelle": "Convention collective nationale de travail des cadres superieurs des societes de secours minieres et de leurs etablissements, des unions regionales et des assistants sociaux regionaux"
+      },
+      {
+        "idccNbr": "2727",
+        "libelle": "Convention collective nationale des omnipraticiens exereant dans les centres de sante miniers"
+      },
+      {
+        "idccNbr": "2768",
+        "libelle": "Convention collective national de travail des pharmaciens du regime minier"
+      },
+      {
+        "idccNbr": "2793",
+        "libelle": "Convention collective de travail du 25 juin 1968 des agents de direction et des agents-comptables des organismes de securite sociale et d'allocations familiales"
+      },
+      {
+        "idccNbr": "2796",
+        "libelle": "Convention collective du personnel de direction du regime social des independants, ses annexes et son accord d'application"
+      },
+      {
+        "idccNbr": "2797",
+        "libelle": "Convention collective nationale speciale de travail des praticiens conseils du regime social des independants et son annexe 1 relative e l'ARTT"
+      },
+      {
+        "idccNbr": "2798",
+        "libelle": "Convention collective des employes et cadres du regime social des independants, ses annexes 1 e 6 et son accord d'application"
+      },
+      {
+        "idccNbr": "2847",
+        "libelle": "Convention collective nationale de Pele Emploi"
+      },
+      {
+        "idccNbr": "2941",
+        "libelle": "Convention collective de la branche de l'aide, de l'accompagnement, des soins et des services e domicile"
+      },
+      {
+        "idccNbr": "3016",
+        "libelle": "Convention collective des ateliers chantiers d'insertion"
+      },
+      {
+        "idccNbr": "3105",
+        "libelle": "Convention collective nationale des regies de quartier"
+      },
+      {
+        "idccNbr": "3220",
+        "libelle": "Convention collective nationale des offices publics de l'habitat"
+      }
+    ]
+  },
+  {
+    "opcosName": "OPCO ATLAS",
+    "idcc": [
+      {
+        "idccNbr": "438",
+        "libelle": "Convention collective nationale de travail des echelons intermediaires des services exterieurs de production des societes d'assurances"
+      },
+      {
+        "idccNbr": "478",
+        "libelle": "Convention collective nationale des societes financieres"
+      },
+      {
+        "idccNbr": "653",
+        "libelle": "Convention collective de travail des producteurs salaries de base des services exterieurs de production des societes d'assurances"
+      },
+      {
+        "idccNbr": "787",
+        "libelle": "Convention collective nationale des cabinets d'experts-comptables et de commissaires aux comptes"
+      },
+      {
+        "idccNbr": "1468",
+        "libelle": "Convention collective de branche du Credit mutuel"
+      },
+      {
+        "idccNbr": "1486",
+        "libelle": "Convention collective nationale applicable au personnel des bureaux d'etudes techniques, des cabinets d'ingenieurs-conseils et des societes de conseils (BET, SYNTEC)"
+      },
+      {
+        "idccNbr": "1672",
+        "libelle": "Convention collective nationale des societes d'assurances"
+      },
+      {
+        "idccNbr": "1679",
+        "libelle": "Convention collective nationale de l'inspection d'assurance"
+      },
+      {
+        "idccNbr": "1801",
+        "libelle": "Convention collective nationale des societes d'assistance"
+      },
+      { "idccNbr": "2120", "libelle": "Convention collective de la banque" },
+      {
+        "idccNbr": "2230",
+        "libelle": "Convention collective des associations agreees de surveillance de la qualite de l'air "
+      },
+      {
+        "idccNbr": "2247",
+        "libelle": "Convention collective des entreprises de courtage d'assurances et/ou de reassurances"
+      },
+      {
+        "idccNbr": "2335",
+        "libelle": "Convention collective nationale du personnel des agences generales d'assurances"
+      },
+      {
+        "idccNbr": "2357",
+        "libelle": "Accord du 3 mars 1993 relatif aux cadres de direction des societes d'assurances"
+      },
+      {
+        "idccNbr": "2543",
+        "libelle": "Convention collective nationale des cabinets ou entreprises de geometres experts, geometres topographes photogrammetres, experts-fonciers"
+      },
+      {
+        "idccNbr": "2622",
+        "libelle": "Convention collective du credit maritime mutuel"
+      },
+      {
+        "idccNbr": "2931",
+        "libelle": "Convention collective nationale des activites de marches financiers"
+      },
+      {
+        "idccNbr": "3210",
+        "libelle": "Convention collective de la banque populaire"
+      },
+      {
+        "idccNbr": "3213",
+        "libelle": "Convention collective nationale des collaborateurs salaries des entreprises d'economistes de la construction et des metreurs-verificateurs"
+      },
+      { "idccNbr": "5005", "libelle": "Branche des caisses d'epargne " }
+    ]
+  },
+  {
+    "opcosName": "OPCO Construction",
+    "idcc": [
+      {
+        "idccNbr": "1596",
+        "libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment visees par le decret du 1er mars 1962"
+      },
+      {
+        "idccNbr": "1597",
+        "libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment non visees par le decret 1er mars 1962"
+      },
+      {
+        "idccNbr": "1702",
+        "libelle": "Convention collective nationale des ouvriers de travaux publics"
+      },
+      {
+        "idccNbr": "1947",
+        "libelle": "Convention collective nationale du negoce de bois d'euvre et produits derives"
+      },
+      {
+        "idccNbr": "2420",
+        "libelle": "Convention collective nationale des cadres du betiment du 1er juin 2004"
+      },
+      {
+        "idccNbr": "2609",
+        "libelle": "Convention collective nationale des employes, techniciens et agents de maetrise du betiment"
+      },
+      {
+        "idccNbr": "2614",
+        "libelle": "Convention collective nationale des employes, techniciens et agents de maetrise des travaux publics"
+      },
+      {
+        "idccNbr": "3212",
+        "libelle": "Convention collective nationale des cadres des travaux publics"
+      },
+      {
+        "idccNbr": "3216",
+        "libelle": "Convention collective nationale des salaries du negoce des materiaux de construction"
+      }
+    ]
+  }
+]

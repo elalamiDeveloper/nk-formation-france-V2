@@ -35,7 +35,7 @@ const FormationContainer = styled.div`
   }
 `;
 
-const Formation = () => {
+const Formation = ({ onChangeselectedFormation }) => {
   const [formations, setFormations] = useState([]);
   const formationsWeb = formations.filter(
     (formation) => formation.groupe === 'web'
@@ -76,28 +76,40 @@ const Formation = () => {
           <Zoom>
             <h2>Bureautique</h2>
           </Zoom>
-          <ListFormations formations={formationsBureautique} />
+          <ListFormations
+            formations={formationsBureautique}
+            onChangeselectedFormation={onChangeselectedFormation}
+          />
         </div>
 
         <div className="gender-item">
           <Zoom>
             <h2>Management</h2>
           </Zoom>
-          <ListFormations formations={formationsManagement} />
+          <ListFormations
+            formations={formationsManagement}
+            onChangeselectedFormation={onChangeselectedFormation}
+          />
         </div>
 
         <div className="gender-item">
           <Zoom>
             <h2>Publication assistée par ordinateur (PAO)</h2>
           </Zoom>
-          <ListFormations formations={formationsPAO} />
+          <ListFormations
+            formations={formationsPAO}
+            onChangeselectedFormation={onChangeselectedFormation}
+          />
         </div>
 
         <div className="gender-item">
           <Zoom>
             <h2>Web</h2>
           </Zoom>
-          <ListFormations formations={formationsWeb} />
+          <ListFormations
+            formations={formationsWeb}
+            onChangeselectedFormation={onChangeselectedFormation}
+          />
         </div>
       </div>
 

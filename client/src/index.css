@@ -70,6 +70,7 @@ img {
 
 a:link,
 a:visited,
+button.btn-formation,
 button.btn-primary {
   text-transform: uppercase;
   text-align: center;
@@ -85,6 +86,7 @@ button.btn-primary {
 
 a:hover,
 a:active,
+button:hover.btn-formation,
 button:hover.btn-primary {
   color: #bb8f3a;
   border-color: #bb8f3a;

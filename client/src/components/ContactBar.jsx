@@ -192,7 +192,7 @@ const ContactBar = ({ fixed }) => {
         <a href="tel:+33782714754" className="call-icon">
           <CallIcon />
         </a>
-        <a href="email:contact@nkformationfrance.fr" className="call-icon">
+        <a href="mailto:contact@nkformationfrance.fr" className="call-icon">
           <EmailIcon />
         </a>
       </div>

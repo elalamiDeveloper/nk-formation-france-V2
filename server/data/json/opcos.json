@@ -1,0 +1,2000 @@
+[
+  {
+    "IDCC": "3",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des ouvriers de la navigation interieure de marchandises",
+    "obs": ""
+  },
+  {
+    "IDCC": "16",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des transports routiers et activites auxiliaires du transport",
+    "obs": ""
+  },
+  {
+    "IDCC": "18",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des industries textiles",
+    "obs": ""
+  },
+  {
+    "IDCC": "29",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective nationale des etablissements prives d'hospitalisation, de soins, de cure et de garde e but non lucratif (FEHAP, convention de 1951)",
+    "obs": ""
+  },
+  {
+    "IDCC": "43",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des entreprises de commerce et de commission importation exportation",
+    "obs": ""
+  },
+  {
+    "IDCC": "44",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des industries chimiques et connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "45",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale du caoutchouc",
+    "obs": ""
+  },
+  {
+    "IDCC": "83",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des menuiseries charpentes et constructions industrialisees et des portes planes",
+    "obs": ""
+  },
+  {
+    "IDCC": "86",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des entreprises de publicite et assimilees",
+    "obs": ""
+  },
+  {
+    "IDCC": "87",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des ouvriers des industries de carrieres et de materiaux",
+    "obs": ""
+  },
+  {
+    "IDCC": "112",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale de l'industrie laitiere",
+    "obs": ""
+  },
+  {
+    "IDCC": "135",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des employes techniciens et agents de maetrise des industries de carrieres et de materiaux",
+    "obs": ""
+  },
+  {
+    "IDCC": "158",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale du travail mecanique du bois, des scieries, du negoce et de l'importation des bois",
+    "obs": ""
+  },
+  {
+    "IDCC": "176",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de l'industrie pharmaceutique",
+    "obs": ""
+  },
+  {
+    "IDCC": "184",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de l'imprimerie de labeur et des industries graphiques",
+    "obs": ""
+  },
+  {
+    "IDCC": "200",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des exploitations frigorifiques",
+    "obs": ""
+  },
+  {
+    "IDCC": "207",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de l'industrie des cuirs et peaux",
+    "obs": ""
+  },
+  {
+    "IDCC": "211",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des cadres des industries de carrieres et materiaux (UNICEM)",
+    "obs": ""
+  },
+  {
+    "IDCC": "214",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des ouvriers des entreprises de presse de la region parisienne",
+    "obs": ""
+  },
+  {
+    "IDCC": "218",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des organismes de securite sociale",
+    "obs": ""
+  },
+  {
+    "IDCC": "240",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale du personnel des greffes des tribunaux de commerce",
+    "obs": ""
+  },
+  {
+    "IDCC": "247",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des industries de l'habillement",
+    "obs": ""
+  },
+  {
+    "IDCC": "275",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale du personnel au sol des entreprises de transport aerien",
+    "obs": ""
+  },
+  {
+    "IDCC": "292",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de la plasturgie (transformation des matieres plastiques)",
+    "obs": ""
+  },
+  {
+    "IDCC": "303",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective regionale de la couture parisienne",
+    "obs": ""
+  },
+  {
+    "IDCC": "306",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des cadres techniques de la presse quotidienne parisienne",
+    "obs": ""
+  },
+  {
+    "IDCC": "363",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale du personnel ingenieurs et cadres de l'industrie de la fabrication des ciments",
+    "obs": ""
+  },
+  {
+    "IDCC": "394",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des employes de la presse quotidienne parisienne",
+    "obs": ""
+  },
+  {
+    "IDCC": "405",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective nationale des etablissements medico-sociaux de l'union intersyndicale des secteurs sanitaires et sociaux (UNISSS, FFESCPE, convention de 1965, enfants, adolescents)",
+    "obs": ""
+  },
+  {
+    "IDCC": "412",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale de travail des guides accompagnateurs et accompagnateurs au service des agences de voyages et de tourisme",
+    "obs": ""
+  },
+  {
+    "IDCC": "413",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective nationale de travail des etablissements et services pour personnes inadaptees et handicapees (convention de 1966, SNAPEI)",
+    "obs": ""
+  },
+  {
+    "IDCC": "438",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale de travail des echelons intermediaires des services exterieurs de production des societes d'assurances",
+    "obs": ""
+  },
+  {
+    "IDCC": "454",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des remontees mecaniques et domaines skiables",
+    "obs": ""
+  },
+  {
+    "IDCC": "468",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective du commerce succursaliste de la chaussure",
+    "obs": ""
+  },
+  {
+    "IDCC": "478",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale des societes financieres",
+    "obs": ""
+  },
+  {
+    "IDCC": "489",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective du personnel des industries du cartonnage",
+    "obs": ""
+  },
+  {
+    "IDCC": "493",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des vins, cidres, jus de fruits, sirops, spiritueux et liqueurs de France",
+    "obs": ""
+  },
+  {
+    "IDCC": "500",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet",
+    "obs": ""
+  },
+  {
+    "IDCC": "509",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des cadres administratifs de la presse quotidienne parisienne",
+    "obs": ""
+  },
+  {
+    "IDCC": "538",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale du personnel des entreprises de manutention ferroviaire et travaux connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "567",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de la bijouterie, joaillerie, orfevrerie et des activites qui s'y rattachent",
+    "obs": ""
+  },
+  {
+    "IDCC": "573",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des commerces de gros",
+    "obs": ""
+  },
+  {
+    "IDCC": "598",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de travail des ouvriers de la presse quotidienne regionale",
+    "obs": ""
+  },
+  {
+    "IDCC": "614",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des industries de la serigraphie et des procedes d'impression numerique connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "635",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale du negoce en fournitures dentaires",
+    "obs": ""
+  },
+  {
+    "IDCC": "637",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective des industries et du commerce de la recuperation (recyclage, regions Nord-Pas-de-Calais, Picardie)",
+    "obs": ""
+  },
+  {
+    "IDCC": "653",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective de travail des producteurs salaries de base des services exterieurs de production des societes d'assurances",
+    "obs": ""
+  },
+  {
+    "IDCC": "669",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des industries de fabrication mecanique du verre",
+    "obs": ""
+  },
+  {
+    "IDCC": "675",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des maisons e succursales de vente au detail d'habillement",
+    "obs": ""
+  },
+  {
+    "IDCC": "693",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective de travail des employes de la presse quotidienne departementale",
+    "obs": ""
+  },
+  {
+    "IDCC": "698",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective de travail des employes de la presse quotidienne regionale",
+    "obs": ""
+  },
+  {
+    "IDCC": "700",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des ingenieurs et cadres de la production des papiers, cartons et celluloses",
+    "obs": ""
+  },
+  {
+    "IDCC": "706",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du personnel de la reprographie",
+    "obs": ""
+  },
+  {
+    "IDCC": "707",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des ingenieurs et cadres de la transformation des papiers cartons et de la pellicule cellulosique",
+    "obs": ""
+  },
+  {
+    "IDCC": "715",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des instruments e ecrire et des industries connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "716",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des employes et ouvriers de la distribution cinematographique",
+    "obs": ""
+  },
+  {
+    "IDCC": "731",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, cadres",
+    "obs": ""
+  },
+  {
+    "IDCC": "733",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des detaillants en chaussure",
+    "obs": ""
+  },
+  {
+    "IDCC": "759",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des pompes funebres",
+    "obs": ""
+  },
+  {
+    "IDCC": "779",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective de travail du personnel des voies ferrees d'interet local",
+    "obs": ""
+  },
+  {
+    "IDCC": "781",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des cadres administratifs de la presse quotidienne departementale",
+    "obs": ""
+  },
+  {
+    "IDCC": "783",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective des centres d'hebergement et de readaptation sociale et dans les services d'accueil, d'orientation et d'insertion pour adultes (CHRS, SOP)",
+    "obs": ""
+  },
+  {
+    "IDCC": "787",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale des cabinets d'experts-comptables et de commissaires aux comptes",
+    "obs": ""
+  },
+  {
+    "IDCC": "802",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de la distribution de papiers-cartons commerces de gros pour les ouvriers, employes, techniciens et agents de maetrise",
+    "obs": ""
+  },
+  {
+    "IDCC": "832",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale du personnel ouvrier de l'industrie de la fabrication des ciments",
+    "obs": ""
+  },
+  {
+    "IDCC": "833",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale du personnel employes, techniciens, dessinateurs et agents de maetrise de l'industrie de la fabrication des ciments",
+    "obs": ""
+  },
+  {
+    "IDCC": "843",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la boulangerie-petisserie -entreprises artisanales-",
+    "obs": ""
+  },
+  {
+    "IDCC": "892",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des cadres et agents de maetrise de la distribution de films de l'industrie cinematographique",
+    "obs": ""
+  },
+  {
+    "IDCC": "897",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective nationale des services de sante au travail interentreprises",
+    "obs": ""
+  },
+  {
+    "IDCC": "915",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des societes d'expertises et d'evaluations",
+    "obs": ""
+  },
+  {
+    "IDCC": "925",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des ingenieurs et cadres de la distribution des papiers et cartons, commerce de gros",
+    "obs": ""
+  },
+  {
+    "IDCC": "953",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la charcuterie de detail",
+    "obs": ""
+  },
+  {
+    "IDCC": "959",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des laboratoires de biologie medicale extra-hospitaliers",
+    "obs": ""
+  },
+  {
+    "IDCC": "992",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la boucherie, boucherie-charcuterie et boucherie hippophagique, triperie, commerce de volailles et gibiers",
+    "obs": ""
+  },
+  {
+    "IDCC": "993",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des prothesistes dentaires et des personnels des laboratoires de prothese dentaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "998",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des ouvriers, employes, techniciens et agents de maetrise de l'exploitation d'equipements thermiques et de genie climatique",
+    "obs": ""
+  },
+  {
+    "IDCC": "1000",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale du personnel des cabinets d'avocats",
+    "obs": ""
+  },
+  {
+    "IDCC": "1001",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective nationale des medecins specialistes qualifies au regard du conseil de l'ordre travaillant dans des etablissements et services pour personnes inadaptees et handicapees",
+    "obs": ""
+  },
+  {
+    "IDCC": "1016",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des cadres et agents de maetrise de l'edition de musique",
+    "obs": ""
+  },
+  {
+    "IDCC": "1018",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des cadres techniques de la presse quotidienne departementale franeaise",
+    "obs": ""
+  },
+  {
+    "IDCC": "1031",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale de la federation nationale des associations familiales rurales (FNAFR)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1043",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des gardiens, concierges et employes d'immeubles",
+    "obs": ""
+  },
+  {
+    "IDCC": "1044",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de l'horlogerie",
+    "obs": ""
+  },
+  {
+    "IDCC": "1077",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale entreprises du negoce et de l'industrie des produits du sol, engrais et produits connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "1083",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective de travail des ouvriers de la presse quotidienne departementale",
+    "obs": ""
+  },
+  {
+    "IDCC": "1090",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des services de l'automobile (commerce et reparation de l'automobile, du cycle et du motocycle, activites connexes, contrele technique automobile, formation des conducteurs auto-ecoles CNPA)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1147",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective du personnel des cabinets medicaux (medecin)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1170",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de l'industrie des tuiles et briques (CCNTB)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1182",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des personnels des ports de plaisance",
+    "obs": ""
+  },
+  {
+    "IDCC": "1194",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des employes de l'edition de musique",
+    "obs": ""
+  },
+  {
+    "IDCC": "1256",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des cadres, ingenieurs et assimiles des entreprises de gestion d'equipements thermiques et de climatisation",
+    "obs": ""
+  },
+  {
+    "IDCC": "1261",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des acteurs du lien social et familial : centres sociaux et socioculturels, associations d'accueil de jeunes enfants, associations de developpement social local (SNAECSO)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1266",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale du personnel des entreprises de restauration de collectivites",
+    "obs": ""
+  },
+  {
+    "IDCC": "1267",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la petisserie",
+    "obs": ""
+  },
+  {
+    "IDCC": "1278",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des personnels PACT et ARIM (centres pour la protection l'amelioration et la conservation de l'habitat et associations pour la restauration immobiliere)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1281",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des employes de la presse hebdomadaire regionale",
+    "obs": ""
+  },
+  {
+    "IDCC": "1285",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale pour les entreprises artistiques et culturelles (SYNDEAC)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1286",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des detaillants, detaillants-fabricants et artisans de la confiserie, chocolaterie, biscuiterie",
+    "obs": ""
+  },
+  {
+    "IDCC": "1307",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de l'exploitation cinematographique",
+    "obs": ""
+  },
+  {
+    "IDCC": "1311",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de la restauration ferroviaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "1314",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "\"Convention collective nationale des maisons d'alimentation e succursales, supermarches, hypermarches, \"\"gerants mandataires\"\" (grande distribution)\"",
+    "obs": ""
+  },
+  {
+    "IDCC": "1316",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des organismes de tourisme social et familial",
+    "obs": ""
+  },
+  {
+    "IDCC": "1351",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des entreprises de prevention et de securite",
+    "obs": ""
+  },
+  {
+    "IDCC": "1383",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, employes et personnels de maetrise",
+    "obs": ""
+  },
+  {
+    "IDCC": "1388",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de l'industrie du petrole",
+    "obs": ""
+  },
+  {
+    "IDCC": "1391",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective regionale concernant le personnel de l'industrie, de la manutention et du nettoyage sur les aeroports ouverts e la circulation publique de la region parisienne",
+    "obs": ""
+  },
+  {
+    "IDCC": "1396",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale pour les industries de produits alimentaires elabores",
+    "obs": ""
+  },
+  {
+    "IDCC": "1404",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des entreprises de commerce, de location et de reparation de tracteurs, machines et materiels agricoles, de materiels de travaux publics, de betiment et de manutention, de materiels de motoculture de plaisance, de jardins et d'espaces verts (SEDIMA)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1405",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des entreprises d'expedition et d'exportation de fruits et legumes",
+    "obs": ""
+  },
+  {
+    "IDCC": "1408",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des entreprises du negoce et de distribution de combustibles solides, liquides, gazeux et produits petroliers",
+    "obs": ""
+  },
+  {
+    "IDCC": "1411",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de la fabrication de l'ameublement",
+    "obs": ""
+  },
+  {
+    "IDCC": "1412",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des entreprises d'installation sans fabrication, y compris entretien, reparation, depannage de materiel aeraulique, thermique, frigorifique et connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "1413",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Accord national professionnel relatif aux salaries permanents des entreprises de travail temporaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "1420",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale du travail du personnel des organismes crees pour l'application de la convention du 31 decembre 1958 UNEDIC ASSEDIC",
+    "obs": "Arrete du 9 mai 2019 (JO du 1er juin 2019)"
+  },
+  {
+    "IDCC": "1423",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des entreprises relevant de la navigation de plaisance",
+    "obs": ""
+  },
+  {
+    "IDCC": "1424",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des reseaux de transports publics urbains de voyageurs",
+    "obs": ""
+  },
+  {
+    "IDCC": "1431",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale de l'optique-lunetterie de detail",
+    "obs": ""
+  },
+  {
+    "IDCC": "1468",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective de branche du Credit mutuel",
+    "obs": ""
+  },
+  {
+    "IDCC": "1480",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de travail des journalistes",
+    "obs": ""
+  },
+  {
+    "IDCC": "1483",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale du commerce de detail de l'habillement et des articles textiles",
+    "obs": ""
+  },
+  {
+    "IDCC": "1486",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale applicable au personnel des bureaux d'etudes techniques, des cabinets d'ingenieurs-conseils et des societes de conseils (BET, SYNTEC)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1487",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du commerce de detail de l'horlogerie-bijouterie",
+    "obs": ""
+  },
+  {
+    "IDCC": "1492",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la production des papiers, cartons et celluloses",
+    "obs": ""
+  },
+  {
+    "IDCC": "1495",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale pour les ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la transformation des papiers, cartons et celluloses",
+    "obs": ""
+  },
+  {
+    "IDCC": "1499",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la miroiterie, de la transformation et du negoce du verre",
+    "obs": ""
+  },
+  {
+    "IDCC": "1501",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de la restauration rapide (restauration livree)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1504",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la poissonnerie (commerce de detail, de demi-gros et de gros de la poissonnerie)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1505",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du commerce de detail de fruits et legumes, epicerie et produits laitiers",
+    "obs": ""
+  },
+  {
+    "IDCC": "1512",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la promotion immobiliere",
+    "obs": ""
+  },
+  {
+    "IDCC": "1513",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des activites de production des eaux embouteillees, des boissons rafraechissantes sans alcool et de biere",
+    "obs": ""
+  },
+  {
+    "IDCC": "1516",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des organismes de formation",
+    "obs": ""
+  },
+  {
+    "IDCC": "1517",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des commerces de detail non alimentaires : antiquites, brocante, galeries d'art, arts de la table, coutellerie, droguerie, equipement du foyer, bazars, commerces menagers, modelisme, jeux, jouets, perinatalite et maroquinerie (euvres d'art)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1518",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale de l'animation",
+    "obs": ""
+  },
+  {
+    "IDCC": "1527",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de l'immobilier",
+    "obs": ""
+  },
+  {
+    "IDCC": "1534",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes",
+    "obs": ""
+  },
+  {
+    "IDCC": "1536",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des distributeurs conseils hors domicile (entrepositaires-grossistes, bieres, eaux minerales et de table, boissons gazeuses, non gazeuses, sirops, jus de fruits, CHD)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1539",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des commerces de detail de papeterie, fournitures de bureau, de bureautique et informatique [et de librairie]",
+    "obs": ""
+  },
+  {
+    "IDCC": "1555",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de la fabrication et du commerce des produits e usage pharmaceutique, parapharmaceutique et veterinaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "1557",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du commerce des articles de sports et d'equipements de loisirs",
+    "obs": ""
+  },
+  {
+    "IDCC": "1558",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale relative aux conditions de travail du personnel des industries ceramiques de France",
+    "obs": ""
+  },
+  {
+    "IDCC": "1563",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des cadres de la presse hebdomadaire regionale d'information",
+    "obs": ""
+  },
+  {
+    "IDCC": "1580",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de l'industrie de la chaussure et des articles chaussants",
+    "obs": ""
+  },
+  {
+    "IDCC": "1586",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale de l'industrie de la salaison, charcuterie en gros et conserves de viandes",
+    "obs": ""
+  },
+  {
+    "IDCC": "1588",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective du personnel des societes cooperatives d'HLM",
+    "obs": ""
+  },
+  {
+    "IDCC": "1589",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des mareyeurs-expediteurs",
+    "obs": ""
+  },
+  {
+    "IDCC": "1596",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment visees par le decret du 1er mars 1962",
+    "obs": ""
+  },
+  {
+    "IDCC": "1597",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment non visees par le decret 1er mars 1962",
+    "obs": ""
+  },
+  {
+    "IDCC": "1605",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des entreprises de desinfection, desinsectisation, deratisation",
+    "obs": ""
+  },
+  {
+    "IDCC": "1606",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du bricolage, vente au detail en libre-service",
+    "obs": ""
+  },
+  {
+    "IDCC": "1607",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des industries des jeux, jouets, articles de fetes et ornements de Noel, articles de puericulture et voitures d'enfants modelisme et industries connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "1611",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des entreprises de logistique de communication ecrite directe",
+    "obs": ""
+  },
+  {
+    "IDCC": "1618",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective du camping ",
+    "obs": "Arrete du 9 mai 2019 (JO du 1er juin 2019)"
+  },
+  {
+    "IDCC": "1619",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des cabinets dentaires",
+    "obs": ""
+  },
+  {
+    "IDCC": "1621",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la repartition pharmaceutique",
+    "obs": ""
+  },
+  {
+    "IDCC": "1631",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de l'hetellerie de plein air",
+    "obs": ""
+  },
+  {
+    "IDCC": "1659",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale du rouissage teillage du lin",
+    "obs": ""
+  },
+  {
+    "IDCC": "1671",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des maisons d'etudiants",
+    "obs": ""
+  },
+  {
+    "IDCC": "1672",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale des societes d'assurances",
+    "obs": ""
+  },
+  {
+    "IDCC": "1679",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale de l'inspection d'assurance",
+    "obs": ""
+  },
+  {
+    "IDCC": "1686",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des commerces et services de l'audiovisuel, de l'electronique et de l'equipement menager",
+    "obs": ""
+  },
+  {
+    "IDCC": "1702",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale des ouvriers de travaux publics",
+    "obs": ""
+  },
+  {
+    "IDCC": "1710",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale du personnel des agences de voyages et de tourisme",
+    "obs": ""
+  },
+  {
+    "IDCC": "1734",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des artistes-interpretes engages pour des emissions de television",
+    "obs": ""
+  },
+  {
+    "IDCC": "1747",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective des activites industrielles de boulangerie et de petisserie",
+    "obs": ""
+  },
+  {
+    "IDCC": "1760",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des jardineries et graineteries",
+    "obs": ""
+  },
+  {
+    "IDCC": "1790",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des espaces de loisirs, d'attractions et culturels",
+    "obs": ""
+  },
+  {
+    "IDCC": "1794",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale du personnel des institutions de retraites complementaires",
+    "obs": ""
+  },
+  {
+    "IDCC": "1801",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale des societes d'assistance",
+    "obs": ""
+  },
+  {
+    "IDCC": "1821",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des professions regroupees du cristal, du verre et du vitrail",
+    "obs": ""
+  },
+  {
+    "IDCC": "1850",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective de l'avocat salarie",
+    "obs": ""
+  },
+  {
+    "IDCC": "1874",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des cadres, techniciens et agents de maetrise de la presse d'information specialisee du 1er juillet 1995",
+    "obs": ""
+  },
+  {
+    "IDCC": "1875",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des cabinets et cliniques veterinaires : personnel salarie",
+    "obs": ""
+  },
+  {
+    "IDCC": "1880",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du negoce de l'ameublement",
+    "obs": ""
+  },
+  {
+    "IDCC": "1895",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective de l'encadrement de la presse quotidienne regionale",
+    "obs": ""
+  },
+  {
+    "IDCC": "1909",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des organismes de tourisme",
+    "obs": ""
+  },
+  {
+    "IDCC": "1921",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des huissiers de justice",
+    "obs": ""
+  },
+  {
+    "IDCC": "1922",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de la radiodiffusion",
+    "obs": ""
+  },
+  {
+    "IDCC": "1930",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des metiers de la transformation des grains (ex meunerie)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1938",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des industries de la transformation des volailles (abattoirs, ateliers de decoupe et centres de conditionnement de volailles, commerce de gros de volailles)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1944",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale du personnel navigant technique des exploitants d'helicopteres",
+    "obs": ""
+  },
+  {
+    "IDCC": "1947",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale du negoce de bois d'euvre et produits derives",
+    "obs": ""
+  },
+  {
+    "IDCC": "1951",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des cabinets ou entreprises d'expertises en automobile",
+    "obs": ""
+  },
+  {
+    "IDCC": "1974",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale du personnel des entreprises de transport de passagers en navigation interieure",
+    "obs": ""
+  },
+  {
+    "IDCC": "1978",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des fleuristes, de la vente et des services des animaux familiers",
+    "obs": ""
+  },
+  {
+    "IDCC": "1979",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des hetels, cafes, restaurants (HCR)",
+    "obs": ""
+  },
+  {
+    "IDCC": "1982",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale du negoce et prestations de services dans les domaines medico-techniques",
+    "obs": ""
+  },
+  {
+    "IDCC": "1987",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des petes alimentaires seches et du couscous non prepare",
+    "obs": ""
+  },
+  {
+    "IDCC": "1996",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la pharmacie d'officine",
+    "obs": ""
+  },
+  {
+    "IDCC": "2002",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective interregionale de la blanchisserie, laverie, location de linge, nettoyage e sec, pressing et teinturerie",
+    "obs": ""
+  },
+  {
+    "IDCC": "2021",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale du golf",
+    "obs": ""
+  },
+  {
+    "IDCC": "2046",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective nationale du personnel non medical des centres de lutte contre le cancer",
+    "obs": ""
+  },
+  {
+    "IDCC": "2060",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des chaenes de cafeterias et assimiles",
+    "obs": ""
+  },
+  {
+    "IDCC": "2075",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des centres immatricules de conditionnement, de commercialisation et de transformation des eufs et des industries en produits d'eufs",
+    "obs": ""
+  },
+  {
+    "IDCC": "2089",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de l'industrie des panneaux e base de bois",
+    "obs": ""
+  },
+  {
+    "IDCC": "2098",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "2101",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de l'enseignement prive e distance",
+    "obs": ""
+  },
+  {
+    "IDCC": "2104",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective nationale du thermalisme ",
+    "obs": "Arrete du 9 mai 2019 (JO du 1er juin 2019)"
+  },
+  {
+    "IDCC": "2111",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des salaries du particulier employeur",
+    "obs": ""
+  },
+  {
+    "IDCC": "2120",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective de la banque",
+    "obs": ""
+  },
+  {
+    "IDCC": "2121",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de l'edition",
+    "obs": ""
+  },
+  {
+    "IDCC": "2128",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale de la mutualite",
+    "obs": ""
+  },
+  {
+    "IDCC": "2147",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective des entreprises des services d'eau et d'assainissement (entreprises en gerance, en concession ou en affermage assurent l'exploitation, le service, le pompage, le traitement et la distribution d'eau e usage public, particulier, domestique, agricole)",
+    "obs": ""
+  },
+  {
+    "IDCC": "2148",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des telecommunications",
+    "obs": ""
+  },
+  {
+    "IDCC": "2149",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des activites du dechet",
+    "obs": ""
+  },
+  {
+    "IDCC": "2150",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des personnels des societes anonymes et fondations d'HLM",
+    "obs": ""
+  },
+  {
+    "IDCC": "2156",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des grands magasins et des magasins populaires",
+    "obs": ""
+  },
+  {
+    "IDCC": "2174",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale du personnel sedentaire des entreprises de transports de marchandises de la navigation interieure",
+    "obs": ""
+  },
+  {
+    "IDCC": "2190",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des missions locales et PAIO des maisons de l'emploi et PLIE",
+    "obs": ""
+  },
+  {
+    "IDCC": "2198",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale des entreprises de vente e distance",
+    "obs": ""
+  },
+  {
+    "IDCC": "2205",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective du notariat",
+    "obs": ""
+  },
+  {
+    "IDCC": "2216",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du commerce de detail et de gros e predominance alimentaire (entrepets d'alimentation, superettes, supermarches, hypermarches, grande distribution)",
+    "obs": ""
+  },
+  {
+    "IDCC": "2219",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective des taxis - 4932Z",
+    "obs": ""
+  },
+  {
+    "IDCC": "2230",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective des associations agreees de surveillance de la qualite de l'air ",
+    "obs": "Arrete du 9 mai 2019 (JO du 1er juin 2019)"
+  },
+  {
+    "IDCC": "2247",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective des entreprises de courtage d'assurances et/ou de reassurances",
+    "obs": ""
+  },
+  {
+    "IDCC": "2257",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des casinos",
+    "obs": ""
+  },
+  {
+    "IDCC": "2264",
+    "Operateurdecompetences": "OPCO Sante",
+    "Libelle": "Convention collective de l'hospitalisation privee (CCU, FHP, etablissements pour personnes egees, maison de retraite, etablissements de suite et readaptation, medicaux pour enfants et adolescents, UHP, sanitaires sociaux et medico-sociaux CRRR, hospitalisation prive e but lucratif FIEHP)",
+    "obs": ""
+  },
+  {
+    "IDCC": "2272",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de l'assainissement et de la maintenance industrielle",
+    "obs": ""
+  },
+  {
+    "IDCC": "2329",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Accord professionnel national de travail entre les avocats au Conseil d'Etat et e la Cour de Cassation et leur personnel salarie -non avocat-",
+    "obs": ""
+  },
+  {
+    "IDCC": "2332",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention nationale des entreprises d'architecture",
+    "obs": ""
+  },
+  {
+    "IDCC": "2335",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale du personnel des agences generales d'assurances",
+    "obs": ""
+  },
+  {
+    "IDCC": "2336",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des organismes gestionnaires de foyers et services pour jeunes travailleurs",
+    "obs": ""
+  },
+  {
+    "IDCC": "2357",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Accord du 3 mars 1993 relatif aux cadres de direction des societes d'assurances",
+    "obs": ""
+  },
+  {
+    "IDCC": "2372",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des entreprises de la distribution directe",
+    "obs": ""
+  },
+  {
+    "IDCC": "2378",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Accords nationaux professionnels concernant le personnel interimaire des entreprises de travail temporaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "2395",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de travail des assistants maternels du particulier employeur",
+    "obs": ""
+  },
+  {
+    "IDCC": "2397",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective des mannequins adultes et des mannequins enfants de moins de seize ans employes par les agences de mannequins",
+    "obs": ""
+  },
+  {
+    "IDCC": "2408",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des personnels des services administratifs et economiques, personnels d'education et documentalistes des etablissement d'enseignement prives",
+    "obs": ""
+  },
+  {
+    "IDCC": "2411",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des chaenes thematiques",
+    "obs": ""
+  },
+  {
+    "IDCC": "2412",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective de la production de films d'animation",
+    "obs": ""
+  },
+  {
+    "IDCC": "2420",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale des cadres du betiment du 1er juin 2004",
+    "obs": ""
+  },
+  {
+    "IDCC": "2494",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale de la cooperation maritime",
+    "obs": ""
+  },
+  {
+    "IDCC": "2511",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale du sport",
+    "obs": ""
+  },
+  {
+    "IDCC": "2526",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des organisations professionnelles de l'habitat social",
+    "obs": ""
+  },
+  {
+    "IDCC": "2528",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale de travail des industries de la maroquinerie, articles de voyage, chasse sellerie, gainerie, bracelets en cuir",
+    "obs": ""
+  },
+  {
+    "IDCC": "2543",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale des cabinets ou entreprises de geometres experts, geometres topographes photogrammetres, experts-fonciers",
+    "obs": ""
+  },
+  {
+    "IDCC": "2564",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des veterinaires praticiens salaries",
+    "obs": ""
+  },
+  {
+    "IDCC": "2583",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de branche des societes concessionnaires ou exploitantes d'autoroutes ou d'ouvrages routiers",
+    "obs": ""
+  },
+  {
+    "IDCC": "2596",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la coiffure et des professions connexes",
+    "obs": ""
+  },
+  {
+    "IDCC": "2603",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale de travail des praticiens conseils du regime general de securite sociale",
+    "obs": ""
+  },
+  {
+    "IDCC": "2609",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale des employes, techniciens et agents de maetrise du betiment",
+    "obs": ""
+  },
+  {
+    "IDCC": "2614",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale des employes, techniciens et agents de maetrise des travaux publics",
+    "obs": ""
+  },
+  {
+    "IDCC": "2622",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective du credit maritime mutuel",
+    "obs": ""
+  },
+  {
+    "IDCC": "2642",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective de la production audiovisuelle",
+    "obs": ""
+  },
+  {
+    "IDCC": "2666",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement",
+    "obs": ""
+  },
+  {
+    "IDCC": "2668",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale de travail des cadres superieurs des societes de secours minieres et de leurs etablissements, des unions regionales et des assistants sociaux regionaux",
+    "obs": ""
+  },
+  {
+    "IDCC": "2683",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale du portage de presse",
+    "obs": ""
+  },
+  {
+    "IDCC": "2691",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de l'enseignement prive independant (hors contrat)",
+    "obs": ""
+  },
+  {
+    "IDCC": "2697",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des personnels des structures associatives cynegetiques",
+    "obs": ""
+  },
+  {
+    "IDCC": "2706",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale du personnel des administrateurs et des mandataires judiciaires",
+    "obs": ""
+  },
+  {
+    "IDCC": "2717",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des entreprises techniques au service de la creation et de l'evenement",
+    "obs": ""
+  },
+  {
+    "IDCC": "2727",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des omnipraticiens exereant dans les centres de sante miniers",
+    "obs": ""
+  },
+  {
+    "IDCC": "2728",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des sucreries, sucreries-distilleries et raffineries de sucre",
+    "obs": ""
+  },
+  {
+    "IDCC": "2768",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective national de travail des pharmaciens du regime minier",
+    "obs": ""
+  },
+  {
+    "IDCC": "2770",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de l'edition phonographique",
+    "obs": ""
+  },
+  {
+    "IDCC": "2785",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des societes de ventes volontaires de meubles aux encheres publiques et des offices de commissaires-priseurs judiciaires",
+    "obs": ""
+  },
+  {
+    "IDCC": "2793",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective de travail du 25 juin 1968 des agents de direction et des agents-comptables des organismes de securite sociale et d'allocations familiales",
+    "obs": ""
+  },
+  {
+    "IDCC": "2796",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective du personnel de direction du regime social des independants, ses annexes et son accord d'application",
+    "obs": ""
+  },
+  {
+    "IDCC": "2797",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale speciale de travail des praticiens conseils du regime social des independants et son annexe 1 relative e l'ARTT",
+    "obs": ""
+  },
+  {
+    "IDCC": "2798",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective des employes et cadres du regime social des independants, ses annexes 1 e 6 et son accord d'application",
+    "obs": ""
+  },
+  {
+    "IDCC": "2847",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale de Pele Emploi",
+    "obs": ""
+  },
+  {
+    "IDCC": "2931",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale des activites de marches financiers",
+    "obs": ""
+  },
+  {
+    "IDCC": "2941",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective de la branche de l'aide, de l'accompagnement, des soins et des services e domicile",
+    "obs": ""
+  },
+  {
+    "IDCC": "2972",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective du personnel sedentaire des entreprises de navigation",
+    "obs": ""
+  },
+  {
+    "IDCC": "2978",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale du personnel salarie des agences de recherches privees",
+    "obs": ""
+  },
+  {
+    "IDCC": "3013",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de la librairie",
+    "obs": ""
+  },
+  {
+    "IDCC": "3016",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective des ateliers chantiers d'insertion",
+    "obs": ""
+  },
+  {
+    "IDCC": "3017",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale unifiee ports et manutention",
+    "obs": ""
+  },
+  {
+    "IDCC": "3032",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale de l'esthetique - cosmetique et de l'enseignement technique et professionnel lies aux metiers de l'esthetique et de la parfumerie",
+    "obs": ""
+  },
+  {
+    "IDCC": "3043",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des entreprises de proprete et services associes du 26 juillet 2011",
+    "obs": ""
+  },
+  {
+    "IDCC": "3090",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des entreprises du secteur prive du spectacle vivant",
+    "obs": ""
+  },
+  {
+    "IDCC": "3097",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale de la production cinematographique",
+    "obs": ""
+  },
+  {
+    "IDCC": "3105",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des regies de quartier",
+    "obs": ""
+  },
+  {
+    "IDCC": "3109",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des 5 branches industries alimentaires diverses",
+    "obs": ""
+  },
+  {
+    "IDCC": "3127",
+    "Operateurdecompetences": "OPCO entreprises de proximite",
+    "Libelle": "Convention collective nationale des entreprises de services e la personne du 20 septembre 2012",
+    "obs": ""
+  },
+  {
+    "IDCC": "3168",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective Nationale des professions de la photographie",
+    "obs": ""
+  },
+  {
+    "IDCC": "3203",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective des structures associatives de peche de loisir et de protection du milieu aquatique",
+    "obs": ""
+  },
+  {
+    "IDCC": "3205",
+    "Operateurdecompetences": "OPCO Commerce",
+    "Libelle": "Convention collective nationale du personnel des cooperatives de consommation",
+    "obs": ""
+  },
+  {
+    "IDCC": "3210",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective de la banque populaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "3212",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale des cadres des travaux publics",
+    "obs": ""
+  },
+  {
+    "IDCC": "3213",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Convention collective nationale des collaborateurs salaries des entreprises d'economistes de la construction et des metreurs-verificateurs",
+    "obs": ""
+  },
+  {
+    "IDCC": "3216",
+    "Operateurdecompetences": "OPCO Construction",
+    "Libelle": "Convention collective nationale des salaries du negoce des materiaux de construction",
+    "obs": ""
+  },
+  {
+    "IDCC": "3217",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale ferroviaire",
+    "obs": ""
+  },
+  {
+    "IDCC": "3218",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de l'enseignement prive non lucratif (EPNL)",
+    "obs": ""
+  },
+  {
+    "IDCC": "3219",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de branche des salaries en portage salarial",
+    "obs": ""
+  },
+  {
+    "IDCC": "3220",
+    "Operateurdecompetences": "OPCO Cohesion sociale",
+    "Libelle": "Convention collective nationale des offices publics de l'habitat",
+    "obs": ""
+  },
+  {
+    "IDCC": "3221",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des agences de presse",
+    "obs": ""
+  },
+  {
+    "IDCC": "3223",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des officiers des entreprises de transport et services maritimes",
+    "obs": ""
+  },
+  {
+    "IDCC": "3224",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "\"Convention collective nationale de la distribution des papiers-cartons ",
+    "obs": " commerce de gros\""
+  },
+  {
+    "IDCC": "3225",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des employes et des cadres des editeurs de la presse magazine",
+    "obs": ""
+  },
+  {
+    "IDCC": "3227",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Convention collective nationale des industries de la fabrication de la chaux",
+    "obs": "Arrete du 9 mai 2019 (JO du 1er juin 2019) : 3151 remplace par 3227 "
+  },
+  {
+    "IDCC": "3228",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale du groupement des armateurs de service de passages d'eau - personnel navigant",
+    "obs": ""
+  },
+  {
+    "IDCC": "3230",
+    "Operateurdecompetences": "AFDAS",
+    "Libelle": "Convention collective nationale des employes de la presse d'information specialisee",
+    "obs": ""
+  },
+  {
+    "IDCC": "5001",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Statut des industries electriques et gazieres",
+    "obs": ""
+  },
+  {
+    "IDCC": "5005",
+    "Operateurdecompetences": "OPCO ATLAS",
+    "Libelle": "Branche des caisses d'epargne ",
+    "obs": "Arrete du 9 mai 2019 (JO du 1er juin 2019)"
+  },
+  {
+    "IDCC": "5521",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale du personnel navigant d'execution du transport maritime",
+    "obs": ""
+  },
+  {
+    "IDCC": "5554",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des officiers du remorquage maritime",
+    "obs": ""
+  },
+  {
+    "IDCC": "5555",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des navigants d'execution du remorquage maritime",
+    "obs": ""
+  },
+  {
+    "IDCC": "5556",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des personnels officiers des passages d'eau",
+    "obs": ""
+  },
+  {
+    "IDCC": "5557",
+    "Operateurdecompetences": "OPCO Mobilite",
+    "Libelle": "Convention collective nationale des personnels navigants d'execution des passages d'eau",
+    "obs": ""
+  },
+  {
+    "IDCC": "5619",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale de la peche professionnelle maritime",
+    "obs": ""
+  },
+  {
+    "IDCC": "7001",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des cooperatives et SICA de production, transformation et vente du betail et des viandes",
+    "obs": ""
+  },
+  {
+    "IDCC": "7002",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des cooperatives et SICA de cereales, de meunerie, d'approvisionnement et d'alimentation du betail et d'oleagineux",
+    "obs": ""
+  },
+  {
+    "IDCC": "7003",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des cooperatives agricoles, union de cooperatives agricoles et SICA fabriquant des conserves de fruits et de legumes, des plats cuisines et des specialites",
+    "obs": ""
+  },
+  {
+    "IDCC": "7004",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des cooperatives laitieres, unions de cooperatives laitieres et SICA laitieres",
+    "obs": ""
+  },
+  {
+    "IDCC": "7005",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des caves cooperatives et de leurs unions elargie aux SICA vinicoles",
+    "obs": ""
+  },
+  {
+    "IDCC": "7006",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de fleurs, de fruits et legumes et de pommes de terre",
+    "obs": ""
+  },
+  {
+    "IDCC": "7007",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de teillage de lin",
+    "obs": ""
+  },
+  {
+    "IDCC": "7008",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale du personnel des organismes de contrele laitier",
+    "obs": ""
+  },
+  {
+    "IDCC": "7009",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des entreprises d'accouvage et de selection de produits avicoles",
+    "obs": ""
+  },
+  {
+    "IDCC": "7010",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale du personnel des elevages aquacoles",
+    "obs": ""
+  },
+  {
+    "IDCC": "7012",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des centres equestres",
+    "obs": ""
+  },
+  {
+    "IDCC": "7013",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au trot",
+    "obs": ""
+  },
+  {
+    "IDCC": "7014",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au galop",
+    "obs": ""
+  },
+  {
+    "IDCC": "7017",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des parcs et jardins zoologiques ouverts au public",
+    "obs": ""
+  },
+  {
+    "IDCC": "7018",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des entreprises du paysage",
+    "obs": ""
+  },
+  {
+    "IDCC": "7019",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale de la conchyliculture",
+    "obs": ""
+  },
+  {
+    "IDCC": "7020",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale du reseau des centres d'economie rurale",
+    "obs": ""
+  },
+  {
+    "IDCC": "7021",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des entreprises relevant de la selection et de la reproduction animale",
+    "obs": ""
+  },
+  {
+    "IDCC": "7023",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Entreprises agricoles de deshydratation",
+    "obs": ""
+  },
+  {
+    "IDCC": "7501",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des caisses regionales du credit agricole",
+    "obs": ""
+  },
+  {
+    "IDCC": "7502",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale de la Mutualite sociale agricole",
+    "obs": ""
+  },
+  {
+    "IDCC": "7503",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des distilleries cooperatives viticoles et SICA de distillation",
+    "obs": ""
+  },
+  {
+    "IDCC": "7508",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des Maisons familiales rurales, instituts ruraux et centres",
+    "obs": ""
+  },
+  {
+    "IDCC": "7509",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale des organismes de formation et de promotion agricoles",
+    "obs": ""
+  },
+  {
+    "IDCC": "7513",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des centres d'initiatives pour valoriser l'agriculture et le milieu rural",
+    "obs": ""
+  },
+  {
+    "IDCC": "7514",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des organismes de la Confederation paysanne",
+    "obs": ""
+  },
+  {
+    "IDCC": "7515",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective nationale des societes d'amenagement foncier et d'etablissement rural (SAFER)",
+    "obs": ""
+  },
+  {
+    "IDCC": "7520",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Convention collective nationale de l'enseignement agricole prive (CNEAP)",
+    "obs": ""
+  },
+  {
+    "IDCC": "8115",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective regionale des hippodromes ele-de-France Cabourg Caen Chantilly Deauville",
+    "obs": ""
+  },
+  {
+    "IDCC": "8435",
+    "Operateurdecompetences": "OCAPIAT",
+    "Libelle": "Convention collective regionale des cooperatives fruitieres Ain Doubs Jura",
+    "obs": ""
+  },
+  {
+    "IDCC": "N.A.",
+    "Operateurdecompetences": "OPCO 2i",
+    "Libelle": "Accord national du 16 janvier 1979 sur le champ d'application des accords nationaux de la metallurgie",
+    "obs": ""
+  },
+  {
+    "IDCC": "na",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Secteur des exploitations forestieres et scieries",
+    "obs": ""
+  },
+  {
+    "IDCC": "na",
+    "Operateurdecompetences": "OPCO entreprises et salaries des services e forte intensite de main-d'euvre",
+    "Libelle": "Secteur des proprietes forestieres",
+    "obs": ""
+  }
+]

@@ -8,6 +8,9 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import LogoutIcon from '@mui/icons-material/Logout';
 import MoodIcon from '@mui/icons-material/Mood';
 import MenuBookIcon from '@mui/icons-material/MenuBook';
+import SchoolSharpIcon from '@mui/icons-material/SchoolSharp';
+import MenuBookSharpIcon from '@mui/icons-material/MenuBookSharp';
+import StarSharpIcon from '@mui/icons-material/StarSharp';
 
 export {
   MenuIcon,
@@ -20,4 +23,7 @@ export {
   LogoutIcon,
   MoodIcon,
   MenuBookIcon,
+  SchoolSharpIcon,
+  MenuBookSharpIcon,
+  StarSharpIcon,
 };

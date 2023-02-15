@@ -89,7 +89,10 @@ const DemandeSection = () => {
             <p className="text">
               Atteingnez vos objectifs d'apprentissage et profitez de nos
               formations
-              <span> GRATUITEMENT </span> via votre CPF
+              <br />
+              <span>
+                Un financement est possible pour une prise en charge à 100%
+              </span>
             </p>
           </Slide>
 

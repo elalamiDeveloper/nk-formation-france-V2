@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
 
 const CardFormationContainer = styled.div`
@@ -63,7 +63,7 @@ const CardFormationContainer = styled.div`
     }
   }
 
-  a {
+  button {
     border-radius: 0.5rem;
     font-size: 1.8rem;
     width: fit-content;
@@ -104,8 +104,13 @@ const CardFormationContainer = styled.div`
   }
 `;
 
-const CardFormation = ({ titre, preRequis, objectifs }) => {
+const CardFormation = ({ formation, onChangeselectedFormation }) => {
+  const { titre, preRequis, objectifs } = formation;
   const itemObjectifsRender = objectifs.slice(0, 3);
+
+  const onChangeFormation = () => {
+    onChangeselectedFormation(formation);
+  };
 
   return (
     <CardFormationContainer>
@@ -126,7 +131,14 @@ const CardFormation = ({ titre, preRequis, objectifs }) => {
           </li>
         ))}
       </ul>
-      <Link to="/contact">Détails de la formation</Link>
+
+      <button onClick={onChangeFormation} className="btn-formation">
+        Détails de la formation
+      </button>
+      {/* 
+      <Link to={{ pathname: '/formation-details'}>
+        Détails de la formation
+      </Link> */}
     </CardFormationContainer>
   );
 };

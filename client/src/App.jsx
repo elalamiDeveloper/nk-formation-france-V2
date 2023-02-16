@@ -29,8 +29,9 @@ const App = () => {
     chapitres: [],
   });
 
-  useEffect(() => navigate('/detail-foramtion'), [formationSelected]);
-  useEffect(() => navigate('/'), []);
+  useEffect(() => {
+    if (formationSelected._id) navigate('/detail-foramtion');
+  }, [formationSelected]);
 
   const onChangeselectedFormation = (formation) =>
     setFormationSelected(formation);

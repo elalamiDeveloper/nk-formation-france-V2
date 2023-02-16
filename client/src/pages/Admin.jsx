@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
 
 import { LogoutIcon, MoodIcon, MenuBookIcon } from '../utils/linksIcons';
-import { NavListAdmin, ListClients, Logo } from '../components';
+import { NavListAdmin, ListClients, Logo, OpcosList } from '../components';
 
 const AdminContainer = styled.div`
   display: flex;
@@ -12,12 +12,17 @@ const AdminContainer = styled.div`
     background: #1a4264;
     display: flex;
     flex-direction: column;
-    min-height: 60rem;
+    min-height: calc(100vh - 15.5rem);
 
     button {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
       background: transparent;
       color: #f0e6d1;
-      padding: 1.5rem;
+      padding: 2.5rem;
+      font-size: 2.2rem;
+      font-weight: 600;
       transition: 0.3s;
 
       &:hover,
@@ -26,67 +31,89 @@ const AdminContainer = styled.div`
         color: #1a4264;
       }
 
-      .logout {
+      &.logout {
         margin-top: auto;
       }
 
       * {
-        font-size: 3.6rem;
+        font-size: 3.8rem;
       }
     }
   }
+
+  .content {
+    flex: 1;
+  }
 `;
 
-const listClientNavBar = [
-  'ajouter un client',
-  'modifier un client',
-  'supprimer un client',
-];
-
-const listFormationNavBar = [
-  'ajouter une formation',
-  'modifier une formation',
-  'supprimer une formation',
-];
-
 const Admin = () => {
-  const [listNavBar, setListNavBar] = useState([]);
-  const [activeNavBar, setActiveNavBar] = useState('');
-  const navigate = useNavigate();
-  // navigate('/');
+  const [activeMenu, setActiveMenu] = useState('');
 
-  const onClientHandler = () => setActiveNavBar('clients');
-  const onFormationHandler = () => setActiveNavBar('formations');
-  const onLogoutHandler = () => navigate('/');
-
-  const onChangeNavListBarHandler = (e) => {
-    console.log(clientsRef.current);
-    // console.log(clientsRef.current.value);
-    // console.log(iconRef.current.parentNode.value);
-    // setListNavBar(list);
-    // setActiveNavBar(clientsRef.current.value);
+  const onChangeActiveMenuHandler = (e) => {
+    console.log('CHange');
   };
 
   return (
     <AdminContainer>
       <aside className="admin-btns">
-        <button className="clients" value="clients" onClick={onClientHandler}>
+        <button onClick={onChangeActiveMenuHandler}>
           <MoodIcon />
+          Client Pro
         </button>
-        <button
-          className="formations"
-          value="foramtions"
-          onClick={onFormationHandler}
-        >
+
+        <button onClick={onChangeActiveMenuHandler}>
           <MenuBookIcon />
+          Formations
         </button>
-        <button className="logout" value="logout" onClick={onLogoutHandler}>
+
+        <button onClick={onChangeActiveMenuHandler}>
+          <MenuBookIcon />
+          OPCO
+        </button>
+
+        <button className="logout">
           <LogoutIcon />
         </button>
       </aside>
-      {activeNavBar === 'clients' ? <ListClients /> : 'FORMATIONS'}
+
+      <div className="content">
+        <OpcosList />
+      </div>
     </AdminContainer>
   );
+
+  // const [listNavBar, setListNavBar] = useState([]);
+  // const [activeNavBar, setActiveNavBar] = useState('');
+  // const navigate = useNavigate();
+
+  // const onClientHandler = () => setActiveNavBar('clients');
+  // const onFormationHandler = () => setActiveNavBar('formations');
+  // const onLogoutHandler = () => navigate('/');
+
+  // const onChangeNavListBarHandler = (e) => {
+  //   console.log(clientsRef.current);
+  // };
+
+  // return (
+  //   <AdminContainer>
+  //     <aside className="admin-btns">
+  //       <button className="clients" value="clients" onClick={onClientHandler}>
+  //         <MoodIcon />
+  //       </button>
+  //       <button
+  //         className="formations"
+  //         value="foramtions"
+  //         onClick={onFormationHandler}
+  //       >
+  //         <MenuBookIcon />
+  //       </button>
+  //       <button className="logout" value="logout" onClick={onLogoutHandler}>
+  //         <LogoutIcon />
+  //       </button>
+  //     </aside>
+  //     {activeNavBar === 'clients' ? <ListClients /> : 'FORMATIONS'}
+  //   </AdminContainer>
+  // );
 };
 
 export default Admin;

@@ -11,6 +11,7 @@ import MenuBookIcon from '@mui/icons-material/MenuBook';
 import SchoolSharpIcon from '@mui/icons-material/SchoolSharp';
 import MenuBookSharpIcon from '@mui/icons-material/MenuBookSharp';
 import StarSharpIcon from '@mui/icons-material/StarSharp';
+import ArrowCircleDownIcon from '@mui/icons-material/ArrowCircleDown';
 
 export {
   MenuIcon,
@@ -26,4 +27,5 @@ export {
   SchoolSharpIcon,
   MenuBookSharpIcon,
   StarSharpIcon,
+  ArrowCircleDownIcon,
 };

@@ -10,7 +10,7 @@ import {
   StarSharpIcon,
 } from '../utils/linksIcons';
 
-const DetailsFormationContainer = styled.div`
+const FormationDetailsContainer = styled.div`
   padding: 5rem 0 0;
 
   .container {
@@ -106,7 +106,7 @@ const DetailsFormationContainer = styled.div`
 const DetailsFormation = ({ formation }) => {
   return (
     <>
-      <DetailsFormationContainer>
+      <FormationDetailsContainer>
         <div className="container">
           <h1 className="formation-title">{formation.titre}</h1>
           <div className="main-container">
@@ -154,7 +154,7 @@ const DetailsFormation = ({ formation }) => {
             ))}
           </div>
         </div>
-      </DetailsFormationContainer>
+      </FormationDetailsContainer>
       <ContactBar />
       <Footer />
     </>

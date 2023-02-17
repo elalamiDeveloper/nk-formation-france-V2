@@ -1,0 +1,1762 @@
+[
+  {
+    "IDCC": "1605",
+    "theme": "Techniques Métiers",
+    "dureeMaximal": "",
+    "coutPedagogique": "30",
+    "budget": "3000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1605",
+    "theme": "\"Formations transversales\"",
+    "dureeMaximal": "",
+    "coutPedagogique": "30",
+    "budget": "6000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "2706",
+    "theme": "\"Formations juridiques avocats / mandataires (liste en annexe)\"",
+    "dureeMaximal": "28",
+    "coutPedagogique": "85",
+    "budget": "10000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "2706",
+    "theme": "\"Formations stages professionnels mandataires\"",
+    "dureeMaximal": "63",
+    "coutPedagogique": "50",
+    "budget": "20000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "2706",
+    "theme": "\"Gestionnaire social en procédures collectives\"",
+    "dureeMaximal": "172",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "RPVA",
+    "dureeMaximal": "4",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "Formations longues hors Pro-A",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "\"Accueil, communication, comptabilité\"",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "Management",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "Formation Responsable qualité",
+    "dureeMaximal": "70",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "\"Démarche qualité sensibilisation\"",
+    "dureeMaximal": "21",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "\"Logiciels professionnels\"",
+    "dureeMaximal": "21",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2706",
+    "theme": "\"Secourisme, AFGSU, SSIAP\"",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2272",
+    "theme": "\"Les formations métiers prioritaires CATEC, RISQUE AMIANTE, SST CERTIFICATEUR SAUVETEUR SECOURISTE DU TRAVAIL + RECYCLAGE \"",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "45",
+    "budget": "15000",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "2272",
+    "theme": "\"Les formations métiers techniques professionnelles liées QUALITE / HYGIENE / SECURITE / ENVIRONNEMENT (QHSE), SECURITE DES BIENS ET DES PERSONNES, POLICE, SURVEILLANCE, LOGISTIQUE / TRANSPORT / MANUTENTION \"",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "40",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2272",
+    "theme": "\"Actions individuelles formations transverses MANAGEMENT, CONSEIL, AUDIT, COMPTABILITE, GESTION, FINANCE, RH, BUREAUTIQUE, INFORMATIQUE, LOGICIELS SPECIFIQUES METIERS, COMMERCE, VENTE, MARKETING ETC.. \"",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Stages techniques « Métier » ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "60",
+    "budget": "7500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "992",
+    "theme": "Hygiène et bonnes pratiques professionnelles ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "60",
+    "budget": "15000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "992",
+    "theme": "Sécurité alimentaire ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Création et reprise d’entreprise : 5 jours pour entreprendre ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Perfectionnement à la fonction de formateur en boucherie ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Formation de formateur spécifique dans le cadre du déploiement du CQP de la branche ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Culture générale, langues étrangères ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "25",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Titre MUM (Manager d’Unité Marchande), ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Licence PRO Boucher manager ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "CQP Technicien boucher artisanal ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "CQP Charcutier Préparateur artisanal ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Comptabilité Gestion ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "25",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Formation « document unique » ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "25",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Management",
+    "dureeMaximal": "21",
+    "coutPedagogique": "25",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Bureautique ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "25",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "992",
+    "theme": "Informatique, réseaux sociaux et internet ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "25",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Techniques de fabrication, préparation et de transformation ",
+    "dureeMaximal": "63",
+    "coutPedagogique": "50",
+    "budget": "7500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "843",
+    "theme": "Transport Marchandise Magasinage, décoration vitrine ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "30",
+    "budget": "15000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "843",
+    "theme": "Etiquetage et traçabilité",
+    "dureeMaximal": "7",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Hygiène et bonnes pratiques professionnelles ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Label Qualité/innovation",
+    "dureeMaximal": "21",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Techniques de vente",
+    "dureeMaximal": "21",
+    "coutPedagogique": "40",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Modules pilotage d'une entreprise (Gestion, RH) ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Langues",
+    "dureeMaximal": "100",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Accueil, communication, comptabilité ",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Management",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Word, Excel",
+    "dureeMaximal": "21",
+    "coutPedagogique": "40",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Secourisme, AFGSU, SSIAP",
+    "dureeMaximal": "21",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "843",
+    "theme": "Sécurité alimentaire ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1875",
+    "theme": "Actualisation des connaissances cœur de métier vétérinaires salariés et auxiliaires vétérinaires ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "7500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1875",
+    "theme": "Modules de formation Développement des compétences (DC) cœur de métier issus des parcours CQP et hors parcours pour les auxiliaires et les vétérinaires modules des parcours CQP ",
+    "dureeMaximal": "70",
+    "coutPedagogique": "60",
+    "budget": "15000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "1875",
+    "theme": "Atelier pratique ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1875",
+    "theme": "Accompagnement CQP cœur de métier ",
+    "dureeMaximal": "50",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1875",
+    "theme": "\"Formations transverses : • Administratifs/Secrétariat Bureautique/informatique/logiciels  professionnels  Communication  Comptabilité/Gestion/   Ressources Humaines   Management   Hygiène   Qualité/ environnement   Accueil \"",
+    "dureeMaximal": "14",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1875",
+    "theme": "Anglais professionnel ",
+    "dureeMaximal": "50",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1875",
+    "theme": "Formations longues hors Pro-A (y compris CES, CEAV, DE) ",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1875",
+    "theme": "Secourisme, AFGSU, SSIAP ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2564",
+    "theme": "Actualisation des connaissances cœur de métier vétérinaires salariés et auxiliaires vétérinaires ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "7500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "2564",
+    "theme": "Modules de formation Développement des compétences (DC) cœur de métier issus des parcours CQP et hors parcours pour les auxiliaires et les vétérinaires modules des parcours CQP ",
+    "dureeMaximal": "70",
+    "coutPedagogique": "60",
+    "budget": "15000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "2564",
+    "theme": "Atelier pratique ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2564",
+    "theme": "Accompagnement CQP cœur de métier ",
+    "dureeMaximal": "50",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2564",
+    "theme": "\"Formations transverses : • Administratifs/Secrétariat Bureautique/informatique/logiciels  professionnels   Communication   Comptabilité/Gestion/   Ressources Humaines   Management   Hygiène   Qualité/ environnement   Accueil \"",
+    "dureeMaximal": "14",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2564",
+    "theme": "Anglais professionnel ",
+    "dureeMaximal": "50",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2564",
+    "theme": "Formations longues hors Pro-A (y compris CES, CEAV, DE) ",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2564",
+    "theme": "Secourisme, AFGSU, SSIAP ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Cycles formation juridiques (1er au 3eme cycles) ",
+    "dureeMaximal": "155,5",
+    "coutPedagogique": "50",
+    "budget": "15000",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "1000",
+    "theme": "RPVA",
+    "dureeMaximal": "7",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Formations juridiques avocats/juristes",
+    "dureeMaximal": "28",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Langues en lien avec l’activité du cabinet y compris les formations visant une certification (TOEIC, Voltaire ...)",
+    "dureeMaximal": "150",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Titre d’assistante juridique* ",
+    "dureeMaximal": "218",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Titre de secrétaire juridique**",
+    "dureeMaximal": "166",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Titre juriste ",
+    "dureeMaximal": "525",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Formations juridiques non-avocats ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "\"Formations transverses au cabinet personnel non- avocat ou avocats salariés Secrétariat / accueil   Bureautique   Comptabilité   Gestion   Logiciels professionnels... \"",
+    "dureeMaximal": "35",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Formations longues hors Pro-A ",
+    "dureeMaximal": "600",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Formation Responsable qualité (certification ISO...) ",
+    "dureeMaximal": "70",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Démarche qualité sensibilisation ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "Secourisme, AFGSU, SST, SSIAP ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1000",
+    "theme": "QVT / Prévention et gestion des risques psychosociaux ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Cycles formation juridiques (1er au 3eme cycles) ",
+    "dureeMaximal": "155,5",
+    "coutPedagogique": "50",
+    "budget": "15000",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "1850",
+    "theme": "RPVA",
+    "dureeMaximal": "7",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Formations juridiques avocats/juristes",
+    "dureeMaximal": "28",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Langues en lien avec l’activité du cabinet y compris les formations visant une certification (TOEIC, Voltaire ...)",
+    "dureeMaximal": "150",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Titre d’assistante juridique* ",
+    "dureeMaximal": "218",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Titre de secrétaire juridique**",
+    "dureeMaximal": "166",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Titre juriste ",
+    "dureeMaximal": "525",
+    "coutPedagogique": "85",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Formations juridiques non-avocats ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "\"Formations transverses au cabinet personnel non- avocat ou avocats salariés Secrétariat / accueil   Bureautique   Comptabilité   Gestion   Logiciels professionnels... \"",
+    "dureeMaximal": "35",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Formations longues hors Pro-A ",
+    "dureeMaximal": "600",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Formation Responsable qualité (certification ISO...) ",
+    "dureeMaximal": "70",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Démarche qualité sensibilisation ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "Secourisme, AFGSU, SST, SSIAP ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1850",
+    "theme": "QVT / Prévention et gestion des risques psychosociaux ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Actualisation des connaissances ",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "7500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Approfondissement gestion du risque infectieux ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "30",
+    "budget": "15000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "1619",
+    "theme": "MAJGRI FOAD (mise à jour- gestion risque infectieux) ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "MAJGRI PRESENTIEL (mise à jour- gestion risque infectieux) ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "CQP spécialisation prothésiste dentaire ",
+    "dureeMaximal": "189",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Module administratif ",
+    "dureeMaximal": "100",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Module ODF ",
+    "dureeMaximal": "100",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Module stérilisation et redoublement assistante dentaire (en présentiel)",
+    "dureeMaximal": "150",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Accueil et gestion des patients difficiles",
+    "dureeMaximal": "28",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Logiciels professionnels",
+    "dureeMaximal": "21",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Formations longues hors Pro-A",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Accueil, communication, comptabilité",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Management",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Formation Responsable qualité",
+    "dureeMaximal": "70",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Démarche qualité sensibilisation",
+    "dureeMaximal": "21",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1619",
+    "theme": "Secourisme, AFGSU, SSIAP",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Actualisation des connaissances cœur de métier ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "60",
+    "budget": "15000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Actualisation des connaissances manipulateurs radio ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "85",
+    "budget": "30000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Gestion des risques infectieux ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Hypnose ",
+    "dureeMaximal": "20",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Gestion des risques / santé et sécurité au travail ",
+    "dureeMaximal": "28",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Diplômes universitaires",
+    "dureeMaximal": "170",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Adaptation à l’emploi assistant médical (publics : Infirmiers, auxiliaires de puériculture, aides-soignants)",
+    "dureeMaximal": "112",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "CQP Assistant médical, y compris parcours modulaire suite à un redoublement (blocs de compétences) ",
+    "dureeMaximal": "384",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Référents RGPD ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "\"Accueil cabinet médical • Accueil Accueil et gestion des patients difficiles y compris public en situation de handicap   Accueil et gestion de la salle d’attente   Gestion des conflits \"",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "\"Informatique • Bureautiques • Logiciels professionnels médecins • Sécurité informatique  \"",
+    "dureeMaximal": "21",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Digitalisation des métiers de la branche : matériels connectés ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "\"Référent harcèlement Comprendre le mécanisme de la violence et être capable de détecter et d’orienter les femmes victimes de violences \"",
+    "dureeMaximal": "7",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Formations longues hors Pro-A ",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Anglais ",
+    "dureeMaximal": "30",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Communication, comptabilité ",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Management ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Formation Responsable qualité ",
+    "dureeMaximal": "70",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Démarche qualité sensibilisation ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1147",
+    "theme": "Secourisme, AFGSU, SSIAP ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Formations cœur de métier",
+    "dureeMaximal": "35",
+    "coutPedagogique": "50",
+    "budget": "15000",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Véhicules endommagés ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Unité C expert en automobile ",
+    "dureeMaximal": "170",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Accueil, communication, comptabilité ",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Management ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Formation Responsable qualité ",
+    "dureeMaximal": "70",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Démarche qualité sensibilisation ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1951",
+    "theme": "Secourisme, AFGSU, SSIAP ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Techniques de fabrication, préparation et de transformation ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "7500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "953",
+    "theme": "Transport Marchandise Magasinage, décoration vitrine ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "15000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "953",
+    "theme": "Hygiène et bonnes pratiques professionnelles ",
+    "dureeMaximal": "7",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Sécurité alimentaire ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "60",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Label Qualité/innovation ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Techniques de vente ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Modules pilotage d'une entreprise (Gestion, RH) ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "CQP Chef Charcutier ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "CQP Manager de boutique ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "CQP Traiteur Organisation de réceptions ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "CQP Traiteur Boutique ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "CQP Charcutier ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "CQP conseiller de vente en Charcuterie Traiteur ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "CQP VCSAA (Vendeur Conseil Spécialisé en Alimentation Artisanale) ",
+    "dureeMaximal": "Referentiel",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Formations longues hors Pro-A ",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Langues ",
+    "dureeMaximal": "100",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Accueil, communication, comptabilité ",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Management",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Word, Excel",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "953",
+    "theme": "Secourisme, AFGSU, SSIAP ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2596",
+    "theme": "\"COIFFURE • Coupe/ coiffage/coiffure • Extensions et prothèses capillaires • Coloration / Formes • Barbier • Soins capillaires • Visagisme / Morphologie \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "25",
+    "budget": "2100",
+    "nombreSalariee": "0<x<3"
+  },
+  {
+    "IDCC": "2596",
+    "theme": "\"TRANSVERSE • Langue Management / RH   Accueil, vente, marketing, communication   Conseil en image   Informatique, bureautique, gestion, comptabilité   Connaissance des outils numériques  (création web, gestion internet,...)   Ergonomie, hygiène et sécurité au travail   Qualité/ environnement  \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "30",
+    "budget": "6300",
+    "nombreSalariee": "3<x<7"
+  },
+  {
+    "IDCC": "2596",
+    "theme": "\"ESTHETIQUE • Manucurie /onglerie • Maquillage • Massages • Soins du visage \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "25",
+    "budget": "10500",
+    "nombreSalariee": "7<x<11"
+  },
+  {
+    "IDCC": "1483",
+    "theme": "\"Formations métier  Mise en place d'un service digital (incluant le numérique)  Communication et prospection active de nouveaux clients  Commerce/Vente/Marketing  Vente/Accueil  Développement de nouvelles activités \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "55",
+    "budget": "15000",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "1483",
+    "theme": "\"Formations métier  Réorganisation ou restructuration de nouvelles activités  Textile/Cuir peaux/Autres matériaux  Etalage/Merchandising  Gestion des stocks informatisée  Caisse enregistreuse informatisée  Conseil look client  Connaissance des produits  Langues \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1483",
+    "theme": "\"Formations transverses  Administratif/Secrétariat  Gestion/Comptabilité/Finance  Bureautique  Communication/Information  Informatique  Juridique  Management/Conseil/Audit  Ressources humaines \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "25",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Actualisation des connaissances",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "10000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Commissaire de justice (2 ans)",
+    "dureeMaximal": "642",
+    "coutPedagogique": "20",
+    "budget": "20000",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Passerelle Commissaire-priseur volontaire / Commissaire de Justice",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Formations conseil des ventes volontaires",
+    "dureeMaximal": "175",
+    "coutPedagogique": "40",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Formations longues hors Pro-A Accueil, communication, comptabilité Management",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Accueil, communication, comptabilité",
+    "dureeMaximal": "28",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Management",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Formation Responsable qualité ",
+    "dureeMaximal": "70",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Démarche qualité sensibilisation",
+    "dureeMaximal": "21",
+    "coutPedagogique": "15",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "2785",
+    "theme": "Secourisme, AFGSU, SSIAP",
+    "dureeMaximal": "21",
+    "coutPedagogique": "24",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Techniques de fabrication, préparation et de transformation - Label Qualité/innovation ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "7500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Transport, Marchandise, Magasinage ",
+    "dureeMaximal": "21",
+    "coutPedagogique": "30",
+    "budget": "15000",
+    "nombreSalariee": "10<x<50"
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Etiquetage - Traçabilité - Allergènes ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Hygiène, sécurité",
+    "dureeMaximal": "14",
+    "coutPedagogique": "40",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Techniques de vente - Décoration vitrine ",
+    "dureeMaximal": "42",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Formations longues hors Pro-A",
+    "dureeMaximal": "600",
+    "coutPedagogique": "20",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Langues",
+    "dureeMaximal": "100",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Management - Modules pilotage d'une entreprise (Gestion, RH, ...) ",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Informatique - Bureautique - comptabilité",
+    "dureeMaximal": "35",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1286",
+    "theme": "Communication - réseaux sociaux - Sites Web ",
+    "dureeMaximal": "14",
+    "coutPedagogique": "35",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "733",
+    "theme": "\"Formations métier • Commerce/Vente/Marketing o Caisse o Commerce o Etalage/ Merchandising o Gestion commerciale o Marketing o Relation clien (accueil client, satisfaction client, réclamation, gestion de conflit) o Vente o Vente par internet • Textile/Cuirs peaux/autres matériaux/ montage de la chaussure \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "45",
+    "budget": "20000",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "733",
+    "theme": "Formations sur le numérique",
+    "dureeMaximal": "",
+    "coutPedagogique": "50",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "733",
+    "theme": "\"Formations transverses • Administratifs/Secrétariat Bureautique/Informatique   Communication   Comptabilité/Gestion/ Ressources Humaine   Langues à usage professionnel   Management   \"",
+    "dureeMaximal": "",
+    "coutPedagogique": "30",
+    "budget": "",
+    "nombreSalariee": ""
+  },
+  {
+    "IDCC": "1606",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "1200",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1606",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2200",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "2198",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "1500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "2198",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2500",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "2216",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "2216",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "6000",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "468",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "5000",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "1505",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1505",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3500",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1487",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "1400",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1487",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2700",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "675",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3200",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "675",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3600",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1517",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1517",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2800",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1686",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1686",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "4000",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "3205",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "40",
+    "budget": "3000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "3205",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "40",
+    "budget": "6000",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "500",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3200",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "500",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "4800",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1557",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1557",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2500",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1539",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "1500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1539",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2000",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "2156",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "5500",
+    "nombreSalariee": "0<x<50"
+  },
+  {
+    "IDCC": "43",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "43",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2500",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1760",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2400",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1760",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3500",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "3237",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2000",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "3237",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3500",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1880",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "2500",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1880",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "3500",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "1431",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "40",
+    "budget": "1600",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "1431",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "40",
+    "budget": "4000",
+    "nombreSalariee": "11<x<50"
+  },
+  {
+    "IDCC": "3168",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "1150",
+    "nombreSalariee": "0<x<11"
+  },
+  {
+    "IDCC": "3168",
+    "theme": "",
+    "dureeMaximal": "",
+    "coutPedagogique": "",
+    "budget": "1150",
+    "nombreSalariee": "11<x<50"
+  }
+]

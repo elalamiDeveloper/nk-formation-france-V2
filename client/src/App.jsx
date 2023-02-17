@@ -1,6 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 
+import { Admin } from './pages';
+
 import {
   Home,
   Formation,
@@ -8,7 +10,6 @@ import {
   AboutUs,
   Login,
   Client,
-  Admin,
   DetailsFormation,
 } from './pages';
 import { Header } from './components';
@@ -30,8 +31,9 @@ const App = () => {
   });
 
   useEffect(() => {
-    if (formationSelected._id) navigate('/detail-foramtion');
+    formationSelected._id && navigate('/detail-foramtion');
   }, [formationSelected]);
+  // useEffect(() => navigate('/'), []);
 
   const onChangeselectedFormation = (formation) =>
     setFormationSelected(formation);

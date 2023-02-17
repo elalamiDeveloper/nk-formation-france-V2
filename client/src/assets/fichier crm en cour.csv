@@ -1,0 +1,442 @@
+IDCC;theme;dureeMaximal;coutPedagogique;budget;nombreSalariee
+
+1605;Techniques Métiers;;30;3000;0<x<11
+
+1605;"Formations transversales";;30;6000;10<x<50
+
+2706;"Formations juridiques avocats / mandataires (liste en annexe)";28;85;10000;0<x<11
+
+2706;"Formations stages professionnels mandataires";63;50;20000;10<x<50
+
+2706;"Gestionnaire social en procédures collectives";172;30;;
+
+2706;RPVA;4;30;;
+
+2706;Formations longues hors Pro-A;600;20;;
+
+2706;"Accueil, communication, comptabilité";28;30;;
+
+2706;Management;35;35;;
+
+2706;Formation Responsable qualité;70;50;;
+
+2706;"Démarche qualité sensibilisation";21;15;;
+
+2706;"Logiciels professionnels";21;35;;
+
+2706;"Secourisme, AFGSU, SSIAP";21;24;;
+
+2272;"Les formations métiers prioritaires CATEC, RISQUE AMIANTE, SST CERTIFICATEUR SAUVETEUR SECOURISTE DU TRAVAIL + RECYCLAGE ";Referentiel;45;15000;0<x<50
+
+2272;"Les formations métiers techniques professionnelles liées QUALITE / HYGIENE / SECURITE / ENVIRONNEMENT (QHSE), SECURITE DES BIENS ET DES PERSONNES, POLICE, SURVEILLANCE, LOGISTIQUE / TRANSPORT / MANUTENTION ";Referentiel;40;;
+
+2272;"Actions individuelles formations transverses MANAGEMENT, CONSEIL, AUDIT, COMPTABILITE, GESTION, FINANCE, RH, BUREAUTIQUE, INFORMATIQUE, LOGICIELS SPECIFIQUES METIERS, COMMERCE, VENTE, MARKETING ETC.. ";Referentiel;30;;
+
+992;Stages techniques « Métier » ;14;60;7500;0<x<11
+
+992;Hygiène et bonnes pratiques professionnelles ;7;60;15000;10<x<50
+
+992;Sécurité alimentaire ;14;60;;
+
+992;Création et reprise d’entreprise : 5 jours pour entreprendre ;35;60;;
+
+992;Perfectionnement à la fonction de formateur en boucherie ;14;60;;
+
+992;Formation de formateur spécifique dans le cadre du déploiement du CQP de la branche ;14;60;;
+
+992;Culture générale, langues étrangères ;21;25;;
+
+992;Titre MUM (Manager d’Unité Marchande), ;Referentiel;24;;
+
+992;Licence PRO Boucher manager ;Referentiel;24;;
+
+992;CQP Technicien boucher artisanal ;Referentiel;24;;
+
+992;CQP Charcutier Préparateur artisanal ;Referentiel;24;;
+
+992;Comptabilité Gestion ;21;25;;
+
+992;Formation « document unique » ;14;25;;
+
+992;Management;21;25;;
+
+992;Bureautique ;21;25;;
+
+992;Informatique, réseaux sociaux et internet ;21;25;;
+
+843;Techniques de fabrication, préparation et de transformation ;63;50;7500;0<x<11
+
+843;Transport Marchandise Magasinage, décoration vitrine ;42;30;15000;10<x<50
+
+843;Etiquetage et traçabilité;7;50;;
+
+843;Hygiène et bonnes pratiques professionnelles ;7;50;;
+
+843;Label Qualité/innovation;21;50;;
+
+843;Techniques de vente;21;40;;
+
+843;Modules pilotage d'une entreprise (Gestion, RH) ;42;50;;
+
+843;Langues;100;30;;
+
+843;Accueil, communication, comptabilité ;28;30;;
+
+843;Management;35;35;;
+
+843;Word, Excel;21;40;;
+
+843;Secourisme, AFGSU, SSIAP;21;30;;
+
+843;Sécurité alimentaire ;14;60;;
+
+1875;Actualisation des connaissances cœur de métier vétérinaires salariés et auxiliaires vétérinaires ;35;35;7500;0<x<11
+
+1875;Modules de formation Développement des compétences (DC) cœur de métier issus des parcours CQP et hors parcours pour les auxiliaires et les vétérinaires modules des parcours CQP ;70;60;15000;10<x<50
+
+1875;Atelier pratique ;7;85;;
+
+1875;Accompagnement CQP cœur de métier ;50;85;;
+
+1875;"Formations transverses : • Administratifs/Secrétariat Bureautique/informatique/logiciels  professionnels  Communication  Comptabilité/Gestion/   Ressources Humaines   Management   Hygiène   Qualité/ environnement   Accueil ";14;35;;
+
+1875;Anglais professionnel ;50;60;;
+
+1875;Formations longues hors Pro-A (y compris CES, CEAV, DE) ;600;20;;
+
+1875;Secourisme, AFGSU, SSIAP ;21;24;;
+
+2564;Actualisation des connaissances cœur de métier vétérinaires salariés et auxiliaires vétérinaires ;35;35;7500;0<x<11
+
+2564;Modules de formation Développement des compétences (DC) cœur de métier issus des parcours CQP et hors parcours pour les auxiliaires et les vétérinaires modules des parcours CQP ;70;60;15000;10<x<50
+
+2564;Atelier pratique ;7;85;;
+
+2564;Accompagnement CQP cœur de métier ;50;85;;
+
+2564;"Formations transverses : • Administratifs/Secrétariat Bureautique/informatique/logiciels  professionnels   Communication   Comptabilité/Gestion/   Ressources Humaines   Management   Hygiène   Qualité/ environnement   Accueil ";14;35;;
+
+2564;Anglais professionnel ;50;60;;
+
+2564;Formations longues hors Pro-A (y compris CES, CEAV, DE) ;600;20;;
+
+2564;Secourisme, AFGSU, SSIAP ;21;24;;
+
+1000;Cycles formation juridiques (1er au 3eme cycles) ;155,5;50;15000;0<x<50
+
+1000;RPVA;7;50;;
+
+1000;Formations juridiques avocats/juristes;28;85;;
+
+1000;Langues en lien avec l’activité du cabinet y compris les formations visant une certification (TOEIC, Voltaire ...);150;60;;
+
+1000;Titre d’assistante juridique* ;218;85;;
+
+1000;Titre de secrétaire juridique**;166;85;;
+
+1000;Titre juriste ;525;85;;
+
+1000;Formations juridiques non-avocats ;21;50;;
+
+1000;"Formations transverses au cabinet personnel non- avocat ou avocats salariés Secrétariat / accueil   Bureautique   Comptabilité   Gestion   Logiciels professionnels... ";35;50;;
+
+1000;Formations longues hors Pro-A ;600;30;;
+
+1000;Formation Responsable qualité (certification ISO...) ;70;50;;
+
+1000;Démarche qualité sensibilisation ;21;15;;
+
+1000;Secourisme, AFGSU, SST, SSIAP ;21;24;;
+
+1000;QVT / Prévention et gestion des risques psychosociaux ;21;30;;
+
+1850;Cycles formation juridiques (1er au 3eme cycles) ;155,5;50;15000;0<x<50
+
+1850;RPVA;7;50;;
+
+1850;Formations juridiques avocats/juristes;28;85;;
+
+1850;Langues en lien avec l’activité du cabinet y compris les formations visant une certification (TOEIC, Voltaire ...);150;60;;
+
+1850;Titre d’assistante juridique* ;218;85;;
+
+1850;Titre de secrétaire juridique**;166;85;;
+
+1850;Titre juriste ;525;85;;
+
+1850;Formations juridiques non-avocats ;21;50;;
+
+1850;"Formations transverses au cabinet personnel non- avocat ou avocats salariés Secrétariat / accueil   Bureautique   Comptabilité   Gestion   Logiciels professionnels... ";35;50;;
+
+1850;Formations longues hors Pro-A ;600;30;;
+
+1850;Formation Responsable qualité (certification ISO...) ;70;50;;
+
+1850;Démarche qualité sensibilisation ;21;15;;
+
+1850;Secourisme, AFGSU, SST, SSIAP ;21;24;;
+
+1850;QVT / Prévention et gestion des risques psychosociaux ;21;30;;
+
+1619;Actualisation des connaissances ;28;30;7500;0<x<11
+
+1619;Approfondissement gestion du risque infectieux ;21;30;15000;10<x<50
+
+1619;MAJGRI FOAD (mise à jour- gestion risque infectieux) ;7;30;;
+
+1619;MAJGRI PRESENTIEL (mise à jour- gestion risque infectieux) ;7;30;;
+
+1619;CQP spécialisation prothésiste dentaire ;189;30;;
+
+1619;Module administratif ;100;20;;
+
+1619;Module ODF ;100;20;;
+
+1619;Module stérilisation et redoublement assistante dentaire (en présentiel);150;15;;
+
+1619;Accueil et gestion des patients difficiles;28;35;;
+
+1619;Logiciels professionnels;21;35;;
+
+1619;Formations longues hors Pro-A;600;20;;
+
+1619;Accueil, communication, comptabilité;28;30;;
+
+1619;Management;35;35;;
+
+1619;Formation Responsable qualité;70;50;;
+
+1619;Démarche qualité sensibilisation;21;15;;
+
+1619;Secourisme, AFGSU, SSIAP;21;24;;
+
+1147;Actualisation des connaissances cœur de métier ;35;60;15000;0<x<11
+
+1147;Actualisation des connaissances manipulateurs radio ;35;85;30000;10<x<50
+
+1147;Gestion des risques infectieux ;14;30;;
+
+1147;Hypnose ;20;30;;
+
+1147;Gestion des risques / santé et sécurité au travail ;28;35;;
+
+1147;Diplômes universitaires;170;20;;
+
+1147;Adaptation à l’emploi assistant médical (publics : Infirmiers, auxiliaires de puériculture, aides-soignants);112;20;;
+
+1147;CQP Assistant médical, y compris parcours modulaire suite à un redoublement (blocs de compétences) ;384;20;;
+
+1147;Référents RGPD ;35;30;;
+
+1147;"Accueil cabinet médical • Accueil Accueil et gestion des patients difficiles y compris public en situation de handicap   Accueil et gestion de la salle d’attente   Gestion des conflits ";28;30;;
+
+1147;"Informatique • Bureautiques • Logiciels professionnels médecins • Sécurité informatique  ";21;30;;
+
+1147;Digitalisation des métiers de la branche : matériels connectés ;14;30;;
+
+1147;"Référent harcèlement Comprendre le mécanisme de la violence et être capable de détecter et d’orienter les femmes victimes de violences ";7;30;;
+
+1147;Formations longues hors Pro-A ;600;20;;
+
+1147;Anglais ;30;30;;
+
+1147;Communication, comptabilité ;28;30;;
+
+1147;Management ;35;35;;
+
+1147;Formation Responsable qualité ;70;50;;
+
+1147;Démarche qualité sensibilisation ;21;15;;
+
+1147;Secourisme, AFGSU, SSIAP ;21;24;;
+
+1951;Formations cœur de métier;35;50;15000;0<x<50
+
+1951;Véhicules endommagés ;7;50;;
+
+1951;Unité C expert en automobile ;170;15;;
+
+1951;Accueil, communication, comptabilité ;28;30;;
+
+1951;Management ;35;35;;
+
+1951;Formation Responsable qualité ;70;50;;
+
+1951;Démarche qualité sensibilisation ;21;15;;
+
+1951;Secourisme, AFGSU, SSIAP ;21;24;;
+
+953;Techniques de fabrication, préparation et de transformation ;42;50;7500;0<x<11
+
+953;Transport Marchandise Magasinage, décoration vitrine ;42;50;15000;10<x<50
+
+953;Hygiène et bonnes pratiques professionnelles ;7;60;;
+
+953;Sécurité alimentaire ;14;60;;
+
+953;Label Qualité/innovation ;42;50;;
+
+953;Techniques de vente ;42;50;;
+
+953;Modules pilotage d'une entreprise (Gestion, RH) ;42;50;;
+
+953;CQP Chef Charcutier ;Referentiel;24;;
+
+953;CQP Manager de boutique ;Referentiel;24;;
+
+953;CQP Traiteur Organisation de réceptions ;Referentiel;24;;
+
+953;CQP Traiteur Boutique ;Referentiel;24;;
+
+953;CQP Charcutier ;Referentiel;24;;
+
+953;CQP conseiller de vente en Charcuterie Traiteur ;Referentiel;24;;
+
+953;CQP VCSAA (Vendeur Conseil Spécialisé en Alimentation Artisanale) ;Referentiel;24;;
+
+953;Formations longues hors Pro-A ;600;20;;
+
+953;Langues ;100;30;;
+
+953;Accueil, communication, comptabilité ;28;30;;
+
+953;Management;35;35;;
+
+953;Word, Excel;42;50;;
+
+953;Secourisme, AFGSU, SSIAP ;21;30;;
+
+2596;"COIFFURE • Coupe/ coiffage/coiffure • Extensions et prothèses capillaires • Coloration / Formes • Barbier • Soins capillaires • Visagisme / Morphologie ";;25;2100;0<x<3
+
+2596;"TRANSVERSE • Langue Management / RH   Accueil, vente, marketing, communication   Conseil en image   Informatique, bureautique, gestion, comptabilité   Connaissance des outils numériques  (création web, gestion internet,...)   Ergonomie, hygiène et sécurité au travail   Qualité/ environnement  ";;30;6300;3<x<7
+
+2596;"ESTHETIQUE • Manucurie /onglerie • Maquillage • Massages • Soins du visage ";;25;10500;7<x<11
+
+1483;"Formations métier  Mise en place d'un service digital (incluant le numérique)  Communication et prospection active de nouveaux clients  Commerce/Vente/Marketing  Vente/Accueil  Développement de nouvelles activités ";;55;15000;0<x<50
+
+1483;"Formations métier  Réorganisation ou restructuration de nouvelles activités  Textile/Cuir peaux/Autres matériaux  Etalage/Merchandising  Gestion des stocks informatisée  Caisse enregistreuse informatisée  Conseil look client  Connaissance des produits  Langues ";;35;;
+
+1483;"Formations transverses  Administratif/Secrétariat  Gestion/Comptabilité/Finance  Bureautique  Communication/Information  Informatique  Juridique  Management/Conseil/Audit  Ressources humaines ";;25;;
+
+2785;Actualisation des connaissances;35;35;10000;0<x<11
+
+2785;Commissaire de justice (2 ans);642;20;20000;11<x<50
+
+2785;Passerelle Commissaire-priseur volontaire / Commissaire de Justice;600;20;;
+
+2785;Formations conseil des ventes volontaires;175;40;;
+
+2785;Formations longues hors Pro-A Accueil, communication, comptabilité Management;600;20;;
+
+2785;Accueil, communication, comptabilité;28;30;;
+
+2785;Management;35;35;;
+
+2785;Formation Responsable qualité ;70;50;;
+
+2785;Démarche qualité sensibilisation;21;15;;
+
+2785;Secourisme, AFGSU, SSIAP;21;24;;
+
+1286;Techniques de fabrication, préparation et de transformation - Label Qualité/innovation ;42;50;7500;0<x<11
+
+1286;Transport, Marchandise, Magasinage ;21;30;15000;10<x<50
+
+1286;Etiquetage - Traçabilité - Allergènes ;14;50;;
+
+1286;Hygiène, sécurité;14;40;;
+
+1286;Techniques de vente - Décoration vitrine ;42;50;;
+
+1286;Formations longues hors Pro-A;600;20;;
+
+1286;Langues;100;30;;
+
+1286;Management - Modules pilotage d'une entreprise (Gestion, RH, ...) ;35;35;;
+
+1286;Informatique - Bureautique - comptabilité;35;35;;
+
+1286;Communication - réseaux sociaux - Sites Web ;14;35;;
+
+733;"Formations métier • Commerce/Vente/Marketing o Caisse o Commerce o Etalage/ Merchandising o Gestion commerciale o Marketing o Relation clien (accueil client, satisfaction client, réclamation, gestion de conflit) o Vente o Vente par internet • Textile/Cuirs peaux/autres matériaux/ montage de la chaussure ";;45;20000;0<x<50
+
+733;Formations sur le numérique;;50;;
+
+733;"Formations transverses • Administratifs/Secrétariat Bureautique/Informatique   Communication   Comptabilité/Gestion/ Ressources Humaine   Langues à usage professionnel   Management   ";;30;;
+
+1606;;;;1200;0<x<11
+
+1606;;;;2200;11<x<50
+
+2198;;;;1500;0<x<11
+
+2198;;;;2500;11<x<50
+
+2216;;;;3000;0<x<11
+
+2216;;;;6000;11<x<50
+
+468;;;;5000;0<x<50
+
+1505;;;;2000;0<x<11
+
+1505;;;;3500;11<x<50
+
+1487;;;;1400;0<x<11
+
+1487;;;;2700;11<x<50
+
+675;;;;3200;0<x<11
+
+675;;;;3600;11<x<50
+
+1517;;;;2000;0<x<11
+
+1517;;;;2800;11<x<50
+
+1686;;;;3000;0<x<11
+
+1686;;;;4000;11<x<50
+
+3205;;;40;3000;0<x<11
+
+3205;;;40;6000;11<x<50
+
+500;;;;3200;0<x<11
+
+500;;;;4800;11<x<50
+
+1557;;;;2500;0<x<11
+
+1557;;;;2500;11<x<50
+
+1539;;;;1500;0<x<11
+
+1539;;;;2000;11<x<50
+
+2156;;;;5500;0<x<50
+
+43;;;;2500;0<x<11
+
+43;;;;2500;11<x<50
+
+1760;;;;2400;0<x<11
+
+1760;;;;3500;11<x<50
+
+3237;;;;2000;0<x<11
+
+3237;;;;3500;11<x<50
+
+1880;;;;2500;0<x<11
+
+1880;;;;3500;11<x<50
+
+1431;;;40;1600;0<x<11
+
+1431;;;40;4000;11<x<50
+
+3168;;;;1150;0<x<11
+
+3168;;;;1150;11<x<50
+

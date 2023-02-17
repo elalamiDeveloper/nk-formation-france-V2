@@ -2,10 +2,10 @@ import { useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
 
-import { LogoutIcon, MoodIcon, MenuBookIcon } from '../utils/linksIcons';
-import { NavListAdmin, ListClients, Logo, OpcosList } from '../components';
+import { LogoutIcon, MoodIcon, MenuBookIcon } from '../../utils/linksIcons';
+import { NavListAdmin, ListClients, Logo, OpcosList } from '../../components';
 
-const AdminContainer = styled.div`
+const AdminContainer = styled.main`
   display: flex;
 
   .admin-btns {

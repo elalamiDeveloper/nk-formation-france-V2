@@ -1,6 +1,14 @@
 import styled from 'styled-components';
 
 const AdminTableContainer = styled.table`
+  width: 100%;
+  margin-bottom: 10rem;
+  text-align: center;
+
+  caption   {
+    font-size: 5rem;
+  }
+
   thead {
     color: #f0e6d1;
     font-size: 2.6rem;
@@ -27,43 +35,52 @@ const AdminTableContainer = styled.table`
   }
 `;
 
-const AdminTable = () => {
+const AdminTable = ({ idcc }) => {
+  console.log(idcc[0].nombreSalariee);
+
   return (
-    <AdminTableContainer>
-      <thead>
-        <tr>
-          <th>Thème ou Intitulé</th>
-          <th>Durér maximale de prise en charge</th>
-          <th>Coût pédagogique (barème HT)</th>
-        </tr>
-      </thead>
+    <>
+      <AdminTableContainer>
+        <caption>Themes</caption>
+        <thead>
+          <tr>
+            <th>Thème ou Intitulé</th>
+            <th>Durér maximale de prise en charge</th>
+            <th>Coût pédagogique (barème HT)</th>
+          </tr>
+        </thead>
 
-      <tbody>
-        <tr>
-          <td>The table body</td>
-          <td>with two columns</td>
-          <td>with three columns</td>
-        </tr>
+        <tbody>
+          {idcc[0].themes.map(({ nom, dureeMaximal, courPedagogique }) => (
+            <tr>
+              <td>{nom}</td>
+              <td>{dureeMaximal}</td>
+              <td>{courPedagogique}</td>
+            </tr>
+          ))}
+        </tbody>
+      </AdminTableContainer>
 
-        <tr>
-          <td>The table body</td>
-          <td>with two columns</td>
-          <td>with three columns</td>
-        </tr>
+      <AdminTableContainer>
+        <caption>nombreSalariee</caption>
 
-        <tr>
-          <td>The table body</td>
-          <td>with two columns</td>
-          <td>with three columns</td>
-        </tr>
+        <thead>
+          <tr>
+            <th>Value</th>
+            <th>Budget</th>
+          </tr>
+        </thead>
 
-        <tr>
-          <td>The table body</td>
-          <td>with two columns</td>
-          <td>with three columns</td>
-        </tr>
-      </tbody>
-    </AdminTableContainer>
+        <tbody>
+          {idcc[0].nombreSalariee.map(({ nbr, budget }) => (
+            <tr>
+              <td>{nbr}</td>
+              <td>{budget}</td>
+            </tr>
+          ))}
+        </tbody>
+      </AdminTableContainer>
+    </>
   );
 };
 

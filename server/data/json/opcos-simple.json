@@ -4,91 +4,135 @@
     "idcc": [
       {
         "idccNbr": "3",
-        "libelle": "Convention collective nationale des ouvriers de la navigation interieure de marchandises"
+        "libelle": "Convention collective nationale des ouvriers de la navigation interieure de marchandises",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "16",
-        "libelle": "Convention collective nationale des transports routiers et activites auxiliaires du transport"
+        "libelle": "Convention collective nationale des transports routiers et activites auxiliaires du transport",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "412",
-        "libelle": "Convention collective nationale de travail des guides accompagnateurs et accompagnateurs au service des agences de voyages et de tourisme"
+        "libelle": "Convention collective nationale de travail des guides accompagnateurs et accompagnateurs au service des agences de voyages et de tourisme",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "538",
-        "libelle": "Convention collective nationale du personnel des entreprises de manutention ferroviaire et travaux connexes"
+        "libelle": "Convention collective nationale du personnel des entreprises de manutention ferroviaire et travaux connexes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "779",
-        "libelle": "Convention collective de travail du personnel des voies ferrees d'interet local"
+        "libelle": "Convention collective de travail du personnel des voies ferrees d'interet local",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1090",
-        "libelle": "Convention collective nationale des services de l'automobile (commerce et reparation de l'automobile, du cycle et du motocycle, activites connexes, contrele technique automobile, formation des conducteurs auto-ecoles CNPA)"
+        "libelle": "Convention collective nationale des services de l'automobile (commerce et reparation de l'automobile, du cycle et du motocycle, activites connexes, contrele technique automobile, formation des conducteurs auto-ecoles CNPA)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1182",
-        "libelle": "Convention collective nationale des personnels des ports de plaisance"
+        "libelle": "Convention collective nationale des personnels des ports de plaisance",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1424",
-        "libelle": "Convention collective nationale des reseaux de transports publics urbains de voyageurs"
+        "libelle": "Convention collective nationale des reseaux de transports publics urbains de voyageurs",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1536",
-        "libelle": "Convention collective nationale des distributeurs conseils hors domicile (entrepositaires-grossistes, bieres, eaux minerales et de table, boissons gazeuses, non gazeuses, sirops, jus de fruits, CHD)"
+        "libelle": "Convention collective nationale des distributeurs conseils hors domicile (entrepositaires-grossistes, bieres, eaux minerales et de table, boissons gazeuses, non gazeuses, sirops, jus de fruits, CHD)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1710",
-        "libelle": "Convention collective nationale du personnel des agences de voyages et de tourisme"
+        "libelle": "Convention collective nationale du personnel des agences de voyages et de tourisme",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1974",
-        "libelle": "Convention collective nationale du personnel des entreprises de transport de passagers en navigation interieure"
+        "libelle": "Convention collective nationale du personnel des entreprises de transport de passagers en navigation interieure",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2174",
-        "libelle": "Convention collective nationale du personnel sedentaire des entreprises de transports de marchandises de la navigation interieure"
+        "libelle": "Convention collective nationale du personnel sedentaire des entreprises de transports de marchandises de la navigation interieure",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2972",
-        "libelle": "Convention collective du personnel sedentaire des entreprises de navigation"
+        "libelle": "Convention collective du personnel sedentaire des entreprises de navigation",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3017",
-        "libelle": "Convention collective nationale unifiee ports et manutention"
+        "libelle": "Convention collective nationale unifiee ports et manutention",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3217",
-        "libelle": "Convention collective nationale ferroviaire"
+        "libelle": "Convention collective nationale ferroviaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3223",
-        "libelle": "Convention collective nationale des officiers des entreprises de transport et services maritimes"
+        "libelle": "Convention collective nationale des officiers des entreprises de transport et services maritimes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3228",
-        "libelle": "Convention collective nationale du groupement des armateurs de service de passages d'eau - personnel navigant"
+        "libelle": "Convention collective nationale du groupement des armateurs de service de passages d'eau - personnel navigant",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "5521",
-        "libelle": "Convention collective nationale du personnel navigant d'execution du transport maritime"
+        "libelle": "Convention collective nationale du personnel navigant d'execution du transport maritime",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "5554",
-        "libelle": "Convention collective nationale des officiers du remorquage maritime"
+        "libelle": "Convention collective nationale des officiers du remorquage maritime",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "5555",
-        "libelle": "Convention collective nationale des navigants d'execution du remorquage maritime"
+        "libelle": "Convention collective nationale des navigants d'execution du remorquage maritime",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "5556",
-        "libelle": "Convention collective nationale des personnels officiers des passages d'eau"
+        "libelle": "Convention collective nationale des personnels officiers des passages d'eau",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "5557",
-        "libelle": "Convention collective nationale des personnels navigants d'execution des passages d'eau"
+        "libelle": "Convention collective nationale des personnels navigants d'execution des passages d'eau",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   },
@@ -97,179 +141,267 @@
     "idcc": [
       {
         "idccNbr": "18",
-        "libelle": "Convention collective nationale des industries textiles"
+        "libelle": "Convention collective nationale des industries textiles",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "44",
-        "libelle": "Convention collective nationale des industries chimiques et connexes"
+        "libelle": "Convention collective nationale des industries chimiques et connexes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "45",
-        "libelle": "Convention collective nationale du caoutchouc"
+        "libelle": "Convention collective nationale du caoutchouc",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "83",
-        "libelle": "Convention collective nationale des menuiseries charpentes et constructions industrialisees et des portes planes"
+        "libelle": "Convention collective nationale des menuiseries charpentes et constructions industrialisees et des portes planes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "87",
-        "libelle": "Convention collective nationale des ouvriers des industries de carrieres et de materiaux"
+        "libelle": "Convention collective nationale des ouvriers des industries de carrieres et de materiaux",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "135",
-        "libelle": "Convention collective nationale des employes techniciens et agents de maetrise des industries de carrieres et de materiaux"
+        "libelle": "Convention collective nationale des employes techniciens et agents de maetrise des industries de carrieres et de materiaux",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "176",
-        "libelle": "Convention collective nationale de l'industrie pharmaceutique"
+        "libelle": "Convention collective nationale de l'industrie pharmaceutique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "207",
-        "libelle": "Convention collective nationale de l'industrie des cuirs et peaux"
+        "libelle": "Convention collective nationale de l'industrie des cuirs et peaux",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "211",
-        "libelle": "Convention collective nationale des cadres des industries de carrieres et materiaux (UNICEM)"
+        "libelle": "Convention collective nationale des cadres des industries de carrieres et materiaux (UNICEM)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "247",
-        "libelle": "Convention collective nationale des industries de l'habillement"
+        "libelle": "Convention collective nationale des industries de l'habillement",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "292",
-        "libelle": "Convention collective nationale de la plasturgie (transformation des matieres plastiques)"
+        "libelle": "Convention collective nationale de la plasturgie (transformation des matieres plastiques)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "303",
-        "libelle": "Convention collective regionale de la couture parisienne"
+        "libelle": "Convention collective regionale de la couture parisienne",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "363",
-        "libelle": "Convention collective nationale du personnel ingenieurs et cadres de l'industrie de la fabrication des ciments"
+        "libelle": "Convention collective nationale du personnel ingenieurs et cadres de l'industrie de la fabrication des ciments",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "489",
-        "libelle": "Convention collective du personnel des industries du cartonnage"
+        "libelle": "Convention collective du personnel des industries du cartonnage",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "567",
-        "libelle": "Convention collective nationale de la bijouterie, joaillerie, orfevrerie et des activites qui s'y rattachent"
+        "libelle": "Convention collective nationale de la bijouterie, joaillerie, orfevrerie et des activites qui s'y rattachent",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "637",
-        "libelle": "Convention collective des industries et du commerce de la recuperation (recyclage, regions Nord-Pas-de-Calais, Picardie)"
+        "libelle": "Convention collective des industries et du commerce de la recuperation (recyclage, regions Nord-Pas-de-Calais, Picardie)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "669",
-        "libelle": "Convention collective nationale des industries de fabrication mecanique du verre"
+        "libelle": "Convention collective nationale des industries de fabrication mecanique du verre",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "700",
-        "libelle": "Convention collective nationale des ingenieurs et cadres de la production des papiers, cartons et celluloses"
+        "libelle": "Convention collective nationale des ingenieurs et cadres de la production des papiers, cartons et celluloses",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "707",
-        "libelle": "Convention collective nationale des ingenieurs et cadres de la transformation des papiers cartons et de la pellicule cellulosique"
+        "libelle": "Convention collective nationale des ingenieurs et cadres de la transformation des papiers cartons et de la pellicule cellulosique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "715",
-        "libelle": "Convention collective nationale des instruments e ecrire et des industries connexes"
+        "libelle": "Convention collective nationale des instruments e ecrire et des industries connexes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "802",
-        "libelle": "Convention collective nationale de la distribution de papiers-cartons commerces de gros pour les ouvriers, employes, techniciens et agents de maetrise"
+        "libelle": "Convention collective nationale de la distribution de papiers-cartons commerces de gros pour les ouvriers, employes, techniciens et agents de maetrise",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "832",
-        "libelle": "Convention collective nationale du personnel ouvrier de l'industrie de la fabrication des ciments"
+        "libelle": "Convention collective nationale du personnel ouvrier de l'industrie de la fabrication des ciments",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "833",
-        "libelle": "Convention collective nationale du personnel employes, techniciens, dessinateurs et agents de maetrise de l'industrie de la fabrication des ciments"
+        "libelle": "Convention collective nationale du personnel employes, techniciens, dessinateurs et agents de maetrise de l'industrie de la fabrication des ciments",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "925",
-        "libelle": "Convention collective nationale des ingenieurs et cadres de la distribution des papiers et cartons, commerce de gros"
+        "libelle": "Convention collective nationale des ingenieurs et cadres de la distribution des papiers et cartons, commerce de gros",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "998",
-        "libelle": "Convention collective nationale des ouvriers, employes, techniciens et agents de maetrise de l'exploitation d'equipements thermiques et de genie climatique"
+        "libelle": "Convention collective nationale des ouvriers, employes, techniciens et agents de maetrise de l'exploitation d'equipements thermiques et de genie climatique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1044",
-        "libelle": "Convention collective nationale de l'horlogerie"
+        "libelle": "Convention collective nationale de l'horlogerie",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1170",
-        "libelle": "Convention collective nationale de l'industrie des tuiles et briques (CCNTB)"
+        "libelle": "Convention collective nationale de l'industrie des tuiles et briques (CCNTB)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1256",
-        "libelle": "Convention collective nationale des cadres, ingenieurs et assimiles des entreprises de gestion d'equipements thermiques et de climatisation"
+        "libelle": "Convention collective nationale des cadres, ingenieurs et assimiles des entreprises de gestion d'equipements thermiques et de climatisation",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1388",
-        "libelle": "Convention collective nationale de l'industrie du petrole"
+        "libelle": "Convention collective nationale de l'industrie du petrole",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1411",
-        "libelle": "Convention collective nationale de la fabrication de l'ameublement"
+        "libelle": "Convention collective nationale de la fabrication de l'ameublement",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1423",
-        "libelle": "Convention collective nationale des entreprises relevant de la navigation de plaisance"
+        "libelle": "Convention collective nationale des entreprises relevant de la navigation de plaisance",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1492",
-        "libelle": "Convention collective nationale des ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la production des papiers, cartons et celluloses"
+        "libelle": "Convention collective nationale des ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la production des papiers, cartons et celluloses",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1495",
-        "libelle": "Convention collective nationale pour les ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la transformation des papiers, cartons et celluloses"
+        "libelle": "Convention collective nationale pour les ouvriers, employes, dessinateurs, techniciens et agents de maetrise de la transformation des papiers, cartons et celluloses",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1555",
-        "libelle": "Convention collective nationale de la fabrication et du commerce des produits e usage pharmaceutique, parapharmaceutique et veterinaire"
+        "libelle": "Convention collective nationale de la fabrication et du commerce des produits e usage pharmaceutique, parapharmaceutique et veterinaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1558",
-        "libelle": "Convention collective nationale relative aux conditions de travail du personnel des industries ceramiques de France"
+        "libelle": "Convention collective nationale relative aux conditions de travail du personnel des industries ceramiques de France",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1580",
-        "libelle": "Convention collective nationale de l'industrie de la chaussure et des articles chaussants"
+        "libelle": "Convention collective nationale de l'industrie de la chaussure et des articles chaussants",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1607",
-        "libelle": "Convention collective nationale des industries des jeux, jouets, articles de fetes et ornements de Noel, articles de puericulture et voitures d'enfants modelisme et industries connexes"
+        "libelle": "Convention collective nationale des industries des jeux, jouets, articles de fetes et ornements de Noel, articles de puericulture et voitures d'enfants modelisme et industries connexes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1821",
-        "libelle": "Convention collective nationale des professions regroupees du cristal, du verre et du vitrail"
+        "libelle": "Convention collective nationale des professions regroupees du cristal, du verre et du vitrail",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2089",
-        "libelle": "Convention collective nationale de l'industrie des panneaux e base de bois"
+        "libelle": "Convention collective nationale de l'industrie des panneaux e base de bois",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2528",
-        "libelle": "Convention collective nationale de travail des industries de la maroquinerie, articles de voyage, chasse sellerie, gainerie, bracelets en cuir"
+        "libelle": "Convention collective nationale de travail des industries de la maroquinerie, articles de voyage, chasse sellerie, gainerie, bracelets en cuir",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3224",
-        "libelle": "\"Convention collective nationale de la distribution des papiers-cartons "
+        "libelle": "\"Convention collective nationale de la distribution des papiers-cartons ",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3227",
-        "libelle": "Convention collective nationale des industries de la fabrication de la chaux"
+        "libelle": "Convention collective nationale des industries de la fabrication de la chaux",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "5001",
-        "libelle": "Statut des industries electriques et gazieres"
+        "libelle": "Statut des industries electriques et gazieres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "N.A.",
-        "libelle": "Accord national du 16 janvier 1979 sur le champ d'application des accords nationaux de la metallurgie"
+        "libelle": "Accord national du 16 janvier 1979 sur le champ d'application des accords nationaux de la metallurgie",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   },
@@ -278,39 +410,57 @@
     "idcc": [
       {
         "idccNbr": "29",
-        "libelle": "Convention collective nationale des etablissements prives d'hospitalisation, de soins, de cure et de garde e but non lucratif (FEHAP, convention de 1951)"
+        "libelle": "Convention collective nationale des etablissements prives d'hospitalisation, de soins, de cure et de garde e but non lucratif (FEHAP, convention de 1951)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "405",
-        "libelle": "Convention collective nationale des etablissements medico-sociaux de l'union intersyndicale des secteurs sanitaires et sociaux (UNISSS, FFESCPE, convention de 1965, enfants, adolescents)"
+        "libelle": "Convention collective nationale des etablissements medico-sociaux de l'union intersyndicale des secteurs sanitaires et sociaux (UNISSS, FFESCPE, convention de 1965, enfants, adolescents)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "413",
-        "libelle": "Convention collective nationale de travail des etablissements et services pour personnes inadaptees et handicapees (convention de 1966, SNAPEI)"
+        "libelle": "Convention collective nationale de travail des etablissements et services pour personnes inadaptees et handicapees (convention de 1966, SNAPEI)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "783",
-        "libelle": "Convention collective des centres d'hebergement et de readaptation sociale et dans les services d'accueil, d'orientation et d'insertion pour adultes (CHRS, SOP)"
+        "libelle": "Convention collective des centres d'hebergement et de readaptation sociale et dans les services d'accueil, d'orientation et d'insertion pour adultes (CHRS, SOP)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "897",
-        "libelle": "Convention collective nationale des services de sante au travail interentreprises"
+        "libelle": "Convention collective nationale des services de sante au travail interentreprises",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1001",
-        "libelle": "Convention collective nationale des medecins specialistes qualifies au regard du conseil de l'ordre travaillant dans des etablissements et services pour personnes inadaptees et handicapees"
+        "libelle": "Convention collective nationale des medecins specialistes qualifies au regard du conseil de l'ordre travaillant dans des etablissements et services pour personnes inadaptees et handicapees",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2046",
-        "libelle": "Convention collective nationale du personnel non medical des centres de lutte contre le cancer"
+        "libelle": "Convention collective nationale du personnel non medical des centres de lutte contre le cancer",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2104",
-        "libelle": "Convention collective nationale du thermalisme "
+        "libelle": "Convention collective nationale du thermalisme ",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2264",
-        "libelle": "Convention collective de l'hospitalisation privee (CCU, FHP, etablissements pour personnes egees, maison de retraite, etablissements de suite et readaptation, medicaux pour enfants et adolescents, UHP, sanitaires sociaux et medico-sociaux CRRR, hospitalisation prive e but lucratif FIEHP)"
+        "libelle": "Convention collective de l'hospitalisation privee (CCU, FHP, etablissements pour personnes egees, maison de retraite, etablissements de suite et readaptation, medicaux pour enfants et adolescents, UHP, sanitaires sociaux et medico-sociaux CRRR, hospitalisation prive e but lucratif FIEHP)",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   },
@@ -319,87 +469,235 @@
     "idcc": [
       {
         "idccNbr": "43",
-        "libelle": "Convention collective nationale des entreprises de commerce et de commission importation exportation"
+        "libelle": "Convention collective nationale des entreprises de commerce et de commission importation exportation",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "2500", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "2500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "468",
-        "libelle": "Convention collective du commerce succursaliste de la chaussure"
+        "libelle": "Convention collective du commerce succursaliste de la chaussure",
+        "themes": [{ "nom": "", "dureeMaximal": "" }],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "5000", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "500",
-        "libelle": "Convention collective nationale des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet"
+        "libelle": "Convention collective nationale des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "3200", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "4800", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "675",
-        "libelle": "Convention collective nationale des maisons e succursales de vente au detail d'habillement"
+        "libelle": "Convention collective nationale des maisons e succursales de vente au detail d'habillement",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "3200", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "3600", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "706",
-        "libelle": "Convention collective nationale du personnel de la reprographie"
+        "libelle": "Convention collective nationale du personnel de la reprographie",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1314",
-        "libelle": "\"Convention collective nationale des maisons d'alimentation e succursales, supermarches, hypermarches, \"\"gerants mandataires\"\" (grande distribution)\""
+        "libelle": "\"Convention collective nationale des maisons d'alimentation e succursales, supermarches, hypermarches, \"\"gerants mandataires\"\" (grande distribution)\"",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1431",
-        "libelle": "Convention collective nationale de l'optique-lunetterie de detail"
+        "libelle": "Convention collective nationale de l'optique-lunetterie de detail",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "1600", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "4000", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1487",
-        "libelle": "Convention collective nationale du commerce de detail de l'horlogerie-bijouterie"
+        "libelle": "Convention collective nationale du commerce de detail de l'horlogerie-bijouterie",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "1400", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "2700", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1505",
-        "libelle": "Convention collective nationale du commerce de detail de fruits et legumes, epicerie et produits laitiers"
+        "libelle": "Convention collective nationale du commerce de detail de fruits et legumes, epicerie et produits laitiers",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "2000", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "3500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1517",
-        "libelle": "Convention collective nationale des commerces de detail non alimentaires : antiquites, brocante, galeries d'art, arts de la table, coutellerie, droguerie, equipement du foyer, bazars, commerces menagers, modelisme, jeux, jouets, perinatalite et maroquinerie (euvres d'art)"
+        "libelle": "Convention collective nationale des commerces de detail non alimentaires : antiquites, brocante, galeries d'art, arts de la table, coutellerie, droguerie, equipement du foyer, bazars, commerces menagers, modelisme, jeux, jouets, perinatalite et maroquinerie (euvres d'art)",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "2000", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "2800", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1539",
-        "libelle": "Convention collective nationale des commerces de detail de papeterie, fournitures de bureau, de bureautique et informatique [et de librairie]"
+        "libelle": "Convention collective nationale des commerces de detail de papeterie, fournitures de bureau, de bureautique et informatique [et de librairie]",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "1500", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "2000", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1557",
-        "libelle": "Convention collective nationale du commerce des articles de sports et d'equipements de loisirs"
+        "libelle": "Convention collective nationale du commerce des articles de sports et d'equipements de loisirs",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "2500", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "2500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1606",
-        "libelle": "Convention collective nationale du bricolage, vente au detail en libre-service"
+        "libelle": "Convention collective nationale du bricolage, vente au detail en libre-service",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "1200", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "2200", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1686",
-        "libelle": "Convention collective nationale des commerces et services de l'audiovisuel, de l'electronique et de l'equipement menager"
+        "libelle": "Convention collective nationale des commerces et services de l'audiovisuel, de l'electronique et de l'equipement menager",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "3000", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "4000", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1760",
-        "libelle": "Convention collective nationale des jardineries et graineteries"
+        "libelle": "Convention collective nationale des jardineries et graineteries",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "2400", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "3500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1880",
-        "libelle": "Convention collective nationale du negoce de l'ameublement"
+        "libelle": "Convention collective nationale du negoce de l'ameublement",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "2500", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "3500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "2156",
-        "libelle": "Convention collective nationale des grands magasins et des magasins populaires"
+        "libelle": "Convention collective nationale des grands magasins et des magasins populaires",
+        "themes": [{ "nom": "", "dureeMaximal": "" }],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "5500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "2198",
-        "libelle": "Convention collective nationale des entreprises de vente e distance"
+        "libelle": "Convention collective nationale des entreprises de vente e distance",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "1500", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "2500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "2216",
-        "libelle": "Convention collective nationale du commerce de detail et de gros e predominance alimentaire (entrepets d'alimentation, superettes, supermarches, hypermarches, grande distribution)"
+        "libelle": "Convention collective nationale du commerce de detail et de gros e predominance alimentaire (entrepets d'alimentation, superettes, supermarches, hypermarches, grande distribution)",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "3000", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "6000", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "3168",
-        "libelle": "Convention collective Nationale des professions de la photographie"
+        "libelle": "Convention collective Nationale des professions de la photographie",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "1150", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "1150", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "3205",
-        "libelle": "Convention collective nationale du personnel des cooperatives de consommation"
+        "libelle": "Convention collective nationale du personnel des cooperatives de consommation",
+        "themes": [
+          { "nom": "", "dureeMaximal": "" },
+          { "nom": "", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "3000", "dureeMaximal": "" },
+          { "nbr": "11<x<50", "budget": "6000", "dureeMaximal": "" }
+        ]
       }
     ]
   },
@@ -408,184 +706,279 @@
     "idcc": [
       {
         "idccNbr": "86",
-        "libelle": "Convention collective nationale des entreprises de publicite et assimilees"
+        "libelle": "Convention collective nationale des entreprises de publicite et assimilees",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "214",
-        "libelle": "Convention collective des ouvriers des entreprises de presse de la region parisienne"
+        "libelle": "Convention collective des ouvriers des entreprises de presse de la region parisienne",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "306",
-        "libelle": "Convention collective des cadres techniques de la presse quotidienne parisienne"
+        "libelle": "Convention collective des cadres techniques de la presse quotidienne parisienne",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "394",
-        "libelle": "Convention collective des employes de la presse quotidienne parisienne"
+        "libelle": "Convention collective des employes de la presse quotidienne parisienne",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "509",
-        "libelle": "Convention collective des cadres administratifs de la presse quotidienne parisienne"
+        "libelle": "Convention collective des cadres administratifs de la presse quotidienne parisienne",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "598",
-        "libelle": "Convention collective nationale de travail des ouvriers de la presse quotidienne regionale"
+        "libelle": "Convention collective nationale de travail des ouvriers de la presse quotidienne regionale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "693",
-        "libelle": "Convention collective de travail des employes de la presse quotidienne departementale"
+        "libelle": "Convention collective de travail des employes de la presse quotidienne departementale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "698",
-        "libelle": "Convention collective de travail des employes de la presse quotidienne regionale"
+        "libelle": "Convention collective de travail des employes de la presse quotidienne regionale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "716",
-        "libelle": "Convention collective nationale des employes et ouvriers de la distribution cinematographique"
+        "libelle": "Convention collective nationale des employes et ouvriers de la distribution cinematographique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "781",
-        "libelle": "Convention collective des cadres administratifs de la presse quotidienne departementale"
+        "libelle": "Convention collective des cadres administratifs de la presse quotidienne departementale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "892",
-        "libelle": "Convention collective nationale des cadres et agents de maetrise de la distribution de films de l'industrie cinematographique"
+        "libelle": "Convention collective nationale des cadres et agents de maetrise de la distribution de films de l'industrie cinematographique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1016",
-        "libelle": "Convention collective des cadres et agents de maetrise de l'edition de musique"
+        "libelle": "Convention collective des cadres et agents de maetrise de l'edition de musique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1018",
-        "libelle": "Convention collective des cadres techniques de la presse quotidienne departementale franeaise"
+        "libelle": "Convention collective des cadres techniques de la presse quotidienne departementale franeaise",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1083",
-        "libelle": "Convention collective de travail des ouvriers de la presse quotidienne departementale"
+        "libelle": "Convention collective de travail des ouvriers de la presse quotidienne departementale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1194",
-        "libelle": "Convention collective nationale des employes de l'edition de musique"
+        "libelle": "Convention collective nationale des employes de l'edition de musique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1281",
-        "libelle": "Convention collective des employes de la presse hebdomadaire regionale"
+        "libelle": "Convention collective des employes de la presse hebdomadaire regionale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1285",
-        "libelle": "Convention collective nationale pour les entreprises artistiques et culturelles (SYNDEAC)"
+        "libelle": "Convention collective nationale pour les entreprises artistiques et culturelles (SYNDEAC)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1307",
-        "libelle": "Convention collective nationale de l'exploitation cinematographique"
+        "libelle": "Convention collective nationale de l'exploitation cinematographique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1480",
-        "libelle": "Convention collective nationale de travail des journalistes"
+        "libelle": "Convention collective nationale de travail des journalistes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1563",
-        "libelle": "Convention collective des cadres de la presse hebdomadaire regionale d'information"
+        "libelle": "Convention collective des cadres de la presse hebdomadaire regionale d'information",
+        "themes": [],
+        "nombreSalariee": []
       },
-      { "idccNbr": "1618", "libelle": "Convention collective du camping " },
+      {
+        "idccNbr": "1618",
+        "libelle": "Convention collective du camping ",
+        "themes": [],
+        "nombreSalariee": []
+      },
       {
         "idccNbr": "1631",
-        "libelle": "Convention collective nationale de l'hetellerie de plein air"
+        "libelle": "Convention collective nationale de l'hetellerie de plein air",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1734",
-        "libelle": "Convention collective des artistes-interpretes engages pour des emissions de television"
+        "libelle": "Convention collective des artistes-interpretes engages pour des emissions de television",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1790",
-        "libelle": "Convention collective nationale des espaces de loisirs, d'attractions et culturels"
+        "libelle": "Convention collective nationale des espaces de loisirs, d'attractions et culturels",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1874",
-        "libelle": "Convention collective nationale des cadres, techniciens et agents de maetrise de la presse d'information specialisee du 1er juillet 1995"
+        "libelle": "Convention collective nationale des cadres, techniciens et agents de maetrise de la presse d'information specialisee du 1er juillet 1995",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1895",
-        "libelle": "Convention collective de l'encadrement de la presse quotidienne regionale"
+        "libelle": "Convention collective de l'encadrement de la presse quotidienne regionale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1909",
-        "libelle": "Convention collective nationale des organismes de tourisme"
+        "libelle": "Convention collective nationale des organismes de tourisme",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1922",
-        "libelle": "Convention collective nationale de la radiodiffusion"
+        "libelle": "Convention collective nationale de la radiodiffusion",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2021",
-        "libelle": "Convention collective nationale du golf"
+        "libelle": "Convention collective nationale du golf",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2121",
-        "libelle": "Convention collective nationale de l'edition"
+        "libelle": "Convention collective nationale de l'edition",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2148",
-        "libelle": "Convention collective nationale des telecommunications"
+        "libelle": "Convention collective nationale des telecommunications",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2257",
-        "libelle": "Convention collective nationale des casinos"
+        "libelle": "Convention collective nationale des casinos",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2372",
-        "libelle": "Convention collective nationale des entreprises de la distribution directe"
+        "libelle": "Convention collective nationale des entreprises de la distribution directe",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2397",
-        "libelle": "Convention collective des mannequins adultes et des mannequins enfants de moins de seize ans employes par les agences de mannequins"
+        "libelle": "Convention collective des mannequins adultes et des mannequins enfants de moins de seize ans employes par les agences de mannequins",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2411",
-        "libelle": "Convention collective nationale des chaenes thematiques"
+        "libelle": "Convention collective nationale des chaenes thematiques",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2412",
-        "libelle": "Convention collective de la production de films d'animation"
+        "libelle": "Convention collective de la production de films d'animation",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2511",
-        "libelle": "Convention collective nationale du sport"
+        "libelle": "Convention collective nationale du sport",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2642",
-        "libelle": "Convention collective de la production audiovisuelle"
+        "libelle": "Convention collective de la production audiovisuelle",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2683",
-        "libelle": "Convention collective nationale du portage de presse"
+        "libelle": "Convention collective nationale du portage de presse",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2717",
-        "libelle": "Convention collective nationale des entreprises techniques au service de la creation et de l'evenement"
+        "libelle": "Convention collective nationale des entreprises techniques au service de la creation et de l'evenement",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2770",
-        "libelle": "Convention collective nationale de l'edition phonographique"
+        "libelle": "Convention collective nationale de l'edition phonographique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3090",
-        "libelle": "Convention collective nationale des entreprises du secteur prive du spectacle vivant"
+        "libelle": "Convention collective nationale des entreprises du secteur prive du spectacle vivant",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3097",
-        "libelle": "Convention collective nationale de la production cinematographique"
+        "libelle": "Convention collective nationale de la production cinematographique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3221",
-        "libelle": "Convention collective nationale des agences de presse"
+        "libelle": "Convention collective nationale des agences de presse",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3225",
-        "libelle": "Convention collective nationale des employes et des cadres des editeurs de la presse magazine"
+        "libelle": "Convention collective nationale des employes et des cadres des editeurs de la presse magazine",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3230",
-        "libelle": "Convention collective nationale des employes de la presse d'information specialisee"
+        "libelle": "Convention collective nationale des employes de la presse d'information specialisee",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   },
@@ -594,195 +987,291 @@
     "idcc": [
       {
         "idccNbr": "112",
-        "libelle": "Convention collective nationale de l'industrie laitiere"
+        "libelle": "Convention collective nationale de l'industrie laitiere",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "200",
-        "libelle": "Convention collective nationale des exploitations frigorifiques"
+        "libelle": "Convention collective nationale des exploitations frigorifiques",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "493",
-        "libelle": "Convention collective nationale des vins, cidres, jus de fruits, sirops, spiritueux et liqueurs de France"
+        "libelle": "Convention collective nationale des vins, cidres, jus de fruits, sirops, spiritueux et liqueurs de France",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1077",
-        "libelle": "Convention collective nationale entreprises du negoce et de l'industrie des produits du sol, engrais et produits connexes"
+        "libelle": "Convention collective nationale entreprises du negoce et de l'industrie des produits du sol, engrais et produits connexes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1396",
-        "libelle": "Convention collective nationale pour les industries de produits alimentaires elabores"
+        "libelle": "Convention collective nationale pour les industries de produits alimentaires elabores",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1405",
-        "libelle": "Convention collective nationale des entreprises d'expedition et d'exportation de fruits et legumes"
+        "libelle": "Convention collective nationale des entreprises d'expedition et d'exportation de fruits et legumes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1513",
-        "libelle": "Convention collective nationale des activites de production des eaux embouteillees, des boissons rafraechissantes sans alcool et de biere"
+        "libelle": "Convention collective nationale des activites de production des eaux embouteillees, des boissons rafraechissantes sans alcool et de biere",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1534",
-        "libelle": "Convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes"
+        "libelle": "Convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1586",
-        "libelle": "Convention collective nationale de l'industrie de la salaison, charcuterie en gros et conserves de viandes"
+        "libelle": "Convention collective nationale de l'industrie de la salaison, charcuterie en gros et conserves de viandes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1659",
-        "libelle": "Convention collective nationale du rouissage teillage du lin"
+        "libelle": "Convention collective nationale du rouissage teillage du lin",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1747",
-        "libelle": "Convention collective des activites industrielles de boulangerie et de petisserie"
+        "libelle": "Convention collective des activites industrielles de boulangerie et de petisserie",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1930",
-        "libelle": "Convention collective nationale des metiers de la transformation des grains (ex meunerie)"
+        "libelle": "Convention collective nationale des metiers de la transformation des grains (ex meunerie)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1938",
-        "libelle": "Convention collective nationale des industries de la transformation des volailles (abattoirs, ateliers de decoupe et centres de conditionnement de volailles, commerce de gros de volailles)"
+        "libelle": "Convention collective nationale des industries de la transformation des volailles (abattoirs, ateliers de decoupe et centres de conditionnement de volailles, commerce de gros de volailles)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1987",
-        "libelle": "Convention collective nationale des petes alimentaires seches et du couscous non prepare"
+        "libelle": "Convention collective nationale des petes alimentaires seches et du couscous non prepare",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2075",
-        "libelle": "Convention collective nationale des centres immatricules de conditionnement, de commercialisation et de transformation des eufs et des industries en produits d'eufs"
+        "libelle": "Convention collective nationale des centres immatricules de conditionnement, de commercialisation et de transformation des eufs et des industries en produits d'eufs",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2494",
-        "libelle": "Convention collective nationale de la cooperation maritime"
+        "libelle": "Convention collective nationale de la cooperation maritime",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2728",
-        "libelle": "Convention collective nationale des sucreries, sucreries-distilleries et raffineries de sucre"
+        "libelle": "Convention collective nationale des sucreries, sucreries-distilleries et raffineries de sucre",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3109",
-        "libelle": "Convention collective nationale des 5 branches industries alimentaires diverses"
+        "libelle": "Convention collective nationale des 5 branches industries alimentaires diverses",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3203",
-        "libelle": "Convention collective des structures associatives de peche de loisir et de protection du milieu aquatique"
+        "libelle": "Convention collective des structures associatives de peche de loisir et de protection du milieu aquatique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "5619",
-        "libelle": "Convention collective nationale de la peche professionnelle maritime"
+        "libelle": "Convention collective nationale de la peche professionnelle maritime",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7001",
-        "libelle": "Convention collective nationale des cooperatives et SICA de production, transformation et vente du betail et des viandes"
+        "libelle": "Convention collective nationale des cooperatives et SICA de production, transformation et vente du betail et des viandes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7002",
-        "libelle": "Convention collective nationale des cooperatives et SICA de cereales, de meunerie, d'approvisionnement et d'alimentation du betail et d'oleagineux"
+        "libelle": "Convention collective nationale des cooperatives et SICA de cereales, de meunerie, d'approvisionnement et d'alimentation du betail et d'oleagineux",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7003",
-        "libelle": "Convention collective nationale des cooperatives agricoles, union de cooperatives agricoles et SICA fabriquant des conserves de fruits et de legumes, des plats cuisines et des specialites"
+        "libelle": "Convention collective nationale des cooperatives agricoles, union de cooperatives agricoles et SICA fabriquant des conserves de fruits et de legumes, des plats cuisines et des specialites",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7004",
-        "libelle": "Convention collective nationale des cooperatives laitieres, unions de cooperatives laitieres et SICA laitieres"
+        "libelle": "Convention collective nationale des cooperatives laitieres, unions de cooperatives laitieres et SICA laitieres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7005",
-        "libelle": "Convention collective nationale des caves cooperatives et de leurs unions elargie aux SICA vinicoles"
+        "libelle": "Convention collective nationale des caves cooperatives et de leurs unions elargie aux SICA vinicoles",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7006",
-        "libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de fleurs, de fruits et legumes et de pommes de terre"
+        "libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de fleurs, de fruits et legumes et de pommes de terre",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7007",
-        "libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de teillage de lin"
+        "libelle": "Convention collective nationale des cooperatives, unions de cooperatives agricoles et SICA de teillage de lin",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7008",
-        "libelle": "Convention collective nationale du personnel des organismes de contrele laitier"
+        "libelle": "Convention collective nationale du personnel des organismes de contrele laitier",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7009",
-        "libelle": "Convention collective nationale des entreprises d'accouvage et de selection de produits avicoles"
+        "libelle": "Convention collective nationale des entreprises d'accouvage et de selection de produits avicoles",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7010",
-        "libelle": "Convention collective nationale du personnel des elevages aquacoles"
+        "libelle": "Convention collective nationale du personnel des elevages aquacoles",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7012",
-        "libelle": "Convention collective nationale des centres equestres"
+        "libelle": "Convention collective nationale des centres equestres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7013",
-        "libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au trot"
+        "libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au trot",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7014",
-        "libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au galop"
+        "libelle": "Convention collective nationale des etablissements d'entraenement des chevaux de courses au galop",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7017",
-        "libelle": "Convention collective nationale des parcs et jardins zoologiques ouverts au public"
+        "libelle": "Convention collective nationale des parcs et jardins zoologiques ouverts au public",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7018",
-        "libelle": "Convention collective nationale des entreprises du paysage"
+        "libelle": "Convention collective nationale des entreprises du paysage",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7019",
-        "libelle": "Convention collective nationale de la conchyliculture"
+        "libelle": "Convention collective nationale de la conchyliculture",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7020",
-        "libelle": "Convention collective nationale du reseau des centres d'economie rurale"
+        "libelle": "Convention collective nationale du reseau des centres d'economie rurale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7021",
-        "libelle": "Convention collective nationale des entreprises relevant de la selection et de la reproduction animale"
+        "libelle": "Convention collective nationale des entreprises relevant de la selection et de la reproduction animale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7023",
-        "libelle": "Entreprises agricoles de deshydratation"
+        "libelle": "Entreprises agricoles de deshydratation",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7501",
-        "libelle": "Convention collective nationale des caisses regionales du credit agricole"
+        "libelle": "Convention collective nationale des caisses regionales du credit agricole",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7502",
-        "libelle": "Convention collective nationale de la Mutualite sociale agricole"
+        "libelle": "Convention collective nationale de la Mutualite sociale agricole",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7503",
-        "libelle": "Convention collective nationale des distilleries cooperatives viticoles et SICA de distillation"
+        "libelle": "Convention collective nationale des distilleries cooperatives viticoles et SICA de distillation",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7508",
-        "libelle": "Convention collective nationale des Maisons familiales rurales, instituts ruraux et centres"
+        "libelle": "Convention collective nationale des Maisons familiales rurales, instituts ruraux et centres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7513",
-        "libelle": "Convention collective nationale des centres d'initiatives pour valoriser l'agriculture et le milieu rural"
+        "libelle": "Convention collective nationale des centres d'initiatives pour valoriser l'agriculture et le milieu rural",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7514",
-        "libelle": "Convention collective nationale des organismes de la Confederation paysanne"
+        "libelle": "Convention collective nationale des organismes de la Confederation paysanne",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7515",
-        "libelle": "Convention collective nationale des societes d'amenagement foncier et d'etablissement rural (SAFER)"
+        "libelle": "Convention collective nationale des societes d'amenagement foncier et d'etablissement rural (SAFER)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "8115",
-        "libelle": "Convention collective regionale des hippodromes ele-de-France Cabourg Caen Chantilly Deauville"
+        "libelle": "Convention collective regionale des hippodromes ele-de-France Cabourg Caen Chantilly Deauville",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "8435",
-        "libelle": "Convention collective regionale des cooperatives fruitieres Ain Doubs Jura"
+        "libelle": "Convention collective regionale des cooperatives fruitieres Ain Doubs Jura",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   },
@@ -791,129 +1280,196 @@
     "idcc": [
       {
         "idccNbr": "158",
-        "libelle": "Convention collective nationale du travail mecanique du bois, des scieries, du negoce et de l'importation des bois"
+        "libelle": "Convention collective nationale du travail mecanique du bois, des scieries, du negoce et de l'importation des bois",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "275",
-        "libelle": "Convention collective nationale du personnel au sol des entreprises de transport aerien"
+        "libelle": "Convention collective nationale du personnel au sol des entreprises de transport aerien",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "573",
-        "libelle": "Convention collective nationale des commerces de gros"
+        "libelle": "Convention collective nationale des commerces de gros",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "635",
-        "libelle": "Convention collective nationale du negoce en fournitures dentaires"
+        "libelle": "Convention collective nationale du negoce en fournitures dentaires",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "731",
-        "libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, cadres"
+        "libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, cadres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1266",
-        "libelle": "Convention collective nationale du personnel des entreprises de restauration de collectivites"
+        "libelle": "Convention collective nationale du personnel des entreprises de restauration de collectivites",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1311",
-        "libelle": "Convention collective nationale de la restauration ferroviaire"
+        "libelle": "Convention collective nationale de la restauration ferroviaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1351",
-        "libelle": "Convention collective nationale des entreprises de prevention et de securite"
+        "libelle": "Convention collective nationale des entreprises de prevention et de securite",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1383",
-        "libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, employes et personnels de maetrise"
+        "libelle": "Convention collective nationale des commerces de quincaillerie, fournitures industrielles, fers, metaux et equipement de la maison, employes et personnels de maetrise",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1391",
-        "libelle": "Convention collective regionale concernant le personnel de l'industrie, de la manutention et du nettoyage sur les aeroports ouverts e la circulation publique de la region parisienne"
+        "libelle": "Convention collective regionale concernant le personnel de l'industrie, de la manutention et du nettoyage sur les aeroports ouverts e la circulation publique de la region parisienne",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1413",
-        "libelle": "Accord national professionnel relatif aux salaries permanents des entreprises de travail temporaire"
+        "libelle": "Accord national professionnel relatif aux salaries permanents des entreprises de travail temporaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1501",
-        "libelle": "Convention collective nationale de la restauration rapide (restauration livree)"
+        "libelle": "Convention collective nationale de la restauration rapide (restauration livree)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1516",
-        "libelle": "Convention collective nationale des organismes de formation"
+        "libelle": "Convention collective nationale des organismes de formation",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1671",
-        "libelle": "Convention collective nationale des maisons d'etudiants"
+        "libelle": "Convention collective nationale des maisons d'etudiants",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1944",
-        "libelle": "Convention collective nationale du personnel navigant technique des exploitants d'helicopteres"
+        "libelle": "Convention collective nationale du personnel navigant technique des exploitants d'helicopteres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1979",
-        "libelle": "Convention collective nationale des hetels, cafes, restaurants (HCR)"
+        "libelle": "Convention collective nationale des hetels, cafes, restaurants (HCR)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2002",
-        "libelle": "Convention collective interregionale de la blanchisserie, laverie, location de linge, nettoyage e sec, pressing et teinturerie"
+        "libelle": "Convention collective interregionale de la blanchisserie, laverie, location de linge, nettoyage e sec, pressing et teinturerie",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2060",
-        "libelle": "Convention collective nationale des chaenes de cafeterias et assimiles"
+        "libelle": "Convention collective nationale des chaenes de cafeterias et assimiles",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2101",
-        "libelle": "Convention collective nationale de l'enseignement prive e distance"
+        "libelle": "Convention collective nationale de l'enseignement prive e distance",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2147",
-        "libelle": "Convention collective des entreprises des services d'eau et d'assainissement (entreprises en gerance, en concession ou en affermage assurent l'exploitation, le service, le pompage, le traitement et la distribution d'eau e usage public, particulier, domestique, agricole)"
+        "libelle": "Convention collective des entreprises des services d'eau et d'assainissement (entreprises en gerance, en concession ou en affermage assurent l'exploitation, le service, le pompage, le traitement et la distribution d'eau e usage public, particulier, domestique, agricole)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2149",
-        "libelle": "Convention collective nationale des activites du dechet"
+        "libelle": "Convention collective nationale des activites du dechet",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2378",
-        "libelle": "Accords nationaux professionnels concernant le personnel interimaire des entreprises de travail temporaire"
+        "libelle": "Accords nationaux professionnels concernant le personnel interimaire des entreprises de travail temporaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2408",
-        "libelle": "Convention collective nationale des personnels des services administratifs et economiques, personnels d'education et documentalistes des etablissement d'enseignement prives"
+        "libelle": "Convention collective nationale des personnels des services administratifs et economiques, personnels d'education et documentalistes des etablissement d'enseignement prives",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2583",
-        "libelle": "Convention collective nationale de branche des societes concessionnaires ou exploitantes d'autoroutes ou d'ouvrages routiers"
+        "libelle": "Convention collective nationale de branche des societes concessionnaires ou exploitantes d'autoroutes ou d'ouvrages routiers",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2691",
-        "libelle": "Convention collective nationale de l'enseignement prive independant (hors contrat)"
+        "libelle": "Convention collective nationale de l'enseignement prive independant (hors contrat)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3043",
-        "libelle": "Convention collective nationale des entreprises de proprete et services associes du 26 juillet 2011"
+        "libelle": "Convention collective nationale des entreprises de proprete et services associes du 26 juillet 2011",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3218",
-        "libelle": "Convention collective nationale de l'enseignement prive non lucratif (EPNL)"
+        "libelle": "Convention collective nationale de l'enseignement prive non lucratif (EPNL)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3219",
-        "libelle": "Convention collective nationale de branche des salaries en portage salarial"
+        "libelle": "Convention collective nationale de branche des salaries en portage salarial",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7509",
-        "libelle": "Convention collective nationale des organismes de formation et de promotion agricoles"
+        "libelle": "Convention collective nationale des organismes de formation et de promotion agricoles",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "7520",
-        "libelle": "Convention collective nationale de l'enseignement agricole prive (CNEAP)"
+        "libelle": "Convention collective nationale de l'enseignement agricole prive (CNEAP)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "na",
-        "libelle": "Secteur des exploitations forestieres et scieries"
+        "libelle": "Secteur des exploitations forestieres et scieries",
+        "themes": [],
+        "nombreSalariee": []
       },
-      { "idccNbr": "na", "libelle": "Secteur des proprietes forestieres" }
+      {
+        "idccNbr": "na",
+        "libelle": "Secteur des proprietes forestieres",
+        "themes": [],
+        "nombreSalariee": []
+      }
     ]
   },
   {
@@ -921,216 +1477,988 @@
     "idcc": [
       {
         "idccNbr": "184",
-        "libelle": "Convention collective nationale de l'imprimerie de labeur et des industries graphiques"
+        "libelle": "Convention collective nationale de l'imprimerie de labeur et des industries graphiques",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "240",
-        "libelle": "Convention collective nationale du personnel des greffes des tribunaux de commerce"
+        "libelle": "Convention collective nationale du personnel des greffes des tribunaux de commerce",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "454",
-        "libelle": "Convention collective nationale des remontees mecaniques et domaines skiables"
+        "libelle": "Convention collective nationale des remontees mecaniques et domaines skiables",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "614",
-        "libelle": "Convention collective nationale des industries de la serigraphie et des procedes d'impression numerique connexes"
+        "libelle": "Convention collective nationale des industries de la serigraphie et des procedes d'impression numerique connexes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "733",
-        "libelle": "Convention collective nationale des detaillants en chaussure"
+        "libelle": "Convention collective nationale des detaillants en chaussure",
+        "themes": [
+          {
+            "nom": "\"Formations métier • Commerce/Vente/Marketing o Caisse o Commerce o Etalage/ Merchandising o Gestion commerciale o Marketing o Relation clien (accueil client, satisfaction client, réclamation, gestion de conflit) o Vente o Vente par internet • Textile/Cuirs peaux/autres matériaux/ montage de la chaussure \"",
+            "dureeMaximal": ""
+          },
+          { "nom": "Formations sur le numérique", "dureeMaximal": "" },
+          {
+            "nom": "\"Formations transverses • Administratifs/Secrétariat Bureautique/Informatique   Communication   Comptabilité/Gestion/ Ressources Humaine   Langues à usage professionnel   Management   \"",
+            "dureeMaximal": ""
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "20000", "dureeMaximal": "" },
+          { "nbr": "", "budget": "", "dureeMaximal": "" },
+          { "nbr": "", "budget": "", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "759",
-        "libelle": "Convention collective nationale des pompes funebres"
+        "libelle": "Convention collective nationale des pompes funebres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "843",
-        "libelle": "Convention collective nationale de la boulangerie-petisserie -entreprises artisanales-"
+        "libelle": "Convention collective nationale de la boulangerie-petisserie -entreprises artisanales-",
+        "themes": [
+          {
+            "nom": "Techniques de fabrication, préparation et de transformation ",
+            "dureeMaximal": "63"
+          },
+          {
+            "nom": "Transport Marchandise Magasinage, décoration vitrine ",
+            "dureeMaximal": "42"
+          },
+          { "nom": "Etiquetage et traçabilité", "dureeMaximal": "7" },
+          {
+            "nom": "Hygiène et bonnes pratiques professionnelles ",
+            "dureeMaximal": "7"
+          },
+          { "nom": "Label Qualité/innovation", "dureeMaximal": "21" },
+          { "nom": "Techniques de vente", "dureeMaximal": "21" },
+          {
+            "nom": "Modules pilotage d'une entreprise (Gestion, RH) ",
+            "dureeMaximal": "42"
+          },
+          { "nom": "Langues", "dureeMaximal": "100" },
+          {
+            "nom": "Accueil, communication, comptabilité ",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Management", "dureeMaximal": "35" },
+          { "nom": "Word, Excel", "dureeMaximal": "21" },
+          { "nom": "Secourisme, AFGSU, SSIAP", "dureeMaximal": "21" },
+          { "nom": "Sécurité alimentaire ", "dureeMaximal": "14" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "7500", "dureeMaximal": "63" },
+          { "nbr": "10<x<50", "budget": "15000", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "100" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" }
+        ]
       },
       {
         "idccNbr": "915",
-        "libelle": "Convention collective nationale des societes d'expertises et d'evaluations"
+        "libelle": "Convention collective nationale des societes d'expertises et d'evaluations",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "953",
-        "libelle": "Convention collective nationale de la charcuterie de detail"
+        "libelle": "Convention collective nationale de la charcuterie de detail",
+        "themes": [
+          {
+            "nom": "Techniques de fabrication, préparation et de transformation ",
+            "dureeMaximal": "42"
+          },
+          {
+            "nom": "Transport Marchandise Magasinage, décoration vitrine ",
+            "dureeMaximal": "42"
+          },
+          {
+            "nom": "Hygiène et bonnes pratiques professionnelles ",
+            "dureeMaximal": "7"
+          },
+          { "nom": "Sécurité alimentaire ", "dureeMaximal": "14" },
+          { "nom": "Label Qualité/innovation ", "dureeMaximal": "42" },
+          { "nom": "Techniques de vente ", "dureeMaximal": "42" },
+          {
+            "nom": "Modules pilotage d'une entreprise (Gestion, RH) ",
+            "dureeMaximal": "42"
+          },
+          { "nom": "CQP Chef Charcutier ", "dureeMaximal": "Referentiel" },
+          { "nom": "CQP Manager de boutique ", "dureeMaximal": "Referentiel" },
+          {
+            "nom": "CQP Traiteur Organisation de réceptions ",
+            "dureeMaximal": "Referentiel"
+          },
+          { "nom": "CQP Traiteur Boutique ", "dureeMaximal": "Referentiel" },
+          { "nom": "CQP Charcutier ", "dureeMaximal": "Referentiel" },
+          {
+            "nom": "CQP conseiller de vente en Charcuterie Traiteur ",
+            "dureeMaximal": "Referentiel"
+          },
+          {
+            "nom": "CQP VCSAA (Vendeur Conseil Spécialisé en Alimentation Artisanale) ",
+            "dureeMaximal": "Referentiel"
+          },
+          { "nom": "Formations longues hors Pro-A ", "dureeMaximal": "600" },
+          { "nom": "Langues ", "dureeMaximal": "100" },
+          {
+            "nom": "Accueil, communication, comptabilité ",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Management", "dureeMaximal": "35" },
+          { "nom": "Word, Excel", "dureeMaximal": "42" },
+          { "nom": "Secourisme, AFGSU, SSIAP ", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "7500", "dureeMaximal": "42" },
+          { "nbr": "10<x<50", "budget": "15000", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "100" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "959",
-        "libelle": "Convention collective nationale des laboratoires de biologie medicale extra-hospitaliers"
+        "libelle": "Convention collective nationale des laboratoires de biologie medicale extra-hospitaliers",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "992",
-        "libelle": "Convention collective nationale de la boucherie, boucherie-charcuterie et boucherie hippophagique, triperie, commerce de volailles et gibiers"
+        "libelle": "Convention collective nationale de la boucherie, boucherie-charcuterie et boucherie hippophagique, triperie, commerce de volailles et gibiers",
+        "themes": [
+          { "nom": "Stages techniques « Métier » ", "dureeMaximal": "14" },
+          {
+            "nom": "Hygiène et bonnes pratiques professionnelles ",
+            "dureeMaximal": "7"
+          },
+          { "nom": "Sécurité alimentaire ", "dureeMaximal": "14" },
+          {
+            "nom": "Création et reprise d’entreprise : 5 jours pour entreprendre ",
+            "dureeMaximal": "35"
+          },
+          {
+            "nom": "Perfectionnement à la fonction de formateur en boucherie ",
+            "dureeMaximal": "14"
+          },
+          {
+            "nom": "Formation de formateur spécifique dans le cadre du déploiement du CQP de la branche ",
+            "dureeMaximal": "14"
+          },
+          {
+            "nom": "Culture générale, langues étrangères ",
+            "dureeMaximal": "21"
+          },
+          {
+            "nom": "Titre MUM (Manager d’Unité Marchande), ",
+            "dureeMaximal": "Referentiel"
+          },
+          {
+            "nom": "Licence PRO Boucher manager ",
+            "dureeMaximal": "Referentiel"
+          },
+          {
+            "nom": "CQP Technicien boucher artisanal ",
+            "dureeMaximal": "Referentiel"
+          },
+          {
+            "nom": "CQP Charcutier Préparateur artisanal ",
+            "dureeMaximal": "Referentiel"
+          },
+          { "nom": "Comptabilité Gestion ", "dureeMaximal": "21" },
+          { "nom": "Formation « document unique » ", "dureeMaximal": "14" },
+          { "nom": "Management", "dureeMaximal": "21" },
+          { "nom": "Bureautique ", "dureeMaximal": "21" },
+          {
+            "nom": "Informatique, réseaux sociaux et internet ",
+            "dureeMaximal": "21"
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "7500", "dureeMaximal": "14" },
+          { "nbr": "10<x<50", "budget": "15000", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "993",
-        "libelle": "Convention collective nationale des prothesistes dentaires et des personnels des laboratoires de prothese dentaire"
+        "libelle": "Convention collective nationale des prothesistes dentaires et des personnels des laboratoires de prothese dentaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1000",
-        "libelle": "Convention collective nationale du personnel des cabinets d'avocats"
+        "libelle": "Convention collective nationale du personnel des cabinets d'avocats",
+        "themes": [
+          {
+            "nom": "Cycles formation juridiques (1er au 3eme cycles) ",
+            "dureeMaximal": "155,5"
+          },
+          { "nom": "RPVA", "dureeMaximal": "7" },
+          {
+            "nom": "Formations juridiques avocats/juristes",
+            "dureeMaximal": "28"
+          },
+          {
+            "nom": "Langues en lien avec l’activité du cabinet y compris les formations visant une certification (TOEIC, Voltaire ...)",
+            "dureeMaximal": "150"
+          },
+          { "nom": "Titre d’assistante juridique* ", "dureeMaximal": "218" },
+          { "nom": "Titre de secrétaire juridique**", "dureeMaximal": "166" },
+          { "nom": "Titre juriste ", "dureeMaximal": "525" },
+          { "nom": "Formations juridiques non-avocats ", "dureeMaximal": "21" },
+          {
+            "nom": "\"Formations transverses au cabinet personnel non- avocat ou avocats salariés Secrétariat / accueil   Bureautique   Comptabilité   Gestion   Logiciels professionnels... \"",
+            "dureeMaximal": "35"
+          },
+          { "nom": "Formations longues hors Pro-A ", "dureeMaximal": "600" },
+          {
+            "nom": "Formation Responsable qualité (certification ISO...) ",
+            "dureeMaximal": "70"
+          },
+          { "nom": "Démarche qualité sensibilisation ", "dureeMaximal": "21" },
+          { "nom": "Secourisme, AFGSU, SST, SSIAP ", "dureeMaximal": "21" },
+          {
+            "nom": "QVT / Prévention et gestion des risques psychosociaux ",
+            "dureeMaximal": "21"
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "15000", "dureeMaximal": "155,5" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "150" },
+          { "nbr": "", "budget": "", "dureeMaximal": "218" },
+          { "nbr": "", "budget": "", "dureeMaximal": "166" },
+          { "nbr": "", "budget": "", "dureeMaximal": "525" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "1043",
-        "libelle": "Convention collective nationale des gardiens, concierges et employes d'immeubles"
+        "libelle": "Convention collective nationale des gardiens, concierges et employes d'immeubles",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1147",
-        "libelle": "Convention collective du personnel des cabinets medicaux (medecin)"
+        "libelle": "Convention collective du personnel des cabinets medicaux (medecin)",
+        "themes": [
+          {
+            "nom": "Actualisation des connaissances cœur de métier ",
+            "dureeMaximal": "35"
+          },
+          {
+            "nom": "Actualisation des connaissances manipulateurs radio ",
+            "dureeMaximal": "35"
+          },
+          { "nom": "Gestion des risques infectieux ", "dureeMaximal": "14" },
+          { "nom": "Hypnose ", "dureeMaximal": "20" },
+          {
+            "nom": "Gestion des risques / santé et sécurité au travail ",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Diplômes universitaires", "dureeMaximal": "170" },
+          {
+            "nom": "Adaptation à l’emploi assistant médical (publics : Infirmiers, auxiliaires de puériculture, aides-soignants)",
+            "dureeMaximal": "112"
+          },
+          {
+            "nom": "CQP Assistant médical, y compris parcours modulaire suite à un redoublement (blocs de compétences) ",
+            "dureeMaximal": "384"
+          },
+          { "nom": "Référents RGPD ", "dureeMaximal": "35" },
+          {
+            "nom": "\"Accueil cabinet médical • Accueil Accueil et gestion des patients difficiles y compris public en situation de handicap   Accueil et gestion de la salle d’attente   Gestion des conflits \"",
+            "dureeMaximal": "28"
+          },
+          {
+            "nom": "\"Informatique • Bureautiques • Logiciels professionnels médecins • Sécurité informatique  \"",
+            "dureeMaximal": "21"
+          },
+          {
+            "nom": "Digitalisation des métiers de la branche : matériels connectés ",
+            "dureeMaximal": "14"
+          },
+          {
+            "nom": "\"Référent harcèlement Comprendre le mécanisme de la violence et être capable de détecter et d’orienter les femmes victimes de violences \"",
+            "dureeMaximal": "7"
+          },
+          { "nom": "Formations longues hors Pro-A ", "dureeMaximal": "600" },
+          { "nom": "Anglais ", "dureeMaximal": "30" },
+          { "nom": "Communication, comptabilité ", "dureeMaximal": "28" },
+          { "nom": "Management ", "dureeMaximal": "35" },
+          { "nom": "Formation Responsable qualité ", "dureeMaximal": "70" },
+          { "nom": "Démarche qualité sensibilisation ", "dureeMaximal": "21" },
+          { "nom": "Secourisme, AFGSU, SSIAP ", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "15000", "dureeMaximal": "35" },
+          { "nbr": "10<x<50", "budget": "30000", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "20" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "170" },
+          { "nbr": "", "budget": "", "dureeMaximal": "112" },
+          { "nbr": "", "budget": "", "dureeMaximal": "384" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "30" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "1267",
-        "libelle": "Convention collective nationale de la petisserie"
+        "libelle": "Convention collective nationale de la petisserie",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1286",
-        "libelle": "Convention collective nationale des detaillants, detaillants-fabricants et artisans de la confiserie, chocolaterie, biscuiterie"
+        "libelle": "Convention collective nationale des detaillants, detaillants-fabricants et artisans de la confiserie, chocolaterie, biscuiterie",
+        "themes": [
+          {
+            "nom": "Techniques de fabrication, préparation et de transformation - Label Qualité/innovation ",
+            "dureeMaximal": "42"
+          },
+          {
+            "nom": "Transport, Marchandise, Magasinage ",
+            "dureeMaximal": "21"
+          },
+          {
+            "nom": "Etiquetage - Traçabilité - Allergènes ",
+            "dureeMaximal": "14"
+          },
+          { "nom": "Hygiène, sécurité", "dureeMaximal": "14" },
+          {
+            "nom": "Techniques de vente - Décoration vitrine ",
+            "dureeMaximal": "42"
+          },
+          { "nom": "Formations longues hors Pro-A", "dureeMaximal": "600" },
+          { "nom": "Langues", "dureeMaximal": "100" },
+          {
+            "nom": "Management - Modules pilotage d'une entreprise (Gestion, RH, ...) ",
+            "dureeMaximal": "35"
+          },
+          {
+            "nom": "Informatique - Bureautique - comptabilité",
+            "dureeMaximal": "35"
+          },
+          {
+            "nom": "Communication - réseaux sociaux - Sites Web ",
+            "dureeMaximal": "14"
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "7500", "dureeMaximal": "42" },
+          { "nbr": "10<x<50", "budget": "15000", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "42" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "100" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" }
+        ]
       },
       {
         "idccNbr": "1404",
-        "libelle": "Convention collective nationale des entreprises de commerce, de location et de reparation de tracteurs, machines et materiels agricoles, de materiels de travaux publics, de betiment et de manutention, de materiels de motoculture de plaisance, de jardins et d'espaces verts (SEDIMA)"
+        "libelle": "Convention collective nationale des entreprises de commerce, de location et de reparation de tracteurs, machines et materiels agricoles, de materiels de travaux publics, de betiment et de manutention, de materiels de motoculture de plaisance, de jardins et d'espaces verts (SEDIMA)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1408",
-        "libelle": "Convention collective nationale des entreprises du negoce et de distribution de combustibles solides, liquides, gazeux et produits petroliers"
+        "libelle": "Convention collective nationale des entreprises du negoce et de distribution de combustibles solides, liquides, gazeux et produits petroliers",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1412",
-        "libelle": "Convention collective nationale des entreprises d'installation sans fabrication, y compris entretien, reparation, depannage de materiel aeraulique, thermique, frigorifique et connexes"
+        "libelle": "Convention collective nationale des entreprises d'installation sans fabrication, y compris entretien, reparation, depannage de materiel aeraulique, thermique, frigorifique et connexes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1483",
-        "libelle": "Convention collective nationale du commerce de detail de l'habillement et des articles textiles"
+        "libelle": "Convention collective nationale du commerce de detail de l'habillement et des articles textiles",
+        "themes": [
+          {
+            "nom": "\"Formations métier  Mise en place d'un service digital (incluant le numérique)  Communication et prospection active de nouveaux clients  Commerce/Vente/Marketing  Vente/Accueil  Développement de nouvelles activités \"",
+            "dureeMaximal": ""
+          },
+          {
+            "nom": "\"Formations métier  Réorganisation ou restructuration de nouvelles activités  Textile/Cuir peaux/Autres matériaux  Etalage/Merchandising  Gestion des stocks informatisée  Caisse enregistreuse informatisée  Conseil look client  Connaissance des produits  Langues \"",
+            "dureeMaximal": ""
+          },
+          {
+            "nom": "\"Formations transverses  Administratif/Secrétariat  Gestion/Comptabilité/Finance  Bureautique  Communication/Information  Informatique  Juridique  Management/Conseil/Audit  Ressources humaines \"",
+            "dureeMaximal": ""
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "15000", "dureeMaximal": "" },
+          { "nbr": "", "budget": "", "dureeMaximal": "" },
+          { "nbr": "", "budget": "", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1499",
-        "libelle": "Convention collective nationale de la miroiterie, de la transformation et du negoce du verre"
+        "libelle": "Convention collective nationale de la miroiterie, de la transformation et du negoce du verre",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1504",
-        "libelle": "Convention collective nationale de la poissonnerie (commerce de detail, de demi-gros et de gros de la poissonnerie)"
+        "libelle": "Convention collective nationale de la poissonnerie (commerce de detail, de demi-gros et de gros de la poissonnerie)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1512",
-        "libelle": "Convention collective nationale de la promotion immobiliere"
+        "libelle": "Convention collective nationale de la promotion immobiliere",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1527",
-        "libelle": "Convention collective nationale de l'immobilier"
+        "libelle": "Convention collective nationale de l'immobilier",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1589",
-        "libelle": "Convention collective nationale des mareyeurs-expediteurs"
+        "libelle": "Convention collective nationale des mareyeurs-expediteurs",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1605",
-        "libelle": "Convention collective nationale des entreprises de desinfection, desinsectisation, deratisation"
+        "libelle": "Convention collective nationale des entreprises de desinfection, desinsectisation, deratisation",
+        "themes": [
+          { "nom": "Techniques Métiers", "dureeMaximal": "" },
+          { "nom": "\"Formations transversales\"", "dureeMaximal": "" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "3000", "dureeMaximal": "" },
+          { "nbr": "10<x<50", "budget": "6000", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "1611",
-        "libelle": "Convention collective nationale des entreprises de logistique de communication ecrite directe"
+        "libelle": "Convention collective nationale des entreprises de logistique de communication ecrite directe",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1619",
-        "libelle": "Convention collective nationale des cabinets dentaires"
+        "libelle": "Convention collective nationale des cabinets dentaires",
+        "themes": [
+          { "nom": "Actualisation des connaissances ", "dureeMaximal": "28" },
+          {
+            "nom": "Approfondissement gestion du risque infectieux ",
+            "dureeMaximal": "21"
+          },
+          {
+            "nom": "MAJGRI FOAD (mise à jour- gestion risque infectieux) ",
+            "dureeMaximal": "7"
+          },
+          {
+            "nom": "MAJGRI PRESENTIEL (mise à jour- gestion risque infectieux) ",
+            "dureeMaximal": "7"
+          },
+          {
+            "nom": "CQP spécialisation prothésiste dentaire ",
+            "dureeMaximal": "189"
+          },
+          { "nom": "Module administratif ", "dureeMaximal": "100" },
+          { "nom": "Module ODF ", "dureeMaximal": "100" },
+          {
+            "nom": "Module stérilisation et redoublement assistante dentaire (en présentiel)",
+            "dureeMaximal": "150"
+          },
+          {
+            "nom": "Accueil et gestion des patients difficiles",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Logiciels professionnels", "dureeMaximal": "21" },
+          { "nom": "Formations longues hors Pro-A", "dureeMaximal": "600" },
+          {
+            "nom": "Accueil, communication, comptabilité",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Management", "dureeMaximal": "35" },
+          { "nom": "Formation Responsable qualité", "dureeMaximal": "70" },
+          { "nom": "Démarche qualité sensibilisation", "dureeMaximal": "21" },
+          { "nom": "Secourisme, AFGSU, SSIAP", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "7500", "dureeMaximal": "28" },
+          { "nbr": "10<x<50", "budget": "15000", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "189" },
+          { "nbr": "", "budget": "", "dureeMaximal": "100" },
+          { "nbr": "", "budget": "", "dureeMaximal": "100" },
+          { "nbr": "", "budget": "", "dureeMaximal": "150" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "1621",
-        "libelle": "Convention collective nationale de la repartition pharmaceutique"
+        "libelle": "Convention collective nationale de la repartition pharmaceutique",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1850",
-        "libelle": "Convention collective de l'avocat salarie"
+        "libelle": "Convention collective de l'avocat salarie",
+        "themes": [
+          {
+            "nom": "Cycles formation juridiques (1er au 3eme cycles) ",
+            "dureeMaximal": "155,5"
+          },
+          { "nom": "RPVA", "dureeMaximal": "7" },
+          {
+            "nom": "Formations juridiques avocats/juristes",
+            "dureeMaximal": "28"
+          },
+          {
+            "nom": "Langues en lien avec l’activité du cabinet y compris les formations visant une certification (TOEIC, Voltaire ...)",
+            "dureeMaximal": "150"
+          },
+          { "nom": "Titre d’assistante juridique* ", "dureeMaximal": "218" },
+          { "nom": "Titre de secrétaire juridique**", "dureeMaximal": "166" },
+          { "nom": "Titre juriste ", "dureeMaximal": "525" },
+          { "nom": "Formations juridiques non-avocats ", "dureeMaximal": "21" },
+          {
+            "nom": "\"Formations transverses au cabinet personnel non- avocat ou avocats salariés Secrétariat / accueil   Bureautique   Comptabilité   Gestion   Logiciels professionnels... \"",
+            "dureeMaximal": "35"
+          },
+          { "nom": "Formations longues hors Pro-A ", "dureeMaximal": "600" },
+          {
+            "nom": "Formation Responsable qualité (certification ISO...) ",
+            "dureeMaximal": "70"
+          },
+          { "nom": "Démarche qualité sensibilisation ", "dureeMaximal": "21" },
+          { "nom": "Secourisme, AFGSU, SST, SSIAP ", "dureeMaximal": "21" },
+          {
+            "nom": "QVT / Prévention et gestion des risques psychosociaux ",
+            "dureeMaximal": "21"
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "15000", "dureeMaximal": "155,5" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "150" },
+          { "nbr": "", "budget": "", "dureeMaximal": "218" },
+          { "nbr": "", "budget": "", "dureeMaximal": "166" },
+          { "nbr": "", "budget": "", "dureeMaximal": "525" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "1875",
-        "libelle": "Convention collective nationale des cabinets et cliniques veterinaires : personnel salarie"
+        "libelle": "Convention collective nationale des cabinets et cliniques veterinaires : personnel salarie",
+        "themes": [
+          {
+            "nom": "Actualisation des connaissances cœur de métier vétérinaires salariés et auxiliaires vétérinaires ",
+            "dureeMaximal": "35"
+          },
+          {
+            "nom": "Modules de formation Développement des compétences (DC) cœur de métier issus des parcours CQP et hors parcours pour les auxiliaires et les vétérinaires modules des parcours CQP ",
+            "dureeMaximal": "70"
+          },
+          { "nom": "Atelier pratique ", "dureeMaximal": "7" },
+          { "nom": "Accompagnement CQP cœur de métier ", "dureeMaximal": "50" },
+          {
+            "nom": "\"Formations transverses : • Administratifs/Secrétariat Bureautique/informatique/logiciels  professionnels  Communication  Comptabilité/Gestion/   Ressources Humaines   Management   Hygiène   Qualité/ environnement   Accueil \"",
+            "dureeMaximal": "14"
+          },
+          { "nom": "Anglais professionnel ", "dureeMaximal": "50" },
+          {
+            "nom": "Formations longues hors Pro-A (y compris CES, CEAV, DE) ",
+            "dureeMaximal": "600"
+          },
+          { "nom": "Secourisme, AFGSU, SSIAP ", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "7500", "dureeMaximal": "35" },
+          { "nbr": "10<x<50", "budget": "15000", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "50" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "50" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "1921",
-        "libelle": "Convention collective nationale des huissiers de justice"
+        "libelle": "Convention collective nationale des huissiers de justice",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1951",
-        "libelle": "Convention collective nationale des cabinets ou entreprises d'expertises en automobile"
+        "libelle": "Convention collective nationale des cabinets ou entreprises d'expertises en automobile",
+        "themes": [
+          { "nom": "Formations cœur de métier", "dureeMaximal": "35" },
+          { "nom": "Véhicules endommagés ", "dureeMaximal": "7" },
+          { "nom": "Unité C expert en automobile ", "dureeMaximal": "170" },
+          {
+            "nom": "Accueil, communication, comptabilité ",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Management ", "dureeMaximal": "35" },
+          { "nom": "Formation Responsable qualité ", "dureeMaximal": "70" },
+          { "nom": "Démarche qualité sensibilisation ", "dureeMaximal": "21" },
+          { "nom": "Secourisme, AFGSU, SSIAP ", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "15000", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "170" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "1978",
-        "libelle": "Convention collective nationale des fleuristes, de la vente et des services des animaux familiers"
+        "libelle": "Convention collective nationale des fleuristes, de la vente et des services des animaux familiers",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1982",
-        "libelle": "Convention collective nationale du negoce et prestations de services dans les domaines medico-techniques"
+        "libelle": "Convention collective nationale du negoce et prestations de services dans les domaines medico-techniques",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1996",
-        "libelle": "Convention collective nationale de la pharmacie d'officine"
+        "libelle": "Convention collective nationale de la pharmacie d'officine",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2098",
-        "libelle": "Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire"
+        "libelle": "Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2111",
-        "libelle": "Convention collective nationale des salaries du particulier employeur"
+        "libelle": "Convention collective nationale des salaries du particulier employeur",
+        "themes": [],
+        "nombreSalariee": []
       },
-      { "idccNbr": "2205", "libelle": "Convention collective du notariat" },
+      {
+        "idccNbr": "2205",
+        "libelle": "Convention collective du notariat",
+        "themes": [],
+        "nombreSalariee": []
+      },
       {
         "idccNbr": "2219",
-        "libelle": "Convention collective des taxis - 4932Z"
+        "libelle": "Convention collective des taxis - 4932Z",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2272",
-        "libelle": "Convention collective nationale de l'assainissement et de la maintenance industrielle"
+        "libelle": "Convention collective nationale de l'assainissement et de la maintenance industrielle",
+        "themes": [
+          {
+            "nom": "\"Les formations métiers prioritaires CATEC, RISQUE AMIANTE, SST CERTIFICATEUR SAUVETEUR SECOURISTE DU TRAVAIL + RECYCLAGE \"",
+            "dureeMaximal": "Referentiel"
+          },
+          {
+            "nom": "\"Les formations métiers techniques professionnelles liées QUALITE / HYGIENE / SECURITE / ENVIRONNEMENT (QHSE), SECURITE DES BIENS ET DES PERSONNES, POLICE, SURVEILLANCE, LOGISTIQUE / TRANSPORT / MANUTENTION \"",
+            "dureeMaximal": "Referentiel"
+          },
+          {
+            "nom": "\"Actions individuelles formations transverses MANAGEMENT, CONSEIL, AUDIT, COMPTABILITE, GESTION, FINANCE, RH, BUREAUTIQUE, INFORMATIQUE, LOGICIELS SPECIFIQUES METIERS, COMMERCE, VENTE, MARKETING ETC.. \"",
+            "dureeMaximal": "Referentiel"
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<50", "budget": "15000", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" },
+          { "nbr": "", "budget": "", "dureeMaximal": "Referentiel" }
+        ]
       },
       {
         "idccNbr": "2329",
-        "libelle": "Accord professionnel national de travail entre les avocats au Conseil d'Etat et e la Cour de Cassation et leur personnel salarie -non avocat-"
+        "libelle": "Accord professionnel national de travail entre les avocats au Conseil d'Etat et e la Cour de Cassation et leur personnel salarie -non avocat-",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2332",
-        "libelle": "Convention nationale des entreprises d'architecture"
+        "libelle": "Convention nationale des entreprises d'architecture",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2395",
-        "libelle": "Convention collective nationale de travail des assistants maternels du particulier employeur"
+        "libelle": "Convention collective nationale de travail des assistants maternels du particulier employeur",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2564",
-        "libelle": "Convention collective nationale des veterinaires praticiens salaries"
+        "libelle": "Convention collective nationale des veterinaires praticiens salaries",
+        "themes": [
+          {
+            "nom": "Actualisation des connaissances cœur de métier vétérinaires salariés et auxiliaires vétérinaires ",
+            "dureeMaximal": "35"
+          },
+          {
+            "nom": "Modules de formation Développement des compétences (DC) cœur de métier issus des parcours CQP et hors parcours pour les auxiliaires et les vétérinaires modules des parcours CQP ",
+            "dureeMaximal": "70"
+          },
+          { "nom": "Atelier pratique ", "dureeMaximal": "7" },
+          { "nom": "Accompagnement CQP cœur de métier ", "dureeMaximal": "50" },
+          {
+            "nom": "\"Formations transverses : • Administratifs/Secrétariat Bureautique/informatique/logiciels  professionnels   Communication   Comptabilité/Gestion/   Ressources Humaines   Management   Hygiène   Qualité/ environnement   Accueil \"",
+            "dureeMaximal": "14"
+          },
+          { "nom": "Anglais professionnel ", "dureeMaximal": "50" },
+          {
+            "nom": "Formations longues hors Pro-A (y compris CES, CEAV, DE) ",
+            "dureeMaximal": "600"
+          },
+          { "nom": "Secourisme, AFGSU, SSIAP ", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "7500", "dureeMaximal": "35" },
+          { "nbr": "10<x<50", "budget": "15000", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "7" },
+          { "nbr": "", "budget": "", "dureeMaximal": "50" },
+          { "nbr": "", "budget": "", "dureeMaximal": "14" },
+          { "nbr": "", "budget": "", "dureeMaximal": "50" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "2596",
-        "libelle": "Convention collective nationale de la coiffure et des professions connexes"
+        "libelle": "Convention collective nationale de la coiffure et des professions connexes",
+        "themes": [
+          {
+            "nom": "\"COIFFURE • Coupe/ coiffage/coiffure • Extensions et prothèses capillaires • Coloration / Formes • Barbier • Soins capillaires • Visagisme / Morphologie \"",
+            "dureeMaximal": ""
+          },
+          {
+            "nom": "\"TRANSVERSE • Langue Management / RH   Accueil, vente, marketing, communication   Conseil en image   Informatique, bureautique, gestion, comptabilité   Connaissance des outils numériques  (création web, gestion internet,...)   Ergonomie, hygiène et sécurité au travail   Qualité/ environnement  \"",
+            "dureeMaximal": ""
+          },
+          {
+            "nom": "\"ESTHETIQUE • Manucurie /onglerie • Maquillage • Massages • Soins du visage \"",
+            "dureeMaximal": ""
+          }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<3", "budget": "2100", "dureeMaximal": "" },
+          { "nbr": "3<x<7", "budget": "6300", "dureeMaximal": "" },
+          { "nbr": "7<x<11", "budget": "10500", "dureeMaximal": "" }
+        ]
       },
       {
         "idccNbr": "2697",
-        "libelle": "Convention collective nationale des personnels des structures associatives cynegetiques"
+        "libelle": "Convention collective nationale des personnels des structures associatives cynegetiques",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2706",
-        "libelle": "Convention collective nationale du personnel des administrateurs et des mandataires judiciaires"
+        "libelle": "Convention collective nationale du personnel des administrateurs et des mandataires judiciaires",
+        "themes": [
+          {
+            "nom": "\"Formations juridiques avocats / mandataires (liste en annexe)\"",
+            "dureeMaximal": "28"
+          },
+          {
+            "nom": "\"Formations stages professionnels mandataires\"",
+            "dureeMaximal": "63"
+          },
+          {
+            "nom": "\"Gestionnaire social en procédures collectives\"",
+            "dureeMaximal": "172"
+          },
+          { "nom": "RPVA", "dureeMaximal": "4" },
+          { "nom": "Formations longues hors Pro-A", "dureeMaximal": "600" },
+          {
+            "nom": "\"Accueil, communication, comptabilité\"",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Management", "dureeMaximal": "35" },
+          { "nom": "Formation Responsable qualité", "dureeMaximal": "70" },
+          {
+            "nom": "\"Démarche qualité sensibilisation\"",
+            "dureeMaximal": "21"
+          },
+          { "nom": "\"Logiciels professionnels\"", "dureeMaximal": "21" },
+          { "nom": "\"Secourisme, AFGSU, SSIAP\"", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "10000", "dureeMaximal": "28" },
+          { "nbr": "10<x<50", "budget": "20000", "dureeMaximal": "63" },
+          { "nbr": "", "budget": "", "dureeMaximal": "172" },
+          { "nbr": "", "budget": "", "dureeMaximal": "4" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "2785",
-        "libelle": "Convention collective nationale des societes de ventes volontaires de meubles aux encheres publiques et des offices de commissaires-priseurs judiciaires"
+        "libelle": "Convention collective nationale des societes de ventes volontaires de meubles aux encheres publiques et des offices de commissaires-priseurs judiciaires",
+        "themes": [
+          { "nom": "Actualisation des connaissances", "dureeMaximal": "35" },
+          { "nom": "Commissaire de justice (2 ans)", "dureeMaximal": "642" },
+          {
+            "nom": "Passerelle Commissaire-priseur volontaire / Commissaire de Justice",
+            "dureeMaximal": "600"
+          },
+          {
+            "nom": "Formations conseil des ventes volontaires",
+            "dureeMaximal": "175"
+          },
+          {
+            "nom": "Formations longues hors Pro-A Accueil, communication, comptabilité Management",
+            "dureeMaximal": "600"
+          },
+          {
+            "nom": "Accueil, communication, comptabilité",
+            "dureeMaximal": "28"
+          },
+          { "nom": "Management", "dureeMaximal": "35" },
+          { "nom": "Formation Responsable qualité ", "dureeMaximal": "70" },
+          { "nom": "Démarche qualité sensibilisation", "dureeMaximal": "21" },
+          { "nom": "Secourisme, AFGSU, SSIAP", "dureeMaximal": "21" }
+        ],
+        "nombreSalariee": [
+          { "nbr": "0<x<11", "budget": "10000", "dureeMaximal": "35" },
+          { "nbr": "11<x<50", "budget": "20000", "dureeMaximal": "642" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "175" },
+          { "nbr": "", "budget": "", "dureeMaximal": "600" },
+          { "nbr": "", "budget": "", "dureeMaximal": "28" },
+          { "nbr": "", "budget": "", "dureeMaximal": "35" },
+          { "nbr": "", "budget": "", "dureeMaximal": "70" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" },
+          { "nbr": "", "budget": "", "dureeMaximal": "21" }
+        ]
       },
       {
         "idccNbr": "2978",
-        "libelle": "Convention collective nationale du personnel salarie des agences de recherches privees"
+        "libelle": "Convention collective nationale du personnel salarie des agences de recherches privees",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3013",
-        "libelle": "Convention collective nationale de la librairie"
+        "libelle": "Convention collective nationale de la librairie",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3032",
-        "libelle": "Convention collective nationale de l'esthetique - cosmetique et de l'enseignement technique et professionnel lies aux metiers de l'esthetique et de la parfumerie"
+        "libelle": "Convention collective nationale de l'esthetique - cosmetique et de l'enseignement technique et professionnel lies aux metiers de l'esthetique et de la parfumerie",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3127",
-        "libelle": "Convention collective nationale des entreprises de services e la personne du 20 septembre 2012"
+        "libelle": "Convention collective nationale des entreprises de services e la personne du 20 septembre 2012",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   },
@@ -1139,115 +2467,171 @@
     "idcc": [
       {
         "idccNbr": "218",
-        "libelle": "Convention collective nationale des organismes de securite sociale"
+        "libelle": "Convention collective nationale des organismes de securite sociale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1031",
-        "libelle": "Convention collective nationale de la federation nationale des associations familiales rurales (FNAFR)"
+        "libelle": "Convention collective nationale de la federation nationale des associations familiales rurales (FNAFR)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1261",
-        "libelle": "Convention collective nationale des acteurs du lien social et familial : centres sociaux et socioculturels, associations d'accueil de jeunes enfants, associations de developpement social local (SNAECSO)"
+        "libelle": "Convention collective nationale des acteurs du lien social et familial : centres sociaux et socioculturels, associations d'accueil de jeunes enfants, associations de developpement social local (SNAECSO)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1278",
-        "libelle": "Convention collective nationale des personnels PACT et ARIM (centres pour la protection l'amelioration et la conservation de l'habitat et associations pour la restauration immobiliere)"
+        "libelle": "Convention collective nationale des personnels PACT et ARIM (centres pour la protection l'amelioration et la conservation de l'habitat et associations pour la restauration immobiliere)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1316",
-        "libelle": "Convention collective nationale des organismes de tourisme social et familial"
+        "libelle": "Convention collective nationale des organismes de tourisme social et familial",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1420",
-        "libelle": "Convention collective nationale du travail du personnel des organismes crees pour l'application de la convention du 31 decembre 1958 UNEDIC ASSEDIC"
+        "libelle": "Convention collective nationale du travail du personnel des organismes crees pour l'application de la convention du 31 decembre 1958 UNEDIC ASSEDIC",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1518",
-        "libelle": "Convention collective nationale de l'animation"
+        "libelle": "Convention collective nationale de l'animation",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1588",
-        "libelle": "Convention collective du personnel des societes cooperatives d'HLM"
+        "libelle": "Convention collective du personnel des societes cooperatives d'HLM",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1794",
-        "libelle": "Convention collective nationale du personnel des institutions de retraites complementaires"
+        "libelle": "Convention collective nationale du personnel des institutions de retraites complementaires",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2128",
-        "libelle": "Convention collective nationale de la mutualite"
+        "libelle": "Convention collective nationale de la mutualite",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2150",
-        "libelle": "Convention collective nationale des personnels des societes anonymes et fondations d'HLM"
+        "libelle": "Convention collective nationale des personnels des societes anonymes et fondations d'HLM",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2190",
-        "libelle": "Convention collective nationale des missions locales et PAIO des maisons de l'emploi et PLIE"
+        "libelle": "Convention collective nationale des missions locales et PAIO des maisons de l'emploi et PLIE",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2336",
-        "libelle": "Convention collective nationale des organismes gestionnaires de foyers et services pour jeunes travailleurs"
+        "libelle": "Convention collective nationale des organismes gestionnaires de foyers et services pour jeunes travailleurs",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2526",
-        "libelle": "Convention collective nationale des organisations professionnelles de l'habitat social"
+        "libelle": "Convention collective nationale des organisations professionnelles de l'habitat social",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2603",
-        "libelle": "Convention collective nationale de travail des praticiens conseils du regime general de securite sociale"
+        "libelle": "Convention collective nationale de travail des praticiens conseils du regime general de securite sociale",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2666",
-        "libelle": "Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement"
+        "libelle": "Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2668",
-        "libelle": "Convention collective nationale de travail des cadres superieurs des societes de secours minieres et de leurs etablissements, des unions regionales et des assistants sociaux regionaux"
+        "libelle": "Convention collective nationale de travail des cadres superieurs des societes de secours minieres et de leurs etablissements, des unions regionales et des assistants sociaux regionaux",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2727",
-        "libelle": "Convention collective nationale des omnipraticiens exereant dans les centres de sante miniers"
+        "libelle": "Convention collective nationale des omnipraticiens exereant dans les centres de sante miniers",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2768",
-        "libelle": "Convention collective national de travail des pharmaciens du regime minier"
+        "libelle": "Convention collective national de travail des pharmaciens du regime minier",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2793",
-        "libelle": "Convention collective de travail du 25 juin 1968 des agents de direction et des agents-comptables des organismes de securite sociale et d'allocations familiales"
+        "libelle": "Convention collective de travail du 25 juin 1968 des agents de direction et des agents-comptables des organismes de securite sociale et d'allocations familiales",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2796",
-        "libelle": "Convention collective du personnel de direction du regime social des independants, ses annexes et son accord d'application"
+        "libelle": "Convention collective du personnel de direction du regime social des independants, ses annexes et son accord d'application",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2797",
-        "libelle": "Convention collective nationale speciale de travail des praticiens conseils du regime social des independants et son annexe 1 relative e l'ARTT"
+        "libelle": "Convention collective nationale speciale de travail des praticiens conseils du regime social des independants et son annexe 1 relative e l'ARTT",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2798",
-        "libelle": "Convention collective des employes et cadres du regime social des independants, ses annexes 1 e 6 et son accord d'application"
+        "libelle": "Convention collective des employes et cadres du regime social des independants, ses annexes 1 e 6 et son accord d'application",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2847",
-        "libelle": "Convention collective nationale de Pele Emploi"
+        "libelle": "Convention collective nationale de Pele Emploi",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2941",
-        "libelle": "Convention collective de la branche de l'aide, de l'accompagnement, des soins et des services e domicile"
+        "libelle": "Convention collective de la branche de l'aide, de l'accompagnement, des soins et des services e domicile",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3016",
-        "libelle": "Convention collective des ateliers chantiers d'insertion"
+        "libelle": "Convention collective des ateliers chantiers d'insertion",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3105",
-        "libelle": "Convention collective nationale des regies de quartier"
+        "libelle": "Convention collective nationale des regies de quartier",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3220",
-        "libelle": "Convention collective nationale des offices publics de l'habitat"
+        "libelle": "Convention collective nationale des offices publics de l'habitat",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   },
@@ -1256,78 +2640,124 @@
     "idcc": [
       {
         "idccNbr": "438",
-        "libelle": "Convention collective nationale de travail des echelons intermediaires des services exterieurs de production des societes d'assurances"
+        "libelle": "Convention collective nationale de travail des echelons intermediaires des services exterieurs de production des societes d'assurances",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "478",
-        "libelle": "Convention collective nationale des societes financieres"
+        "libelle": "Convention collective nationale des societes financieres",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "653",
-        "libelle": "Convention collective de travail des producteurs salaries de base des services exterieurs de production des societes d'assurances"
+        "libelle": "Convention collective de travail des producteurs salaries de base des services exterieurs de production des societes d'assurances",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "787",
-        "libelle": "Convention collective nationale des cabinets d'experts-comptables et de commissaires aux comptes"
+        "libelle": "Convention collective nationale des cabinets d'experts-comptables et de commissaires aux comptes",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1468",
-        "libelle": "Convention collective de branche du Credit mutuel"
+        "libelle": "Convention collective de branche du Credit mutuel",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1486",
-        "libelle": "Convention collective nationale applicable au personnel des bureaux d'etudes techniques, des cabinets d'ingenieurs-conseils et des societes de conseils (BET, SYNTEC)"
+        "libelle": "Convention collective nationale applicable au personnel des bureaux d'etudes techniques, des cabinets d'ingenieurs-conseils et des societes de conseils (BET, SYNTEC)",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1672",
-        "libelle": "Convention collective nationale des societes d'assurances"
+        "libelle": "Convention collective nationale des societes d'assurances",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1679",
-        "libelle": "Convention collective nationale de l'inspection d'assurance"
+        "libelle": "Convention collective nationale de l'inspection d'assurance",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1801",
-        "libelle": "Convention collective nationale des societes d'assistance"
+        "libelle": "Convention collective nationale des societes d'assistance",
+        "themes": [],
+        "nombreSalariee": []
       },
-      { "idccNbr": "2120", "libelle": "Convention collective de la banque" },
+      {
+        "idccNbr": "2120",
+        "libelle": "Convention collective de la banque",
+        "themes": [],
+        "nombreSalariee": []
+      },
       {
         "idccNbr": "2230",
-        "libelle": "Convention collective des associations agreees de surveillance de la qualite de l'air "
+        "libelle": "Convention collective des associations agreees de surveillance de la qualite de l'air ",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2247",
-        "libelle": "Convention collective des entreprises de courtage d'assurances et/ou de reassurances"
+        "libelle": "Convention collective des entreprises de courtage d'assurances et/ou de reassurances",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2335",
-        "libelle": "Convention collective nationale du personnel des agences generales d'assurances"
+        "libelle": "Convention collective nationale du personnel des agences generales d'assurances",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2357",
-        "libelle": "Accord du 3 mars 1993 relatif aux cadres de direction des societes d'assurances"
+        "libelle": "Accord du 3 mars 1993 relatif aux cadres de direction des societes d'assurances",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2543",
-        "libelle": "Convention collective nationale des cabinets ou entreprises de geometres experts, geometres topographes photogrammetres, experts-fonciers"
+        "libelle": "Convention collective nationale des cabinets ou entreprises de geometres experts, geometres topographes photogrammetres, experts-fonciers",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2622",
-        "libelle": "Convention collective du credit maritime mutuel"
+        "libelle": "Convention collective du credit maritime mutuel",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2931",
-        "libelle": "Convention collective nationale des activites de marches financiers"
+        "libelle": "Convention collective nationale des activites de marches financiers",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3210",
-        "libelle": "Convention collective de la banque populaire"
+        "libelle": "Convention collective de la banque populaire",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3213",
-        "libelle": "Convention collective nationale des collaborateurs salaries des entreprises d'economistes de la construction et des metreurs-verificateurs"
+        "libelle": "Convention collective nationale des collaborateurs salaries des entreprises d'economistes de la construction et des metreurs-verificateurs",
+        "themes": [],
+        "nombreSalariee": []
       },
-      { "idccNbr": "5005", "libelle": "Branche des caisses d'epargne " }
+      {
+        "idccNbr": "5005",
+        "libelle": "Branche des caisses d'epargne ",
+        "themes": [],
+        "nombreSalariee": []
+      }
     ]
   },
   {
@@ -1335,39 +2765,57 @@
     "idcc": [
       {
         "idccNbr": "1596",
-        "libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment visees par le decret du 1er mars 1962"
+        "libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment visees par le decret du 1er mars 1962",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1597",
-        "libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment non visees par le decret 1er mars 1962"
+        "libelle": "Convention collective nationale concernant les ouvriers employes par les entreprises du betiment non visees par le decret 1er mars 1962",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1702",
-        "libelle": "Convention collective nationale des ouvriers de travaux publics"
+        "libelle": "Convention collective nationale des ouvriers de travaux publics",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "1947",
-        "libelle": "Convention collective nationale du negoce de bois d'euvre et produits derives"
+        "libelle": "Convention collective nationale du negoce de bois d'euvre et produits derives",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2420",
-        "libelle": "Convention collective nationale des cadres du betiment du 1er juin 2004"
+        "libelle": "Convention collective nationale des cadres du betiment du 1er juin 2004",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2609",
-        "libelle": "Convention collective nationale des employes, techniciens et agents de maetrise du betiment"
+        "libelle": "Convention collective nationale des employes, techniciens et agents de maetrise du betiment",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "2614",
-        "libelle": "Convention collective nationale des employes, techniciens et agents de maetrise des travaux publics"
+        "libelle": "Convention collective nationale des employes, techniciens et agents de maetrise des travaux publics",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3212",
-        "libelle": "Convention collective nationale des cadres des travaux publics"
+        "libelle": "Convention collective nationale des cadres des travaux publics",
+        "themes": [],
+        "nombreSalariee": []
       },
       {
         "idccNbr": "3216",
-        "libelle": "Convention collective nationale des salaries du negoce des materiaux de construction"
+        "libelle": "Convention collective nationale des salaries du negoce des materiaux de construction",
+        "themes": [],
+        "nombreSalariee": []
       }
     ]
   }

@@ -17,4 +17,20 @@ const getAllOpcos = async (req, res, next) => {
   }
 };
 
-export { getAllOpcos };
+const createOpco = async (req, res, next) => {
+  try {
+    const opcos = await Opco.create(req.body);
+
+    res.status(202).json({
+      status: 'success',
+      data: { opcos },
+    });
+  } catch (err) {
+    res.status(404).json({
+      status: 'error',
+      message: err,
+    });
+  }
+};
+
+export { getAllOpcos, createOpco };

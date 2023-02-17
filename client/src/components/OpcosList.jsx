@@ -48,7 +48,7 @@ const OpcosList = () => {
   return (
     <OpcosListContainer>
       {activeTable ? (
-        <AdminTable />
+        <AdminTable idcc={listOpcos[0].idcc} />
       ) : (
         listOpcos.map((opco) => (
           <OpcoItem

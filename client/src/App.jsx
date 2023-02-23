@@ -1,5 +1,7 @@
+// import axios from 'axios';
 import { Routes, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
+import { isMobile, isTablet, isBrowser } from 'react-device-detect';
 
 import { Admin } from './pages';
 
@@ -15,6 +17,7 @@ import {
 import { Header } from './components';
 import { useState } from 'react';
 import { useEffect } from 'react';
+import axios from 'axios';
 
 const App = () => {
   window.scrollTo(0, 0);
@@ -29,6 +32,23 @@ const App = () => {
     objectifs: [],
     chapitres: [],
   });
+
+  useEffect(() => {
+    const takeClientData = async () => {
+      const browser = isBrowser ? `${navigator.userAgent}` : 'Unknown';
+      const device = isMobile ? 'Mobile' : isTablet ? 'Tablet' : 'Desktop';
+
+      await axios.post(
+        `https://nk-formation-france-v2.onrender.com/api/v1/visits`,
+        {
+          ip: browser,
+          country: device,
+        }
+      );
+    };
+
+    takeClientData();
+  }, []);
 
   useEffect(() => {
     formationSelected._id && navigate('/detail-foramtion');

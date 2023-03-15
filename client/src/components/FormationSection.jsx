@@ -3,6 +3,7 @@ import axios from 'axios';
 import styled from 'styled-components';
 
 import { ListFormations } from './';
+import apiURL from '../utils/apiURL';
 
 const FormationSectionContainer = styled.div`
   .container {
@@ -34,9 +35,7 @@ const FormationSection = ({ onChangeselectedFormation }) => {
     const fetchFormations = async () => {
       const {
         data: { data },
-      } = await axios.get(
-        'https://nk-formation-france-v2.onrender.com/api/v1/formations'
-      );
+      } = await axios.get(`${apiURL}/formations`);
 
       setFormations(data.formations);
     };

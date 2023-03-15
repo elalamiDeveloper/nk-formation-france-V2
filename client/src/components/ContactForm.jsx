@@ -3,6 +3,7 @@ import axios from 'axios';
 import styled from 'styled-components';
 
 import { InputItem } from './';
+import apiURL from '../utils/apiURL';
 
 const ContactFormContainer = styled.form`
   padding: 5rem;
@@ -103,10 +104,7 @@ const ContactForm = () => {
 
   const onSubmitHandler = async (e) => {
     e.preventDefault();
-    await axios.post(
-      'https://nk-formation-france-v2.onrender.com/api/v1/contacts',
-      inputFields
-    );
+    await axios.post(`${apiURL}/contacts`, inputFields);
 
     setInputFields({
       prenom: '',

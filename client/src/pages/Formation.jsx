@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { Zoom } from 'react-awesome-reveal';
 
 import { ListFormations, ContactBar, Footer } from '../components';
+import apiURL from '../utils/apiURL';
 
 const FormationContainer = styled.div`
   background: #f0e6d1;
@@ -57,9 +58,7 @@ const Formation = ({ onChangeselectedFormation }) => {
     const fetchFormations = async () => {
       const {
         data: { data },
-      } = await axios.get(
-        'https://nk-formation-france-v2.onrender.com/api/v1/formations'
-      );
+      } = await axios.get(`${apiURL}/formations`);
 
       setFormations(data.formations);
     };

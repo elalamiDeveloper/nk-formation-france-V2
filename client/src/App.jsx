@@ -1,4 +1,4 @@
-// import axios from 'axios';
+import axios from 'axios';
 import { Routes, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import { isMobile, isTablet, isBrowser } from 'react-device-detect';
@@ -17,7 +17,7 @@ import {
 import { Header } from './components';
 import { useState } from 'react';
 import { useEffect } from 'react';
-import axios from 'axios';
+import apiURL from './utils/apiURL';
 
 const App = () => {
   window.scrollTo(0, 0);
@@ -38,13 +38,10 @@ const App = () => {
       const browser = isBrowser ? `${navigator.userAgent}` : 'Unknown';
       const device = isMobile ? 'Mobile' : isTablet ? 'Tablet' : 'Desktop';
 
-      await axios.post(
-        `https://nk-formation-france-v2.onrender.com/api/v1/visits`,
-        {
-          ip: browser,
-          country: device,
-        }
-      );
+      await axios.post(`${apiURL}/visits`, {
+        ip: browser,
+        country: device,
+      });
     };
 
     takeClientData();
